@@ -1,0 +1,30 @@
+name: Daily Script Execution
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up R and Tidyverse
+      uses: rocker-org/rocker-action@v2.2.0
+      with:
+        r-version: "4.1.2"
+        rocker-version: "4.1.2"
+        tidyverse: "true"
+
+    - name: Execute script and push results
+      run: |
+        Rscript my_script.R
+        git config --global user.name "Your Name"
+        git config --global user.email "your-email@example.com"
+        git add .
+        git commit -m "Update results"
+        git push
