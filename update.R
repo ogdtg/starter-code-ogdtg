@@ -1,4 +1,8 @@
 print(getwd())
+file.exists(paste0(getwd(),"/pattern/pattern.ipynb"))
+file.exists("pattern/pattern.ipynb")
+list.files()
+
 library(stringr)
 #library(tgAPI)
 library(dplyr)
