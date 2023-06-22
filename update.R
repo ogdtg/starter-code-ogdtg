@@ -7,7 +7,6 @@ library(jsonlite)
 
 res <- httr::GET("https://data.tg.ch/api/explore/v2.0/catalog/exports/json") 
 catalog <- jsonlite::fromJSON(rawToChar(res$content), flatten = TRUE)
-head(catalog)
 
 catalog_mod <- catalog %>%
   filter(str_detect(dataset_id,"^[a-z]+-[a-z]+-\\d+$"))
