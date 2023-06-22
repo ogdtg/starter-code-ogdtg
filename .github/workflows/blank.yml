@@ -26,6 +26,7 @@ jobs:
         Rscript update.R
         git config --global user.name "ogdtg"
         git config --global user.email "ogd@tg.ch"
+        git config --global --add safe.directory /__w/starter-code-ogdtg/starter-code-ogdtg
         git add .
         git commit -m "Update results"
         git push
