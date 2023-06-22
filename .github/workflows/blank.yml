@@ -8,17 +8,18 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    container: rocker/tidyverse:4.1.2
 
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
 
-    - name: Set up R and Tidyverse
-      uses: rocker-org/rocker-action@v2.2.0
-      with:
-        r-version: "4.1.2"
-        rocker-version: "4.1.2"
-        tidyverse: "true"
+   # - name: Set up R and Tidyverse
+    #  uses: rocker-org/rocker-action@v2.2.0
+     # with:
+      #  r-version: "4.1.2"
+       # rocker-version: "4.1.2"
+        #tidyverse: "true"
 
     - name: Execute script and push results
       run: |
