@@ -5,15 +5,16 @@ library(dplyr)
 library(httr)
 library(jsonlite)
 
-catalog <- httr::GET("https://data.tg.ch/api/explore/v2.0/catalog/exports/json") 
-catalog <- catalog$content %>% rawToChar() %>& jsonlite::fromJSON() 
+res <- httr::GET("https://data.tg.ch/api/explore/v2.0/catalog/exports/json") 
+catalog <- jsonlite::fromJSON(rawToChar(res$content), flatten = TRUE)
+head(catalog)
 
 catalog_mod <- catalog %>%
   filter(str_detect(dataset_id,"^[a-z]+-[a-z]+-\\d+$"))
 
 
 
-fileName <- "pattern/pattern.ipynb"
+fileName <- "/__w/starter-code-ogdtg/starter-code-ogdtg/pattern/pattern.ipynb"
 prep_data <- readChar(fileName, file.info(fileName)$size)
 id <- catalog_mod$dataset_id[5]
 res <- httr::GET(glue::glue("https://data.tg.ch/api/explore/v2.0/catalog/datasets/{id}"))
@@ -44,7 +45,7 @@ if (length(fields)>0) {
                                                         "pattern/pattern" = paste0("ogdtg@",id))
                                                 )
   prep_data_mod <- stringr::str_remove_all(prep_data_mod,"\\r")
-  con <- file(paste0("ogdtg@",id,".ipynb"), open = "wt", encoding = "UTF-8")
+  con <- file(paste0("/__w/starter-code-ogdtg/starter-code-ogdtg/ogdtg@",id,".ipynb"), open = "wt", encoding = "UTF-8")
 
 
   sink(con)
