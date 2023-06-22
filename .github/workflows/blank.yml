@@ -21,12 +21,15 @@ jobs:
        # rocker-version: "4.1.2"
         #tidyverse: "true"
 
-    - name: Execute script and push results
+    - name: Execute script 
       run: |
         Rscript update.R
-        git config --global user.name "ogdtg"
-        git config --global user.email "ogd@tg.ch"
-        git config --global --add safe.directory /__w/starter-code-ogdtg/starter-code-ogdtg
-        git add .
-        git commit -m "Update results"
-        git push
+    - name: GIT commit and push all changed files
+      env: 
+        CI_COMMIT_MESSAGE: Continuous Integration Build Artifacts
+        CI_COMMIT_AUTHOR: Continuous Integration
+        run: |
+          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+          git config --global user.email "username@users.noreply.github.com"
+          git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git push
