@@ -23,5 +23,4 @@ For all data licenses please refer to each data set's link.
 | :-- | :-- | :-- | :-- | :-- |
 | _IDENTIFIER_ | [_DATANAME_](https://data.tg.ch/explore/dataset/_IDENTIFIER_/information/) | [![Python: Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/ogdtg/starter-code-ogdtg/blob/main/) |
 [![Python: Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/ogdtg/starter-code-ogdtg/blob/main/) |
-[Python GitHub](https://github.com/ogdtg/starter-code-ogdtg/blob/main/) | [R GitHub](https://github.com/ogdtg/starter-code-ogdtg/blob/main/) |
-| [RMarkdown]()|
+[Python GitHub](https://github.com/ogdtg/starter-code-ogdtg/blob/main/) | [R GitHub](https://github.com/ogdtg/starter-code-ogdtg/blob/main/) | [RMarkdown]()|
