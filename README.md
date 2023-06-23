@@ -20,7 +20,5 @@ For all data licenses please refer to each data set's link.
 <sub>Latest update: **2023-06-23 03:46:53**<sub>
 
 | ID | Title (abbreviated to 200 chars) | Python Colab | R Colab | Python Github |R Github | RMarkdown |
-| :-- | :-- | :-- | :-- | :-- |
-| _IDENTIFIER_ | [_DATANAME_](https://data.tg.ch/explore/dataset/_IDENTIFIER_/information/) | [![Python: Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/ogdtg/starter-code-ogdtg/blob/main/) |
-[![Python: Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/ogdtg/starter-code-ogdtg/blob/main/) |
-[Python GitHub](https://github.com/ogdtg/starter-code-ogdtg/blob/main/) | [R GitHub](https://github.com/ogdtg/starter-code-ogdtg/blob/main/) | [RMarkdown]()|
+| :-- | :-- | :-- | :-- | :-- | :-- |:-- |:-- |
+| _IDENTIFIER_ | [_DATANAME_](https://data.tg.ch/explore/dataset/_IDENTIFIER_/information/) | [![Python: Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/ogdtg/starter-code-ogdtg/blob/main/) | [![Python: Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/ogdtg/starter-code-ogdtg/blob/main/) | [Python GitHub](https://github.com/ogdtg/starter-code-ogdtg/blob/main/) | [R GitHub](https://github.com/ogdtg/starter-code-ogdtg/blob/main/) | [RMarkdown]() |
