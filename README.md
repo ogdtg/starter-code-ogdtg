@@ -19,7 +19,8 @@ For all data licenses please refer to each data set's link.
 
 <sub>Latest update: **2023-06-23 03:46:53**<sub>
 
+
 | ID | Title (abbreviated to 200 chars) | Python Colab | R Colab | Python Github | R Github | RMarkdown |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| _IDENTIFIER_ | [_DATANAME_](https://data.tg.ch/explore/dataset/_IDENTIFIER_/information/) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/openZH/starter-code-openZH/blob/main/02_python/1@statistisches-amt-kanton-zuerich.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/openZH/starter-code-openZH/blob/main/02_python/1@statistisches-amt-kanton-zuerich.ipynb) | [Python Github](https://github.com/...) | [R Github](https://github.com/...) | [RMarkdown](...) |
+| _IDENTIFIER_ | [_DATANAME_](https://data.tg.ch/explore/dataset/_IDENTIFIER_/information/) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/ogdtg/starter-code-ogdtg/blob/main/)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://githubtocolab.com/openZH/starter-code-openZH/blob/main/02_python/1@statistisches-amt-kanton-zuerich.ipynb](https://githubtocolab.com/ogdtg/starter-code-ogdtg/blob/main/)) | [Python Github](https://github.com/...) | [R Github](https://github.com/...) | [RMarkdown](...) |
 
