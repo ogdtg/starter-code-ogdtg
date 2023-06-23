@@ -16,9 +16,9 @@ library(dplyr)
 #'
 get_catalog <- function() {
   res = httr::GET("https://data.tg.ch/api/v2/catalog/exports/json")
-  attempt::stop_if_not(.x = httr::status_code(res),
-                       .p = ~ .x == 200,
-                       msg = "The API returned an error. Please check your internet connection or visit data.tg.ch for more information")
+  if (res$status_code != 200) {
+    stop("The API returned an error. Please check your internet connection or visit data.tg.ch for more information")
+  }
   result=jsonlite::fromJSON(rawToChar(res$content), flatten = TRUE)
   return(result)
 }
