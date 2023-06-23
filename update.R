@@ -295,7 +295,7 @@ geo_readme <- readme_list_geo %>% unlist() %>% paste(collapse = "\n")
 csv_readme <- readme_list_csv %>% unlist() %>% paste(collapse = "\n")
 
 
-full_readme <- paste(readme,"\n## CSV Data\n",csv_readme,"\n## Geodata\n",geo_readme,collapse = "\n")
+full_readme <- paste(readme,csv_readme,"\n## Geodata\n",geo_readme,collapse = "\n")
 
 
 con <- file("README.md", open = "wt", encoding = "UTF-8")
