@@ -275,7 +275,7 @@ for (i in 1:nrow(catalog_geo)) {
 
 fileName <- "pattern/rm_pat.md"
 
-current_time <- format(as.POSIXct(Sys.time(),tz = "GMT+2"),"%Y-%m-%d %H:%M:%S")
+current_time <- format(as.POSIXct(Sys.time()+ 2*60*60,tz = "GMT+2") ,"%Y-%m-%d %H:%M:%S")
 
 readme <- readChar(fileName, file.info(fileName)$size)
 
@@ -295,7 +295,7 @@ geo_readme <- readme_list_geo %>% unlist() %>% paste(collapse = "\n")
 csv_readme <- readme_list_csv %>% unlist() %>% paste(collapse = "\n")
 
 
-full_readme <- paste(readme,"## CSV Data",csv_readme,"## Geodata",geo_readme,collapse = "\n")
+full_readme <- paste(readme,"\n## CSV Data\n",csv_readme,"\n## Geodata\n",geo_readme,collapse = "\n")
 
 
 con <- file("README.md", open = "wt", encoding = "UTF-8")
