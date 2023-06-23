@@ -12,7 +12,7 @@ All Links and Files will be updated on a daily basis.
 
 
 
-Since this is an experiment, feedback is - as always - very welcome â€“ simply open an issue or contact us via [Mail](mailto:ogd@tg.ch).
+Since this is an experiment, feedback is - as always - very welcome. Just open an issue or contact us via [Mail](mailto:ogd@tg.ch).
 
 
 For all data licenses please refer to each data set's link.
