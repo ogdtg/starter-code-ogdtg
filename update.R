@@ -275,9 +275,13 @@ for (i in 1:nrow(catalog_geo)) {
 
 fileName <- "pattern/rm_pat.md"
 
+fileName_tab <- "pattern/tab_pat.md"
+
+
 current_time <- format(as.POSIXct(Sys.time()+ 2*60*60,tz = "GMT+2") ,"%Y-%m-%d %H:%M:%S")
 
 readme <- readChar(fileName, file.info(fileName)$size)
+tab <- readChar(fileName_tab, file.info(fileName_tab)$size)
 
 readme <- str_replace_all(readme,"Latest update: \\*\\*.+?\\*\\*",
                           glue::glue("Latest update: \\*\\*{current_time}\\*\\*"))
@@ -289,13 +293,14 @@ readme <- str_replace_all(readme,"\n.+?The Jupyter Notebooks can be opened direc
                           "\n :rocket: The Jupyter Notebooks can be opened directly in Google Colab. :rocket: \n")
 
 readme <- stringr::str_remove_all(readme,"\\r")
+tab <- stringr::str_remove_all(tab,"\\r")
 
 
 geo_readme <- readme_list_geo %>% unlist() %>% paste(collapse = "\n")
 csv_readme <- readme_list_csv %>% unlist() %>% paste(collapse = "\n")
 
 
-full_readme <- paste(readme,csv_readme,"\n## Geodata\n",geo_readme,collapse = "\n")
+full_readme <- paste(readme,csv_readme,"\n## Geodata\n",tab,geo_readme,collapse = "\n")
 
 
 con <- file("README.md", open = "wt", encoding = "UTF-8")
