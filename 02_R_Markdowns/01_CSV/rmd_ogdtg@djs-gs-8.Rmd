@@ -1,7 +1,7 @@
 ---
 title: "Schulergänzende Kinderbetreuung Kanton Thurgau (Stand 31.12)"
-author: "Felix lorenz"
-date: "23 6 2023"
+author: "OGD-Koordinationsstelle Kanton Thurgau"
+date: "`r Sys.Date()`"
 output: html_document
 ---
 
