@@ -21,5 +21,5 @@ For all data licenses please refer to each data set's link.
 
 | ID | Title (abbreviated to 200 chars) | Python Colab | R Colab | Python Github | R Github | RMarkdown |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| _IDENTIFIER_ | [_DATANAME_](https://data.tg.ch/explore/dataset/_IDENTIFIER_/information/) | [Python Colab](https://colab.research.google.com/...) | [R Colab](https://colab.research.google.com/...) | [Python Github](https://github.com/...) | [R Github](https://github.com/...) | [RMarkdown](...) |
+| _IDENTIFIER_ | [_DATANAME_](https://data.tg.ch/explore/dataset/_IDENTIFIER_/information/) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/openZH/starter-code-openZH/blob/main/02_python/1@statistisches-amt-kanton-zuerich.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/openZH/starter-code-openZH/blob/main/02_python/1@statistisches-amt-kanton-zuerich.ipynb) | [Python Github](https://github.com/...) | [R Github](https://github.com/...) | [RMarkdown](...) |
 
