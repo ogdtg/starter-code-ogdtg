@@ -279,8 +279,14 @@ current_time <- format(Sys.time(),"%Y-%m-%d %H:%M:%S")
 
 readme <- readChar(fileName, file.info(fileName)$size)
 
-readme <- str_replace_all(readme,"<sub>Latest update: \\*\\*2023-06-23 03:46:53\\*\\*<sub>",
-                          glue::glue("<sub>Latest update: \\*\\*{current_time}\\*\\*<sub>"))
+readme <- str_replace_all(readme,"Latest update: \\*\\*.+?\\*\\*",
+                          glue::glue("Latest update: \\*\\*{current_time}\\*\\*"))
+
+readme <- str_replace_all(readme,"^.+?Taking inspiration from the",
+                          ":bulb: Taking inspiration from the")
+
+readme <- str_replace_all(readme,"\n.+?The Jupyter Notebooks can be opened directly in Google Colab.+?\n",
+                          "\n :rocket: The Jupyter Notebooks can be opened directly in Google Colab. :rocket: \n")
 
 readme <- stringr::str_remove_all(readme,"\\r")
 
