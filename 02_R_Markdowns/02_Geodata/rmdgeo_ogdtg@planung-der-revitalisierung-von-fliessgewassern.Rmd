@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Die strategische Planung der Fliessgewässer umfasst den Gewässerlauf sowie Bauwerke und Abstürze, welche die Längsvernetzung beeinträchtigen. Die Erfassung richtet sich nach der Vollzugshilfe 'Revitalisierung Fliessgewässer - strategische Planung' (BAFU 2012). Es werden diejenigen Gewässerabschnitte im beeinträchtigten Zustand identifiziert, an denen mit Revitalisierungen ein grosser Nutzen für die Natur und Landschaft im Verhältnis zum voraussichtlichen Aufwand erzielt werden kann. Die Planung definiert die Massnahmentypen und legt die Fristen zur Umsetzung der Massnahmen über eine Dauer von 20 Jahren fest.
+Die strategische Planung der Fliessgewässer umfasst den Gewässerlauf sowie Bauwerke und Abstürze, welche die Längsvernetzung beeinträchtigen. Die Erfassung richtet sich nach der Vollzugshilfe 'Revitalisierung Fliessgewässer − strategische Planung' (BAFU 2012). Es werden diejenigen Gewässerabschnitte im beeinträchtigten Zustand identifiziert, an denen mit Revitalisierungen ein grosser Nutzen für die Natur und Landschaft im Verhältnis zum voraussichtlichen Aufwand erzielt werden kann. Die Planung definiert die Massnahmentypen und legt die Fristen zur Umsetzung der Massnahmen über eine Dauer von 20 Jahren fest.
 
 ## Metadata
 
