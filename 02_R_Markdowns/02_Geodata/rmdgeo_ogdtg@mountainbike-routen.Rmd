@@ -77,7 +77,7 @@ head(geo_data)
 ```{r}
 
 # Look at the dataset and its structure
-summary(data)
+summary(geo_data)
 
 ```
 
