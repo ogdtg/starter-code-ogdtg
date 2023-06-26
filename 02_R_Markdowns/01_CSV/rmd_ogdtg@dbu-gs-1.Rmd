@@ -41,7 +41,7 @@ library(httr)
 library(jsonlite)
 library(dplyr)
 # library(remotes)
-# remotes::install.github("ogdtg/tgAPI")
+# remotes::install_github("ogdtg/tgAPI")
 
 ```
 
