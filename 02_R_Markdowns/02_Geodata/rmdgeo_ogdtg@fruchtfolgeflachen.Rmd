@@ -34,7 +34,7 @@ Every dataset (csv and geodata) on [data.tg.ch](https://data.tg.ch/pages/start/)
 
 ```{r}
 library(remotes)
-remotes::install_github("ogdtg/tgAPI")
+remotes::install.github("ogdtg/tgAPI")
 library(tgAPI)
 #install.packages(ggplot2)
 #install.packages(dplyr)
