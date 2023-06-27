@@ -64,7 +64,7 @@ head(data)
 
 ```{r}
 
-res <- httr::GET("https://data.tg.ch/api/explore/v2.0/catalog/datasets/sk-stat-79/exports/json")
+res <- httr::GET("https://data.tg.ch/api/explore/v2.0/catalog/datasets/sk-stat-79")
 metadata <- res$content %>%
   rawToChar() %>%
   jsonlite::fromJSON()
