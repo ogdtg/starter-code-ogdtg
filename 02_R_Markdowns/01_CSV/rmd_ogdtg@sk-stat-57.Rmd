@@ -19,8 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Der Datensatz beinhaltet die ständige Wohnbevölkerung in Personen nach Gemeinden und Einzelaltersjahren ab dem Jahr 2015. 100-Jährige und Ältere sind in einer Sammelkategorie '100+' zusammengefasst. Ebenfalls aufgeführt ist die Bezirkszugehörigkeit einer Gemeinde.<br/>
-Die Daten stammen aus der kantonalen Bevölkerungserhebung der Dienststelle für Statistik Kanton Thurgau. Zur ständigen Wohnbevölkerung zählen alle Personen mit Hauptwohnsitz im Kanton Thurgau. Bei der ausländischen Bevölkerung werden Personen mit der Niederlassungsbewilligung (C), Aufenthaltsbewilligung (B) oder Kurzaufenthaltsbewilligung (L) von 12 Monaten oder mehr berücksichtigt. Aufgeführt ist der Bevölkerungsbestand in Personen jeweils per 31.12. Die genaue Beschreibung der verwendeten Codes in den Datensätzen sind im Codebook unter 'weitere Informationen' aufgeführt.
+Der Datensatz beinhaltet die ständige Wohnbevölkerung in Personen nach Gemeinden und Einzelaltersjahren ab dem Jahr 2015. 100-Jährige und Ältere sind in einer Sammelkategorie '100+' zusammengefasst. Ebenfalls aufgeführt ist die Bezirkszugehörigkeit einer Gemeinde.<br/> Die Daten stammen aus der kantonalen Bevölkerungserhebung der Dienststelle für Statistik Kanton Thurgau. Zur ständigen Wohnbevölkerung zählen alle Personen mit Hauptwohnsitz im Kanton Thurgau. Bei der ausländischen Bevölkerung werden Personen mit der Niederlassungsbewilligung (C), Aufenthaltsbewilligung (B) oder Kurzaufenthaltsbewilligung (L) von 12 Monaten oder mehr berücksichtigt. Aufgeführt ist der Bevölkerungsbestand in Personen jeweils per 31.12. Die genaue Beschreibung der verwendeten Codes in den Datensätzen sind im Codebook unter 'weitere Informationen' aufgeführt.
 
 ## Metadata
 

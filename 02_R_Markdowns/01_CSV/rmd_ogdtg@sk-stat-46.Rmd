@@ -19,8 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Das Ortschaftenverzeichnis enthält die Ortschaften des Kantons Thurgau und ihre Zuordnung zu den Politischen Gemeinden. Zudem finden sich Angaben zur Wohnbevölkerung (Wohnbevölkerung nach Geschlecht, Alter, Nationalität und Konfession, Stand 31.12.2018).
-<p>Im Ortschaftenverzeichnis finden sich Angaben zur Wohnbevölkerung der Ortschaften, welche sich ganz oder teilweise im Kanton Thurgau befinden. Bei kantonsübergreifenden Ortschaften beziehen sich die Zahlen jeweils nur auf das im Kanton Thurgau liegende Gebiet.</p></p>
+<p>Das Ortschaftenverzeichnis enthält die Ortschaften des Kantons Thurgau und ihre Zuordnung zu den Politischen Gemeinden. Zudem finden sich Angaben zur Wohnbevölkerung (Wohnbevölkerung nach Geschlecht, Alter, Nationalität und Konfession, Stand 31.12.2018). <p>Im Ortschaftenverzeichnis finden sich Angaben zur Wohnbevölkerung der Ortschaften, welche sich ganz oder teilweise im Kanton Thurgau befinden. Bei kantonsübergreifenden Ortschaften beziehen sich die Zahlen jeweils nur auf das im Kanton Thurgau liegende Gebiet.</p></p>
 
 ## Metadata
 

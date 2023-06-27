@@ -17,7 +17,7 @@ Since this is an experiment, feedback is - as always - very welcome. Just open a
 
 For all data licenses please refer to each data set's link.
 
-<sub>Latest update: **2023-06-27 11:26:36**<sub>
+<sub>Latest update: **2023-06-27 11:52:46**<sub>
 
 ## CSV Data
 

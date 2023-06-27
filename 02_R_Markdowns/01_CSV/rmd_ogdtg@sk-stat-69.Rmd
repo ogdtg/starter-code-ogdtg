@@ -19,9 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Die Datensätze beinhalten Daten zu den Steuerfüssen nach Politischen Gemeinden des
-Kantons Thurgau ab 2004. Sie wurden von der Steuerverwaltung
-Kanton Thurgau erhoben.</p>
+<p>Die Datensätze beinhalten Daten zu den Steuerfüssen nach Politischen Gemeinden des Kantons Thurgau ab 2004. Sie wurden von der Steuerverwaltung Kanton Thurgau erhoben.</p>
 
 ## Metadata
 

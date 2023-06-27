@@ -19,13 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält die Anzahl Vollzeitäquivalente in den
-Gemeinden des Kantons Thurgau seit 2011.</p>
-<p>Definitionen:</p>
-<ul><li>Vollzeitäquivalente: Einem Vollzeitäquivalent entspricht ein 100 % besetzter Arbeitsplatz (Beispiel: eine Anstellung von 50 % ergibt 0,5 VZÄ).</li></ul>
-<p>Datenquelle: Bundesamt für Statistik, STATENT</p>
-<p>Die Daten stammen aus der Statistik der Unternehmensstruktur STATENT vom Bundesamt für Statistik.
-Die STATENT liefert zentrale Informationen zur Struktur der Schweizer Wirtschaft (z. B. Anzahl Unternehmen, Anzahl Arbeitsstätten, Anzahl Beschäftigte usw.) und gibt damit einen Überblick über die Wirtschaftslandschaft der Schweiz. Weitere Informationen finden Sie <a '='' bfs='' de='' home='' href='https: www.bfs.admin.ch=' soziale-sicherheit='' sozialhilfe='' sozialhilfebeziehende='' statistiken='' wirtschaftliche-sozialhilfe.html'=''></a><a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/industrie-dienstleistungen/erhebungen/statent.html'>hier.</a><br/></p>
+<p>Der Datensatz enthält die Anzahl Vollzeitäquivalente in den Gemeinden des Kantons Thurgau seit 2011.</p> <p>Definitionen:</p> <ul><li>Vollzeitäquivalente: Einem Vollzeitäquivalent entspricht ein 100 % besetzter Arbeitsplatz (Beispiel: eine Anstellung von 50 % ergibt 0,5 VZÄ).</li></ul> <p>Datenquelle: Bundesamt für Statistik, STATENT</p> <p>Die Daten stammen aus der Statistik der Unternehmensstruktur STATENT vom Bundesamt für Statistik. Die STATENT liefert zentrale Informationen zur Struktur der Schweizer Wirtschaft (z. B. Anzahl Unternehmen, Anzahl Arbeitsstätten, Anzahl Beschäftigte usw.) und gibt damit einen Überblick über die Wirtschaftslandschaft der Schweiz. Weitere Informationen finden Sie <a '='' bfs='' de='' home='' href='https: www.bfs.admin.ch=' soziale-sicherheit='' sozialhilfe='' sozialhilfebeziehende='' statistiken='' wirtschaftliche-sozialhilfe.html'=''></a><a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/industrie-dienstleistungen/erhebungen/statent.html'>hier.</a><br/></p>
 
 ## Metadata
 

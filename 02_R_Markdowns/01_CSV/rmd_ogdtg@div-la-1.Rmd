@@ -19,8 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz beschreibt die total ausbezahlten Direktzahlungen gemäss Direktzahlungsverordnung im Kanton Thurgau ab 2014, aufgeteilt nach Beitragsart. Die Grundlage für die Berechnung der Beiträge liefert die jährliche Betriebsstrukturdatenerhebung. 
-Ebenfalls aufgeführt sind die Einzelkulturbeiträge und die Getreidezulage.</p>
+<p>Der Datensatz beschreibt die total ausbezahlten Direktzahlungen gemäss Direktzahlungsverordnung im Kanton Thurgau ab 2014, aufgeteilt nach Beitragsart. Die Grundlage für die Berechnung der Beiträge liefert die jährliche Betriebsstrukturdatenerhebung.  Ebenfalls aufgeführt sind die Einzelkulturbeiträge und die Getreidezulage.</p>
 
 ## Metadata
 

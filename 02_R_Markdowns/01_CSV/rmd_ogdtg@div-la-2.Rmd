@@ -19,8 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz beschreibt die Anzahl durch Thurgauer Betriebe deklarierter Tiere ab 2015, aufgeteilt nach Gemeinde und Tierkategorie. Die Gemeindezuordnung erfolgt nach dem Standort der Tierhaltung und nicht nach dem Standort des Hauptbetriebes. Die Grundlage für die Zahlen liefert die jährliche Betriebsstrukturdatenerhebung. <br/>Die Gruppierung der Tierkategorien und den dazugehörigen Codes sind im '<a href='https://www.blw.admin.ch/dam/blw/de/dokumente/Instrumente/Direktzahlungen/Voraussetzungen Begriffe/Merkblaetter/merkblatt-nr3-tierhaltung-2022.pdf.download.pdf/Merkblatt Nr. 6.3_Tierhaltung 2022.pdf' target='_blank'>Merkblatt Nr. 6.3: Tierhaltung</a>' des Bundesamts für Landwirtschaft aufgeführt.<br/></p><p>
-Quellenangabe: Landwirtschaftsamt Kanton Thurgau (Datenstand: 30.09.2020)</p>
+<p>Der Datensatz beschreibt die Anzahl durch Thurgauer Betriebe deklarierter Tiere ab 2015, aufgeteilt nach Gemeinde und Tierkategorie. Die Gemeindezuordnung erfolgt nach dem Standort der Tierhaltung und nicht nach dem Standort des Hauptbetriebes. Die Grundlage für die Zahlen liefert die jährliche Betriebsstrukturdatenerhebung. <br/>Die Gruppierung der Tierkategorien und den dazugehörigen Codes sind im '<a href='https://www.blw.admin.ch/dam/blw/de/dokumente/Instrumente/Direktzahlungen/Voraussetzungen Begriffe/Merkblaetter/merkblatt-nr3-tierhaltung-2022.pdf.download.pdf/Merkblatt Nr. 6.3_Tierhaltung 2022.pdf' target='_blank'>Merkblatt Nr. 6.3: Tierhaltung</a>' des Bundesamts für Landwirtschaft aufgeführt.<br/></p><p> Quellenangabe: Landwirtschaftsamt Kanton Thurgau (Datenstand: 30.09.2020)</p>
 
 ## Metadata
 
