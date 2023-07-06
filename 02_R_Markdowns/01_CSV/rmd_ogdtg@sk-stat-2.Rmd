@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2023-03-21 09:19:01
+- **Modified**                 : 2023-06-29 10:05:24
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Ressourcenausgleich, Lastenausgleich, Auszahlung, Finanzen , Gemeindesteuerfüsse , Finanzausgleich 
 

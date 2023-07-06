@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2023-01-03
-- **Modified**                 : 2023-01-10 10:59:36
+- **Modified**                 : 2023-06-29 10:03:39
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Finanzlage, Finanzausgleich , Finanzkennzahlen , Nettoverschuldung , Schulfinanzen , Schulgemeinde, Volksschule , Kennzahlen 
 

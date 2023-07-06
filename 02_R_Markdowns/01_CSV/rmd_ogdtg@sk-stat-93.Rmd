@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-12-20
-- **Modified**                 : 2022-09-12 08:32:59
+- **Modified**                 : 2023-06-29 10:03:34
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Gemeinde , Politische Gemeinde, Wohnungen, Leerwohungen, Leerwohnungsziffer
 

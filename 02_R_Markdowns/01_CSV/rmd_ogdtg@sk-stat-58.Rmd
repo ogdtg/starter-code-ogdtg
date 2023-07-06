@@ -24,7 +24,7 @@ Der Datensatz beinhaltet die ständige Wohnbevölkerung in Personen nach Gemeind
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2023-03-13 07:19:14
+- **Modified**                 : 2023-06-29 10:05:22
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bevölkerung, Wohnbevölkerung, Ständige Wohnbevölkerung, Gemeinde , Bezirk , Geschlecht , Altersklasse, Fünfjahresaltersklasse
 

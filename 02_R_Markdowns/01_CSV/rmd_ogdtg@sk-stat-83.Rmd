@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2022-11-08 11:05:54
+- **Modified**                 : 2023-06-29 10:03:36
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Sozialhilfe , Geschlecht , Staatsangehörigkeit
 

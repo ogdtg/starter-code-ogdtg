@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-06-29
-- **Modified**                 : 2023-05-24 14:46:41
+- **Modified**                 : 2023-06-29 10:05:32
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Energiestatistik, Energieverbrauch, CO2, CO2-Emission, Gebäudebereich, Gemeinde, Erdöl, Erdgas, Emission
 

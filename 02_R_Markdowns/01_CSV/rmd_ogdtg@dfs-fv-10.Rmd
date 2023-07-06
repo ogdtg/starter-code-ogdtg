@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-12-19
-- **Modified**                 : 2023-04-04 09:37:47
+- **Modified**                 : 2023-06-29 10:04:36
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Ausgaben , Funktionale Gliederung, Kanton , Staatsrechnung , Staatshaushalt
 
