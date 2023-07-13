@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2019-11-18
-- **Modified**                 : 2023-07-11 11:06:04
+- **Modified**                 : 2023-07-12 14:38:39
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Erfolgsrechnung , Konto , Haben , Soll , Kantonsfinanzen , Investitionsrechnung , Staatsrechnung 
 
