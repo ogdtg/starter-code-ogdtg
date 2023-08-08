@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz beinhalten Daten zu den Gesamtsteuerfüssen nach Politischen Gemeinden des Kantons Thurgau ab 2004. Sie wurden von der Steuerverwaltung Kanton Thurgau erhoben.   Quellenangabe: Steuerverwaltung Kanton Thurgau. Die Daten umfassen die Gesamtsteuerfüsse für natürliche Personen (evangelische Steuerpflichtige resp. katholische Steuerpflichtige) und für juristische Personen nach den Politischen Gemeinden des Kantons Thurgau ab 2004. Der Gesamtsteuerfuss ist die Summe aus Staatssteuerfuss, Gemeindesteuerfuss, Schulsteuerfuss und Steuerfuss der evangelischen Kirchgemeinde. Die Gebiete der Politischen, Schul- und Kirchgemeinden sind im Kanton Thurgau nicht deckungsgleich. Gehört eine Politische Gemeinde zu mehreren Schul- und/oder Kirchgemeinden, wird der Steuerfuss der einwohnerstärksten Ortsteile mit gleichem Steuerfuss verwendet. </p><p> </p>
+<p>Der Datensatz beinhalten Daten zu den Gesamtsteuerfüssen nach Politischen Gemeinden des Kantons Thurgau ab 2004. Sie wurden von der Steuerverwaltung Kanton Thurgau erhoben.   Quellenangabe: Steuerverwaltung Kanton Thurgau. Die Daten umfassen die Gesamtsteuerfüsse für natürliche Personen (evangelische Steuerpflichtige resp. katholische Steuerpflichtige) und für juristische Personen nach den Politischen Gemeinden des Kantons Thurgau ab 2004. Der Gesamtsteuerfuss ist die Summe aus Staatssteuerfuss, Gemeindesteuerfuss, Schulsteuerfuss und Steuerfuss der evangelischen Kirchgemeinde. Die Gebiete der Politischen, Schul- und Kirchgemeinden sind im Kanton Thurgau nicht deckungsgleich. Gehört eine Politische Gemeinde zu mehreren Schul- und/oder Kirchgemeinden, wird der Steuerfuss der einwohnerstärksten Ortsteile mit gleichem Steuerfuss verwendet. </p><p><br/></p><p>Hinweis: korrigierte Version, 7.08.2023<br/></p><p> </p>
 
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2023-06-29 10:04:49
+- **Modified**                 : 2023-08-07 08:56:04
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Gemeinde , Gemeindesteuerfüsse, Gemeindesteuerfuss , Gesamtsteuerfüsse, Gesamtsteuerfuss , Natürliche Personen, Juristische Personen, Steuerfuss , Steuerfüsse, Steuerbelastung 
 
