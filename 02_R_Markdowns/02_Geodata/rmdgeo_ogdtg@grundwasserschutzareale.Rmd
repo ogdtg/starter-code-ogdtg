@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Der Datensatz ist Bestandteil der Gewässerschutzkarte des Kantons Thurgau. Grundwasserschutzareale sind bedeutend für die künfige Nutzung und Anreicherung von Grundwasservorkommen. Den Gebieten sind Nutzungseinschränkungen zugeordnet.
+Der Geobasisdatensatz beinhaltet Grundwasserschutzareale gemäss Gewässerschutzgesetzgebung. Schutzareale sind im Hinblick auf künftige Trinkwassernutzungen oder Grundwasseranreicherungen von Bedeutung. Innerhalb der Schutzareale gelten Nutzungsbeschränken. Schutzareale sind ein Element des planerischen Grundwasserschutzes, Bestandteilt der Gewässerschutzkarte und überlagern die Gewässerschutzbereiche.
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-05-13 18:00:20
+- **Modified**                 : 2023-09-04 06:45:55
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, landschaftsschutz, landschaftsschutz, naturschutz, grundwasserschutz
 

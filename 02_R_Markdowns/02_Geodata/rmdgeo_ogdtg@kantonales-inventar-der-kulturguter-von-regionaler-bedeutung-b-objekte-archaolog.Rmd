@@ -23,7 +23,7 @@ Archäologische Kulturgüter von regionaler Bedeutung (B-Objekte) im Kanton Thur
 
 ## Metadata
 
-- **Issued**                   : 
+- **Issued**                   : 2021-10-13
 - **Modified**                 : 2021-10-13 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, archaologie, inventar, kulturgut, geschichte, siedlung

@@ -19,11 +19,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Der Datensatz ist Bestandteil der Gewässerschutzkarte des Kantons Thurgau. Gewässerschutzbereiche; Au: Gebiete mit nutzbaren Grundwasservorkommen; Ao: Oberirdische Gewässer und deren Uferbereiche; üB: Übrige Gebiete.
+Der Geobasisdatensatz beinhaltet Gewässerschutzbereiche gemäss Gewässerschutzgesetzgebung. Die Gewässerschutzbereiche dienen dem qualitativen und quantitativen Schutz der ober- und unterirdischen Gewässern. Gewässerschutzbereiche dienen der Information der Behörden und sind für die Grundeigentümer nicht direkt verbindlich. Gewässerschutzbereiche sind ein Element des planerischen Gewässerschutzes und Bestandteilt der Gewässerschutzkarte.
 
 ## Metadata
 
-- **Issued**                   : 
+- **Issued**                   : 2021-07-14
 - **Modified**                 : 2021-07-14 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, gewasser, gewasserschutz

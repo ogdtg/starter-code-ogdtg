@@ -23,7 +23,7 @@ Einteilung der Kantonsstrassen in sechs verschiedene Verkehrslastklassen. Die Kl
 
 ## Metadata
 
-- **Issued**                   : 
+- **Issued**                   : 2017-03-01
 - **Modified**                 : 2017-03-01 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fahrweg-streckenfuhrung, strasse, strasse, umweltbelastung-durch-verkehr, verkehr

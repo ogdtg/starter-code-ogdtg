@@ -23,7 +23,7 @@ Darstellung der Standorte aller Sirenen im Kanton Thurgau
 
 ## Metadata
 
-- **Issued**                   : 
+- **Issued**                   : 2017-05-22
 - **Modified**                 : 2017-05-22 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, katastrophenschutz, naturgefahr

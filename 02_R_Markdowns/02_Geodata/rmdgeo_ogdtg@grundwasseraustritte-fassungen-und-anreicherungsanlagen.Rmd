@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Der Datensatz beinhaltet die Quellen und Grundwasserfassungen. Sie sind Bestandteil der Gewässerschutzkarte und der Grundwasserkarte des Kantons Thurgau.
+Der Geobasisdatensatz beinhaltet Grundwasseraustritte, Grundwassererfassungen und Grundwasseranreichungsanlagen. Sie sind Bestandteil der Grundwasserkarte und der Gewässerschutzkarte.
 
 ## Metadata
 
-- **Issued**                   : 
-- **Modified**                 : 2023-01-03 00:00:00
+- **Issued**                   : 2023-07-25
+- **Modified**                 : 2023-07-25 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, abfall, wasser, wasser, abwasserabgabe, gewasserschutz
 

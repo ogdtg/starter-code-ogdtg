@@ -23,7 +23,7 @@ Strassen-Lärm-Belastungs-Kataster für Haupt- und übrige Strassen. Er gibt Aus
 
 ## Metadata
 
-- **Issued**                   : 
+- **Issued**                   : 2022-09-20
 - **Modified**                 : 2022-09-20 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, larmbelastung, verkehrslarm

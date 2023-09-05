@@ -23,7 +23,7 @@ Hektarraster der modellierten Emissionsdaten für Stickoxide und Feinstaub.
 
 ## Metadata
 
-- **Issued**                   : 
+- **Issued**                   : 2018-11-01
 - **Modified**                 : 2018-11-01 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, klima, luft, atmosphare, luftschadstoff

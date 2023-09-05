@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Der Datensatz ist Bestandteil der Gewässerschutzkarte des Kantons Thurgau. Grundwasserschutzzonen dienen dem Schutz von Grundwasser. Den Gebieten sind Nutzungseinschränkungen zugeordnet. S1: Fassungsbereich; S2: engere Schutzzone; S3: weitere Schutzzone
+Der Geobasisdatensatz beinhaltet Grundwasserschutzzonen gemäss Gewässerschutzgesetzgebung. Schutzzonen dienen dazu, Trinkwassergewinnungsanlagen und Grundwasseranreicherungen sowie das Grundwasser unmittelbar vor seiner Nutzung als Trinkwasser vor qualitativer und quantitativer Beeinträchtigungen zu schützen. Innerhalb der Schutzzonen gelten Nutzungsbeschränken. Schutzzonen sind ein Element des planerischen Grundwasserschutzes, Bestandteilt der Gewässerschutzkarte und überlagern die Gewässerschutzbereiche.
 
 ## Metadata
 
-- **Issued**                   : 
-- **Modified**                 : 2023-02-13 00:00:00
+- **Issued**                   : 2023-07-25
+- **Modified**                 : 2023-07-25 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, naturschutz, grundwasserschutz, landschaftsschutz
 

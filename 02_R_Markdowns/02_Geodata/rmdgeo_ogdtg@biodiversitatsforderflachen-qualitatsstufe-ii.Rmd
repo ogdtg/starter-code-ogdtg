@@ -23,7 +23,7 @@ Die „Biodiversitätsförderflächen Qualitätsstufe II“ überlagern die „N
 
 ## Metadata
 
-- **Issued**                   : 
+- **Issued**                   : 2022-11-30
 - **Modified**                 : 2022-11-30 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, landschaftspflege, agrarmanagement, landwirtschaftliche-bewirtschaftung, landwirtschaftliche-nutzung, umweltsubvention, landwirtschaft, landschaftsokologie

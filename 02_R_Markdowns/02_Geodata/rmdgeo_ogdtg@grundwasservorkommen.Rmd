@@ -19,11 +19,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Der Datensatz beinhaltet die Grundwassergebiete mit den Mächtigkeiten. Der Datensatz Grundwasservorkommen ist Bestandteil der Gewässerschutzkarte und der Grundwasserkarte des Kantons Thurgau.
+Der Geobasisdatensatz beinhaltet die potenziell nutzbaren und genutzten Grundwasservorkommen. Sie sind Bestandteil der Grundwasserkarte und der Gewässerschutzkarte.
 
 ## Metadata
 
-- **Issued**                   : 
+- **Issued**                   : 2020-11-17
 - **Modified**                 : 2020-11-17 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, gewasser, grundwasser
