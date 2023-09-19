@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Die Übersicht zeigt alle Lernenden des Kantons Thurgau ab dem Schuljahr 2007/2008, einerseits nach Schulstufen (Kindergartenstufe, Primarstufe, Sekundarstufe I und II, Tertiärstufe), andererseits nach Schultypen sowie nach Geschlecht, Staatsangehörigkeit (Schweiz vs. Ausland), nach Trägerschaftsform und Finanzierung (öffentlich vs. privat). Nicht enthalten sind Studierende der ausserkantonalen Hochschulen. Es gilt das Schulstandortprinzip - gezählt werden Lernende, welche eine Schule innerhalb des Kantons Thurgau besuchen.</p><p><span style='font-size: 0.875rem;'>Stichtag</span>: jeweils am 15. September<br/></p>
+<p>Die Übersicht zeigt alle Lernenden des Kantons Thurgau ab dem Schuljahr 2007/2008, einerseits nach Schulstufen (Kindergartenstufe, Primarstufe, Sekundarstufe I und II, Tertiärstufe), andererseits nach Schultypen sowie nach Geschlecht, Staatsangehörigkeit (Schweiz vs. Ausland), nach Trägerschaftsform und Finanzierung (öffentlich vs. privat). Nicht enthalten sind Studierende der ausserkantonalen Hochschulen und ab dem Jahr 2018 Studierende der Pädagogischen Hochschule Thurgau (weil diese Daten nicht mehr in der entsprechenden Detaillierung vorliegen). Es gilt das Schulstandortprinzip - gezählt werden Lernende, welche eine Schule innerhalb des Kantons Thurgau besuchen.</p><p><span style='font-size: 0.875rem;'>Stichtag</span>: jeweils am 15. September<br/></p>
 
 ## Metadata
 
 - **Issued**                   : 2020-11-22
-- **Modified**                 : 2023-06-29 10:05:13
+- **Modified**                 : 2023-09-18 08:22:13
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bildungsstatistik , Fachmittelschule , Geschlecht , Gymnasium , Handelsschule , Informatikmittelschule , Kantonsschule , Berufsschule , Mittelschule , Lernende , Schüler , Schülerin , Nationalität, Finanzierung, Trägerschaft , Passerellen-Lehrgang
 
