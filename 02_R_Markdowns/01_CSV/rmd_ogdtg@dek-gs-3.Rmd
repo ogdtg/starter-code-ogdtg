@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-11-22
-- **Modified**                 : 2023-09-18 08:22:13
+- **Modified**                 : 2023-09-19 08:25:32
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bildungsstatistik , Fachmittelschule , Geschlecht , Gymnasium , Handelsschule , Informatikmittelschule , Kantonsschule , Berufsschule , Mittelschule , Lernende , Schüler , Schülerin , Nationalität, Finanzierung, Trägerschaft , Passerellen-Lehrgang
 

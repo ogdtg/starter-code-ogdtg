@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2022-09-29
-- **Modified**                 : 2023-06-29 10:05:35
+- **Modified**                 : 2023-09-19 08:25:36
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Volksschule , Bildungsstatistik , Schüler , Schülerin, Kindergarten, Primarschule, Sekundarschule, öffentlich, Nationalität, Lernende , Schulgemeinde
 
