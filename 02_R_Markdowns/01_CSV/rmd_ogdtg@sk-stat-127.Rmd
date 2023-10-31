@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p><span style='font-size: 12.495px;'>Der Datensatz enthält die Ergebnisse der Kandidierenden für die Nationalratswahlen 2023 im Kanton Thurgau inklusive der Panaschierstimmen auf Ebene Kanton und Ebene der Politischen Gemeinden. Die Daten zeigen, wie viele Stimmen die Kandierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben.</span></p>
+<p>Der Datensatz enthält die Ergebnisse der Kandidierenden für die Nationalratswahlen 2023 im Kanton Thurgau inklusive der Panaschierstimmen auf Ebene Kanton und Ebene der Politischen Gemeinden. Die Daten zeigen, wie viele Stimmen die Kandierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben. </p><p> Datenstand: 30.10.2023</p>
 
 ## Metadata
 
 - **Issued**                   : 2019-10-25
-- **Modified**                 : 2023-10-27 08:05:49
+- **Modified**                 : 2023-10-30 13:01:48
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Eidgenössische Wahlen, eidgenössisch, 2019, Nationalrat, Nationalratswahlen, Wahlen , Gemeinde , Gemeinden , Politische Gemeinde, panaschieren, Panaschierstatistik 
 
