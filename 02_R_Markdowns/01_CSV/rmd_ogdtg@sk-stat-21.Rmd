@@ -24,7 +24,7 @@ Der Datensatz enthält die Ergebnisse der Kandidierenden für die Grossratswahle
 ## Metadata
 
 - **Issued**                   : 2020-03-13
-- **Modified**                 : 2022-03-23 08:56:45
+- **Modified**                 : 2023-11-07 13:28:35
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bezirk , Arbon , Gemeinde , Grosser Rat, Grossratswahlen , Wahlen , Kantonale Wahlen, Wahlzettel , Stimmen , Kandidat, Kandidatin, panaschieren, Panaschierstatistik , Kantonsrat
 

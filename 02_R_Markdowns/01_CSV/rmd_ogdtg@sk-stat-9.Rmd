@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2023-06-29 10:03:31
+- **Modified**                 : 2023-11-07 13:21:29
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Gemeinde , Politische Gemeinde, Grossratswahlen , Grosser Rat, Partei , Parteien , Parteistärke, Kantonsrat
 

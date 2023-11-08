@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2019-11-18
-- **Modified**                 : 2023-06-29 10:04:39
+- **Modified**                 : 2023-11-07 09:27:59
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Antrag , Einfache Anfrage, GRGEKO , Grosser Rat, Interpellation , Kantonsparlament , Leistungsmotion , Motion , Parlament , Parlamentarische Initiative , Petition , Vorstoss , Vorstösser, Vorstösserin, Partei , Grossrat, Grossrätin, Kantonsrat
 

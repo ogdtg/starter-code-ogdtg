@@ -24,7 +24,7 @@ Der Datensatz enthält die Ergebnisse der Kandidierenden für die Grossratswahle
 ## Metadata
 
 - **Issued**                   : 2020-03-13
-- **Modified**                 : 2022-03-23 08:55:42
+- **Modified**                 : 2023-11-07 13:31:49
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bezirk , Diessenhofen , Gemeinde , Wahlen , Kantonale Wahlen, Grosser Rat, Grossratswahlen , Wahlzettel , Stimmen , Kandidat, Kandidatin, panaschieren, Panaschierstatistik , Kantonsrat
 

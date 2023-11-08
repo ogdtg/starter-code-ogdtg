@@ -24,7 +24,7 @@ Der Datensatz enthält die Ergebnisse der Kandierenden für die Grossratswahlen 
 ## Metadata
 
 - **Issued**                   : 2020-03-13
-- **Modified**                 : 2022-03-23 06:39:31
+- **Modified**                 : 2023-11-07 13:36:45
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bezirk , Kreuzlingen , Gemeinde , Wahlen , Kantonale Wahlen , Wahlzettel , Stimmen , Kandidat, Kandidatin, Grosser Rat, Grossratswahlen , panaschieren, Panaschierstatistik , Kantonsrat
 
