@@ -23,7 +23,7 @@ Der Datensatz beinhaltet die Ökomorphologie der Fliessgewässer. Die Bewertung 
 
 ## Metadata
 
-- **Issued**                   : 2021-05-31
+- **Issued**                   : 
 - **Modified**                 : 2021-05-31 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fliessgewasser, gewasser

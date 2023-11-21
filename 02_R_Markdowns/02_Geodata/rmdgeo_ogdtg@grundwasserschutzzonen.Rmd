@@ -23,8 +23,8 @@ Der Geobasisdatensatz beinhaltet Grundwasserschutzzonen gemäss Gewässerschutzg
 
 ## Metadata
 
-- **Issued**                   : 2023-07-25
-- **Modified**                 : 2023-07-25 00:00:00
+- **Issued**                   : 
+- **Modified**                 : 2023-10-19 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, naturschutz, grundwasserschutz, landschaftsschutz
 

@@ -23,7 +23,7 @@ Siedlungsverzeichnis; Siedlungsgebiete ohne parzellenscharfe Abgrenzung; jedes W
 
 ## Metadata
 
-- **Issued**                   : 2022-04-26
+- **Issued**                   : 
 - **Modified**                 : 2022-04-26 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, ortsbestimmung, siedlung, statistik

@@ -23,7 +23,7 @@ Zusammenschluss von Gemeinden zu Regionen für die Erfüllung gemeinsamer raumpl
 
 ## Metadata
 
-- **Issued**                   : 2016-03-23
+- **Issued**                   : 
 - **Modified**                 : 2016-03-23 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, entwicklungsplanung, raumplanung, regionalplanung

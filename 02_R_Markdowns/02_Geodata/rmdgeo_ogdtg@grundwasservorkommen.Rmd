@@ -23,7 +23,7 @@ Der Geobasisdatensatz beinhaltet die potenziell nutzbaren und genutzten Grundwas
 
 ## Metadata
 
-- **Issued**                   : 2020-11-17
+- **Issued**                   : 
 - **Modified**                 : 2020-11-17 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, gewasser, grundwasser

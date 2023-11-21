@@ -23,7 +23,7 @@ Unterteilung des Kantons Thurgau in Polizeipostengrenzen, welche die polizeilich
 
 ## Metadata
 
-- **Issued**                   : 2019-07-05
+- **Issued**                   : 
 - **Modified**                 : 2019-07-05 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, polizei, polizeirecht

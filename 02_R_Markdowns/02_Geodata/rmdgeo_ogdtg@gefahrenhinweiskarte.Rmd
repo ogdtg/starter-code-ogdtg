@@ -23,7 +23,7 @@ Beinhaltet Überflutungsgebiete, allgemeine Gefahrengebiete (Erosion, Rutschunge
 
 ## Metadata
 
-- **Issued**                   : 2009-01-01
+- **Issued**                   : 
 - **Modified**                 : 2009-01-01 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, risikobewertung, naturgefahr, naturgefahr, naturrisiko

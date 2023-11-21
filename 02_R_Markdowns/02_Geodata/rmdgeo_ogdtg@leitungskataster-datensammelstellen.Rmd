@@ -23,7 +23,7 @@ Die Gemeinden betreiben für die Daten des Leitungskatasters in ihrem Zuständig
 
 ## Metadata
 
-- **Issued**                   : 2022-11-11
+- **Issued**                   : 
 - **Modified**                 : 2022-11-11 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, verwaltung-organisation-institutionen-planung-politik-und--vollzug-immaterielle-massnahmen

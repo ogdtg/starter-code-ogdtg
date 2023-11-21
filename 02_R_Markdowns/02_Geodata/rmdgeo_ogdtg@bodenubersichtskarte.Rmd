@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Metadata
 
-- **Issued**                   : 2005-09-30
+- **Issued**                   : 
 - **Modified**                 : 2005-09-30 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, bodenart, boden, boden, bodenkarte

@@ -23,8 +23,8 @@ Fruchfolgeflächen (FFF) sind der agronomisch besonders wertvolle Teil des für 
 
 ## Metadata
 
-- **Issued**                   : 2022-01-01
-- **Modified**                 : 2022-01-01 00:00:00
+- **Issued**                   : 
+- **Modified**                 : 2023-10-10 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, flachennutzungsplanung, raumordnung-und--planung, agronomischer-wert, agrarmanagement, landwirtschaftliche-bewirtschaftung, landwirtschaftliche-nutzung, fruchtfolge
 

@@ -23,7 +23,7 @@ Hektarraster für Stickstoffdioxid (NO2) und Feinstaub (PM10) im Kanton Thurgau
 
 ## Metadata
 
-- **Issued**                   : 2018-11-01
+- **Issued**                   : 
 - **Modified**                 : 2018-11-01 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, klima, luft, atmosphare, luftschadstoff

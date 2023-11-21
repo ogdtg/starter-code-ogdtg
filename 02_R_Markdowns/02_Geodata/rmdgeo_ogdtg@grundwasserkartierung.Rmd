@@ -23,7 +23,7 @@ In der Grundwasserkarte sind Informationen zu finden, die bei der Planung von Ba
 
 ## Metadata
 
-- **Issued**                   : 2020-11-17
+- **Issued**                   : 
 - **Modified**                 : 2020-11-17 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, gewasser, grundwasser

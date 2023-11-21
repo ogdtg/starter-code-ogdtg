@@ -23,7 +23,7 @@ Der Datensatz zeigt die Zentren aktiver Biberreviere im Kanton Thurgau zum letzt
 
 ## Metadata
 
-- **Issued**                   : 2020-08-06
+- **Issued**                   : 
 - **Modified**                 : 2020-08-06 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, tierokologie, tierbestand, tierhabitat, tierart

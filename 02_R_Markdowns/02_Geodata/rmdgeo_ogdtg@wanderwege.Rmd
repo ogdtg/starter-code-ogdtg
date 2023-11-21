@@ -23,8 +23,8 @@ Langsamverkehr: Verlauf der Wanderwege und hindernisfreien Wege mit symbolischer
 
 ## Metadata
 
-- **Issued**                   : 2023-01-10
-- **Modified**                 : 2023-01-10 00:00:00
+- **Issued**                   : 
+- **Modified**                 : 2023-09-29 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, wanderweg, individualverkehr, verkehr
 

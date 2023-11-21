@@ -23,7 +23,7 @@ Velowegnetze für die Freizeit: Veloweg-Netz (Routen) und Mountainbike-Netz (Rou
 
 ## Metadata
 
-- **Issued**                   : 2018-05-08
+- **Issued**                   : 
 - **Modified**                 : 2018-05-08 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, radweg, verkehrsweg, individualverkehr, verkehr

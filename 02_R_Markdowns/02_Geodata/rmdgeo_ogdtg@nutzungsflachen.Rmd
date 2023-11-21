@@ -23,7 +23,7 @@ Das Modell „Nutzungsflächen“ beinhaltet die landwirtschaftlich genutzten Fl
 
 ## Metadata
 
-- **Issued**                   : 2022-11-30
+- **Issued**                   : 
 - **Modified**                 : 2022-11-30 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, agrarmanagement, landwirtschaftliche-bewirtschaftung, landwirtschaftliche-nutzung, subvention, landwirtschaft

@@ -23,7 +23,7 @@ Die „Biodiversitätsförderflächen Vernetzung“ überlagern die „Nutzungsf
 
 ## Metadata
 
-- **Issued**                   : 2022-11-30
+- **Issued**                   : 
 - **Modified**                 : 2022-11-30 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, biotopverbund, biotopvernetzung, landschaftsokologie, umweltsubvention, landschaftspflege, landwirtschaft, agrarmanagement, landwirtschaftliche-bewirtschaftung, landwirtschaftliche-nutzung

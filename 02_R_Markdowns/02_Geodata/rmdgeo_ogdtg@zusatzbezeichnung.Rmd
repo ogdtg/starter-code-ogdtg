@@ -23,7 +23,7 @@ Dieser Datensatz beinhaltet die Zusatzbezeichnungen der Weinproduktion nach Geme
 
 ## Metadata
 
-- **Issued**                   : 2022-12-21
+- **Issued**                   : 
 - **Modified**                 : 2022-12-21 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, rebbau, gebiet, wirtschaftliche-rechte, wirtschaft, agrarproduktion, weinbau, landwirtschaft
