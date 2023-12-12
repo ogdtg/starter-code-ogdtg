@@ -24,7 +24,7 @@ Der Gewässerkataster beinhaltet die Fliessgewässer, die stehenden Gewässer un
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-05-16 12:18:44
+- **Modified**                 : 2023-12-11 19:00:25
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, gewasser, hochwasser
 

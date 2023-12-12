@@ -24,7 +24,7 @@ Schutzplan und Waldzieltypenplan im Massstab 1:5000. Definiert den Perimeter des
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-09-04 06:46:04
+- **Modified**                 : 2023-12-11 19:00:06
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, reservat, waldschutz, wald, landschaftsschutz, landschaftsschutz, naturschutz, waldschutzgebiet, forstwirtschaft
 

@@ -24,7 +24,7 @@ Parzellenscharfe, eindeutige Zuweisung des Wald-Eigentums zu einem Forstrevier, 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-05-13 18:00:23
+- **Modified**                 : 2023-12-11 19:00:26
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fauna, flora, wald, forstwirtschaft
 

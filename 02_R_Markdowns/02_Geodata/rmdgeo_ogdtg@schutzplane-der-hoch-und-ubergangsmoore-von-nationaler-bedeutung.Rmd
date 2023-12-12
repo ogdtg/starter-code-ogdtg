@@ -24,7 +24,7 @@ Definiert den Perimeter des nationalen Schutzgebietes. Rechtlich gesichert mit e
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-05-16 12:18:42
+- **Modified**                 : 2023-12-11 19:00:19
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, naturschutz, landschaftsschutz, landschaftsschutz, moor, naturschutzgebiet, nationales-umweltschutzprogramm, raumplanung
 

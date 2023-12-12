@@ -24,7 +24,7 @@ Hintergrundplan-AV des Kantons Thurgau schwarzweiss mit Liegenschaften, Nomenkla
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-01-26 10:06:49
+- **Modified**                 : 2023-12-11 19:00:30
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, ortsbestimmung, landschaft, karte, plan, stockwerk
 

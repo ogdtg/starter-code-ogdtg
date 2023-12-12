@@ -24,7 +24,7 @@ Der Waldentwicklungsplan ist ein forstliches Planungsinstrument auf überbetrieb
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-09-04 06:46:04
+- **Modified**                 : 2023-12-11 19:00:07
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, biodiversitat-im-wald, forstbetriebsgemeinschaft, wald, naturgefahr, forstwirtschaft, erholung
 
