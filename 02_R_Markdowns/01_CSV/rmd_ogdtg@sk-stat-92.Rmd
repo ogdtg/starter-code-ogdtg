@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält die neu erstellten Wohnungen nach Anzahl Zimmern in den Politischen Gemeinden des Kantons Thurgau der Jahre 2013 bis 2019. </p><p>Quellenangabe: Bundesamt für Statistik, Bau- und Wohnbaustatistik</p><p>Mehr Informationen zu den Daten finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/bau-wohnungswesen/bautaetigkeit.assetdetail.16964169.html' target='_blank'>hier</a>.<br/><br/></p>
+<p>Der Datensatz enthält die neu erstellten Wohnungen nach Anzahl Zimmern in den Politischen Gemeinden des Kantons Thurgau ab dem Jahr 2013. </p><p>Quellenangabe: Bundesamt für Statistik, Bau- und Wohnbaustatistik</p><p>Mehr Informationen zu den Daten finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/bau-wohnungswesen/bautaetigkeit.assetdetail.16964169.html' target='_blank'>hier</a>.<br/><br/></p>
 
 ## Metadata
 
 - **Issued**                   : 2021-12-20
-- **Modified**                 : 2023-06-29 10:05:04
+- **Modified**                 : 2023-12-13 10:02:20
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Gemeinde , Politische Gemeinde, Wohnungen, Zimmer, Neue Wohnungen
 

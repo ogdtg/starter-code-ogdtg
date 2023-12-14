@@ -24,7 +24,7 @@ Standorte der Notfalltreffpunkte im Kanton Thurgau, welche als Anlaufstelle für
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-12-11 19:00:12
+- **Modified**                 : 2023-12-13 10:27:47
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, naturkatastrophe, umweltkatastrophe
 

@@ -24,7 +24,7 @@ Kantonale Durchgangsstrassen, bzw. Hauptstrassen gemäss der Durchgangsstrassenv
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-12-11 19:00:07
+- **Modified**                 : 2023-12-13 10:27:43
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fahrweg-streckenfuhrung, offentliche-strasse, strasse, strassennetz, strassenverkehr, verkehr, verkehrsweg
 

@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält die Anzahl Wohnungen nach Zimmerzahl und Politischer Gemeinde der Jahre 2009 bis 2020. </p><p>Quellenangabe: Bundesamt für Statistik, Gebäude- und Wohnungsstatistik</p><p>Mehr Informationen zu den Daten finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/bau-wohnungswesen/bautaetigkeit.assetdetail.16964169.html' target='_blank'>hier</a>.<br/><br/></p>
+<p>Der Datensatz enthält die Anzahl Wohnungen nach Zimmerzahl und Politischer Gemeinde ab dem Jahr 2009. </p><p>Quellenangabe: Bundesamt für Statistik, Gebäude- und Wohnungsstatistik</p><p>Mehr Informationen zu den Daten finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/bau-wohnungswesen/bautaetigkeit.html' target='_blank'>hier</a>.<br/><br/></p>
 
 ## Metadata
 
 - **Issued**                   : 2021-12-20
-- **Modified**                 : 2023-06-29 10:03:32
+- **Modified**                 : 2023-12-13 09:52:30
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Gemeinde , Politische Gemeinde, Wohnungen, Zimmer
 
