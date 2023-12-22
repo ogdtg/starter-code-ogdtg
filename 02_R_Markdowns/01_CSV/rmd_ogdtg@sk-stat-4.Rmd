@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-06-28
-- **Modified**                 : 2023-02-22 09:08:08
+- **Modified**                 : 2023-12-21 12:56:47
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Gemeindefinanzen, Finanzkennzahlen , Finanzen , Gemeinde , Kennzahlen 
 
