@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-In der Grundwasserkarte sind Informationen zu finden, die bei der Planung von Bauvorhaben und von Raumnutzungsvorhaben wichtig sind. Sie umfasst neben den Grundwasserfassungen und -vorkommen auch Oberflächengewässer als Vorfluter/Infiltrant, Isopachen, Isohypsen, etc. Im Bereich des Thurtals wurde ein Modell berechnet woraus die Isohypsen des Niedrig-, Mittel- und Hochwasserstandes abgeleitet wurden. Das Erhebungsgebiet Grundwasser zeigt auf welche Modelle für welchen Zeitraum gelten und gibt weitere Informationen zu den Berechnungen der Modelle.
+In der Grundwasserkarte sind Informationen zu finden, die bei der Planung von Bauvorhaben und von Raumnutzungsvorhaben wichtig sind. Sie umfasst neben den Grundwasserfassungen und -vorkommen auch Oberflächengewässer als Vorfluter/Infiltrant, Isopachen, Isohypsen, etc. Im Bereich des Thur- und Murgtals wurde ein Modell berechnet woraus die Isohypsen des Niedrig-, Mittel- und Hochwasserstandes abgeleitet wurden. Das Erhebungsgebiet Grundwasser zeigt auf, welche Modelle für welchen Zeitraum gelten und gibt weitere Informationen zu den Berechnungen der Modelle. Die modellierten Daten dienen als Planungsgrundlage. Es besteht keine Garantie für Richtigkeit, Vollständigkeit und Aktualität der Daten. Rechtsverbindliche Auskünfte erteilt das Amt für Umwelt, Abteilung Gewässerqualität und –nutzung.
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2020-11-17 00:00:00
+- **Modified**                 : 2024-01-22 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, gewasser, grundwasser
 
