@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2023-11-07 13:18:07
+- **Modified**                 : 2024-03-19 15:25:50
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Grosser Rat, Grossratswahlen , Mandat, Mandate , Mandatsverteilung , Partei , Parteien , Politik , Sitze , Stimmberechtigte , Wahlberechtigte , Parteistärke , Parteistimmen , Wahlen , Kantonale Wahlen, Wahljahr , Wahlbeteiligung , Kantonsrat
 
