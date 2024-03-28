@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz beschreibt die Anzahl durch Thurgauer Betriebe deklarierter Tiere ab 2015, aufgeteilt nach Gemeinde und Tierkategorie. Die Gemeindezuordnung erfolgt nach dem Standort der Tierhaltung und nicht nach dem Standort des Hauptbetriebes. Die Grundlage für die Zahlen liefert die jährliche Betriebsstrukturdatenerhebung. <br/>Die Gruppierung der Tierkategorien und den dazugehörigen Codes sind im '<a href='https://www.blw.admin.ch/dam/blw/de/dokumente/Instrumente/Direktzahlungen/Voraussetzungen Begriffe/Merkblaetter/merkblatt-nr3-tierhaltung-2022.pdf.download.pdf/Merkblatt Nr. 6.3_Tierhaltung 2022.pdf' target='_blank'>Merkblatt Nr. 6.3: Tierhaltung</a>' des Bundesamts für Landwirtschaft aufgeführt.<br/></p><p> Quellenangabe: Landwirtschaftsamt Kanton Thurgau (Datenstand: 30.09.2020)</p>
+<p>Der Datensatz beschreibt die Anzahl durch Thurgauer Betriebe deklarierter Tiere ab 2015, aufgeteilt nach Gemeinde und Tierkategorie. Die Gemeindezuordnung erfolgt nach dem Standort der Tierhaltung und nicht nach dem Standort des Hauptbetriebes. Die Grundlage für die Zahlen liefert die jährliche Betriebsstrukturdatenerhebung. </p><p>Die Begriffe der Schafe und Ziegen haben sich auf das Jahr 2023 verändert.<br><br>Die Gruppierung der Tierkategorien und den dazugehörigen Codes sind im '<a href='https://www.blw.admin.ch/dam/blw/de/dokumente/Instrumente/Direktzahlungen/Voraussetzungen%20Begriffe/Merkblaetter/2024%20Merkblatt%20Nr.%206.3%20Tiererhebung.pdf.download.pdf/2024%20Merkblatt%20Nr.%206.3%20Tiererhebung.pdf ' target='_blank'>Merkblatt Nr. 6.3: Tierhaltung</a>' des Bundesamts für Landwirtschaft aufgeführt.<br></p><p> Quellenangabe: Landwirtschaftsamt Kanton Thurgau</p>
 
 ## Metadata
 
 - **Issued**                   : 2020-10-28
-- **Modified**                 : 2024-03-26 07:03:16
+- **Modified**                 : 2024-03-27 10:08:26
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Tierbestand, Tierbestände, Tierkategorie, Standort, Gemeinde , Tierkorridor , Betriebsstrukturerhebung 
 
