@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2023-11-07 13:22:13
+- **Modified**                 : 2024-04-07 17:25:46
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Gemeinde , Politische Gemeinde, Grossrahtswahlen, Grosser Rat, Stimmen , Wahlzettel ohne Listenbezeichnung, Partei , Parteien , Wahljahr , Kantonsrat
 
