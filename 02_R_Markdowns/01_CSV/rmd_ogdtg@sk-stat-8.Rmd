@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz beinhaltet die Anzahl Wahlberechtigte und die Wahlbeteiligung in Prozent an den Thurgauer Grossratswahlen seit 1965. </p><p>Hinweis zum Jahr 2020: Datenstand gemäss Publikation im Amtsblatt Nr. 12/2020 vom 20. März 2020 (Bezirke Arbon, Kreuzlingen, Münchwilen und Weinfelden) und im Amtsblatt Nr. 27/2020 vom 3. Juli 2020 (Bezirk Frauenfeld).</p>
+<p>Der Datensatz beinhaltet die Anzahl Wahlberechtigte und die Wahlbeteiligung in Prozent an den Thurgauer Grossratswahlen seit 1965. </p><p>Hinweis zu den Daten aus 2024: Provisorisches Endergebnis Grossratswahlen 2024 (Stand 07.04.2024)<br></p>
 
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2024-04-07 17:36:35
+- **Modified**                 : 2024-04-08 13:28:07
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Grosser Rat, Grossratswahlen , Mandate , Wahlbeteiligung , Wahlberechtigte , Wahlen , Kantonale Wahlen, Wahljahr , Kantonsrat
 

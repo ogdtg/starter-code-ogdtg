@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz beinhaltet die Mandatsverteilung nach Partei und Geschlecht im Thurgauer Grossen Rat seit 1972 (Stand am Wahltag, in Anzahl Sitzen).</p><p>Hinweis zum Jahr 2020: Datenstand gemäss Publikation im Amtsblatt Nr. 12/2020 vom 20. März 2020 (Bezirke Arbon, Kreuzlingen, Münchwilen und Weinfelden) und im Amtsblatt Nr. 27/2020 vom 3. Juli 2020 (Bezirk Frauenfeld).</p>
+<p>Der Datensatz beinhaltet die Mandatsverteilung nach Partei und Geschlecht im Thurgauer Grossen Rat seit 1972 (Stand am Wahltag, in Anzahl Sitzen).</p><p>Hinweis zu den Daten aus 2024: Provisorisches Endergebnis Grossratswahlen 2024 (Stand 07.04.2024)<br></p>
 
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2024-04-07 17:40:49
+- **Modified**                 : 2024-04-08 13:27:28
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Grosser Rat, Grossratswahlen , Mandat, Mandate , Mandatsverteilung , Wahlberechtigte , Partei , Parteien , Parteistärke, Parteistimmen , Sitze , Wahlen , Wahljahr , Kantonale Wahlen, Kantonsrat
 
