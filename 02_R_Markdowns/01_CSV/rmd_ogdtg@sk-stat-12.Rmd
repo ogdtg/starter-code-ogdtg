@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2024-04-08 13:26:56
+- **Modified**                 : 2024-04-09 07:55:51
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bezirk , Bezirke , Gemeinde , Politische Gemeinde, Wahlen , Kantonale Wahlen , Wahlberechtigte , Grossratswahlen , Parteien , Wahlzettel , leer, gültig, ungültig, verändert , unverändert
 
