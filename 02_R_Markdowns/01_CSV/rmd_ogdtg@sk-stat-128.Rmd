@@ -24,7 +24,7 @@ Der Datensatz beinhaltet die Ergebnisse der Gesamterneuerungswahl des Regierungs
 ## Metadata
 
 - **Issued**                   : 2024-04-06
-- **Modified**                 : 2024-04-07 13:41:05
+- **Modified**                 : 2024-04-10 07:13:17
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Regierungsrat, Wahlen, Gesamterneuerungswahl, Gemeinden, Bezirke, Stimmen, Regierungsratswahlen, Regierungsratswahl
 
