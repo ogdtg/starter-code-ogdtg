@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-06-29
-- **Modified**                 : 2023-06-29 10:04:41
+- **Modified**                 : 2024-04-30 14:26:26
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Energiestatistik, Energieverbrauch, Energieträger, CO2, CO2-Emission, CO2-Gesamtemissionen, Emission, Gebäude, Industrie, Gewerbe, Verkehr, Landwirtschaft, Abfall, Elektrizität, Erdöl, Erdgas, Treibstoff, Kehricht
 

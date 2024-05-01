@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält die zugesprochenen Projektbeiträge aus dem Lotteriefonds des Kantons Thurgau. Zuständig für die Bearbeitung der Gesuche an den Lotteriefonds ist das Kulturamt Kanton Thurgau. Unterstützt werden kulturelle, wissenschaftliche und gemeinnützige Projekte, die einen Bezug haben zum Kanton und von überregionaler Bedeutung sind.<br/></p><p>Die gesetzlichen Grundlagen und die formalen, inhaltlichen und kulturpolitischen Kriterien für die Beurteilung von Projekten sind online unter <a href='https://kulturamt.tg.ch/' target='_blank'>www.kulturamt.tg.ch</a> einzusehen.</p>
+<p>Der Datensatz enthält die zugesprochenen Projektbeiträge aus dem Lotteriefonds des Kantons Thurgau. Zuständig für die Bearbeitung der Gesuche an den Lotteriefonds ist das Kulturamt Kanton Thurgau. Unterstützt werden kulturelle, wissenschaftliche und gemeinnützige Projekte, die einen Bezug haben zum Kanton und von überregionaler Bedeutung sind.<br></p><p>Die gesetzlichen Grundlagen und die formalen, inhaltlichen und kulturpolitischen Kriterien für die Beurteilung von Projekten sind online unter <a href='https://kulturamt.tg.ch/' target='_blank'>www.kulturamt.tg.ch</a> einzusehen.</p>
 
 ## Metadata
 
 - **Issued**                   : 2022-04-04
-- **Modified**                 : 2024-01-23 11:38:11
+- **Modified**                 : 2024-04-30 05:05:04
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : 
 

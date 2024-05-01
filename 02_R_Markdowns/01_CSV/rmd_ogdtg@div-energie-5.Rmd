@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-06-29
-- **Modified**                 : 2023-06-29 10:04:43
+- **Modified**                 : 2024-04-30 14:27:29
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Energiestatistik, Energieverbrauch, Endenergieverbrauch, Gebäude, Raumwärme, Warmwasser, Energieträger, Gemeinde, Erdöl, Erdgas, Elektrizität, Holzenergie, Fernwärme, Umweltwärme
 
