@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Der Datensatz enthält die Ergebnisse der Kandierenden für die Grossratswahlen 2012 auf Ebene der Politischen Gemeinden des Bezirks Frauenfeld. Die Daten zeigen, wie viele Stimmen die Kandierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben. 
+Die Datensätze enthalten die Ergebnisse der Kandidierenden für die Grossratswahlen 2012 im Kanton Thurgau inklusive der Panaschierstimmen Ebene der Politischen Gemeinden nach Bezirk. Die Daten zeigen, wie viele Stimmen die Kandidierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben. Quellenangabe: Staatskanzlei Thurgau: -  Der Datensatz enthält die Ergebnisse der Kandierenden für die Grossratswahlen 2012 auf Ebene der Politischen Gemeinden des Bezirks Frauenfeld. Die Daten zeigen, wie viele Stimmen die Kandierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben. Quellenangabe: Staatskanzlei Thurgau
 
 ## Metadata
 
 - **Issued**                   : 2020-03-13
-- **Modified**                 : 2023-11-07 13:36:59
+- **Modified**                 : 2024-05-14 14:38:37
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Wahlen , Gemeinde , Bezirk , Frauenfeld , Grosser Rat, Wahlen  , Kantonale Wahlen, Wahlzettel , Stimmen , Kandidat, Kandidatin, panaschieren, Panaschierstatistik , Kantonsrat
 

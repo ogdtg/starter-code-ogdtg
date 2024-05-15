@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält die Ergebnisse der Kandidierenden für die Grossratswahlen 2024 auf Ebene der Politischen Gemeinden des Bezirks Weinfelden. Die Daten zeigen, wie viele Stimmen die Kandidierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben.</p><p><br><p>Provisorisches Endergebnis Grossratswahlen 2024 (Stand 07.04.2024)</p><br></p>
+<p>Der Datensatz enthält die Ergebnisse der Kandidierenden für die Grossratswahlen 2024 auf Ebene der Politischen Gemeinden des Bezirks Weinfelden. Die Daten zeigen, wie viele Stimmen die Kandidierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben.</p><p><br><p>Stand am Wahltag (07.04.2024)</p><br></p>
 
 ## Metadata
 
 - **Issued**                   : 2020-03-17
-- **Modified**                 : 2024-04-07 15:31:31
+- **Modified**                 : 2024-05-14 14:44:06
 - **Rights**                   : 
 - **Keywords**                 : panaschieren, stimmen, Bezirk, Gemeinde, Stimmen, Grossratswahlen, Grosser Rat, Panaschierstatistik, Wahlen, Kantonale Wahlen, Wahlzettel, Kantonsrat
 

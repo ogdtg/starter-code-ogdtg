@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Der Datensatz enthält die Ergebnisse der Kandidierenden für die Grossratswahlen 2008 auf Ebene der Politischen Gemeinden des Bezirks Bischofszell. Die Daten zeigen, wie viele Stimmen die Kandidierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben.  
+Die Datensätze enthalten die Ergebnisse der Kandidierenden für die Grossratswahlen 2008 im Kanton Thurgau inklusive der Panaschierstimmen auf Ebene der Politischen Gemeinden nach Bezirk. Die Daten zeigen, wie viele Stimmen die Kandidierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben. Quellenangabe: Staatskanzlei Thurgau: -  Der Datensatz enthält die Ergebnisse der Kandidierenden für die Grossratswahlen 2008 auf Ebene der Politischen Gemeinden des Bezirks Bischofszell. Die Daten zeigen, wie viele Stimmen die Kandidierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben. Quellenangabe: Staatskanzlei Thurgau
 
 ## Metadata
 
 - **Issued**                   : 2020-03-13
-- **Modified**                 : 2023-11-07 13:28:07
+- **Modified**                 : 2024-05-14 14:44:10
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bezirk , Bischofszell , Gemeinde , Wahlen , Grosser Rat, Grossratswahlen , Stimmen , Kantonale Wahlen, Wahlzettel , Kandidat, Kandidatin, panaschieren, Panaschierstatistik , Kantonsrat
 

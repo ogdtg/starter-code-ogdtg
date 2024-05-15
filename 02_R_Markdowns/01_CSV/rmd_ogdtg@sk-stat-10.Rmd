@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz beinhaltet die Parteistimmen an den Thurgauer Grossratswahlen ab 2008 nach Parteien. (Hinweis: Neue Bezirksordnung ab 2010) </p><p>Hinweis zu den Daten aus 2024: Provisorisches Endergebnis Grossratswahlen 2024 (Stand 07.04.2024)</p>
+Die Datensätze beinhalten Ergebnisse der Thurgauer Grossratswahlen der Jahre 2008, 2012, 2016 und 2020 auf Gemeindeebene: Parteistärke, Parteistimmen, Wahlbeteiligung und Wahlberechtigte. Hinweis zum Jahr 2020: Datenstand gemäss Publikation im Amtsblatt Nr. 12/2020 vom 20. März 2020 (Bezirke Arbon, Kreuzlingen, Münchwilen und Weinfelden) und im Amtsblatt Nr. 27/2020 vom 3. Juli 2020 (Bezirk Frauenfeld) Quellenangabe: Staatskanzlei Kanton Thurgau : -  Der Datensatz beinhaltet die Parteistimmen an den Thurgauer Grossratswahlen 2008, 2012, 2016 und 2020 nach Parteien.  (Hinweis: Neue Bezirksordnung ab 2010)
 
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2024-04-08 13:26:45
+- **Modified**                 : 2024-05-14 14:37:48
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Gemeinde , Politische Gemeinde, Grossrahtswahlen, Grosser Rat, Stimmen , Wahlzettel ohne Listenbezeichnung, Partei , Parteien , Wahljahr , Kantonsrat
 

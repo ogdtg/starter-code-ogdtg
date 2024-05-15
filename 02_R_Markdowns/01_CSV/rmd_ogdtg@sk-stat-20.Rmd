@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Der Datensatz enthält die Ergebnisse der Kandidierenden für die Grossratswahlen 2004 auf Ebene der Politischen Gemeinden des Bezirks Weinfelden. Die Daten zeigen, wie viele Stimmen die Kandidierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben. 
+Die Datensätze enthalten die Ergebnisse der Kandidierenden für die Grossratswahlen 2004 im Kanton Thurgau inklusive der Panaschierstimmen auf Ebene der Politischen Gemeinden nach Bezirk. Die Daten zeigen, wie viele Stimmen die Kandidierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben. Quellenangabe: Staatskanzlei Thurgau: -  Der Datensatz enthält die Ergebnisse der Kandidierenden für die Grossratswahlen 2004 auf Ebene der Politischen Gemeinden des Bezirks Weinfelden. Die Daten zeigen, wie viele Stimmen die Kandidierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben. Quellenangabe: Staatskanzlei Thurgau
 
 ## Metadata
 
 - **Issued**                   : 2020-03-13
-- **Modified**                 : 2023-11-07 13:29:01
+- **Modified**                 : 2024-05-14 14:44:21
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bezirk , Weinfelden , Gemeinde , Wahlen , Kantonale Wahlen, Wahlzettel , Stimmen , Grosser Rat, Grossratswahlen , Kandidat, Kandidatin, panaschieren, Panaschierstatistik , Kantonsrat
 
