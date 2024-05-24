@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Das Modell beschreibt die Ebenen Landschaftsräume, Projektperimeter und Vertragsobjekte. Die Erfassung von Vertragsobjekten ist optional. Im Kanton Thurgau werden keine Vertragsobjekte LQ im GIS erfasst.
+Das Modell beschreibt die Ebenen der Landschaftsräume und Projektperimeter.
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-12-13 10:27:48
+- **Modified**                 : 2024-05-23 06:05:45
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, agrarmanagement, landwirtschaftliche-bewirtschaftung, landwirtschaftliche-nutzung, landwirtschaft, landschaftspflege
 

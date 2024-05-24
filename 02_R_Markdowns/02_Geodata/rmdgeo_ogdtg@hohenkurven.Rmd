@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Dieser Datensatz beinhaltet die Höhenkurven im Kanton Thurgau mit einer Äquidistanz von 0.5m. Sie wurden unterteilt in Zählkurven 50m, Normalkurven 10m, Zwischnenkurven 5m, Zwischnenkurven 1m und Zwischenkurven 0.5m. Als Grundlage für die Berechnung der Höhenkurven diente das swissALTI3D, welches in den Jahren 2017 und 2018 über den Kanton Thurgau mittels LIDAR beflogen wurde. Bei der Berechnung wurden die Höhenkurven generalisiert und geglättet.
+Dieser Datensatz beinhaltet die Höhenkurven im Kanton Thurgau mit einer Äquidistanz von 0.5m. Sie wurden unterteilt in Zählkurven 50m, Normalkurven 10m, Zwischenkurven 5m, Zwischenkurven 1m und Zwischenkurven 0.5m. Als Grundlage für die Berechnung der Höhenkurven diente das swissALTI3D, welches in den Jahren 2017 und 2018 über den Kanton Thurgau mittels LIDAR beflogen wurde. Bei der Berechnung wurden die Höhenkurven generalisiert und geglättet.
 
 ## Metadata
 

@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Das Modell „Bewirtschaftungseinheit“ beschreibt, welche „Bewirtschaftungseinheiten“ von welchem Betrieb bewirtschaftet werden. Die Summe aller „Bewirtschaftungseinheiten“ eines Betriebes ergibt die Betriebsfläche.
+Das Modell „Bewirtschaftungseinheiten“ beschreibt, welche Bewirtschaftungseinheiten von welchem Betrieb bewirtschaftet werden. Die Summe aller Bewirtschaftungseinheiten eines Betriebes ergibt die Betriebsfläche.
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2022-11-30 00:00:00
+- **Modified**                 : 2023-11-30 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, agrarmanagement, landwirtschaftliche-bewirtschaftung, landwirtschaftliches-unternehmen, landwirtschaft
 

@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Schutzplan und Waldzieltypenplan im Massstab 1:5000. Definiert den Perimeter des kommunalen Schutzgebietes und legt die waldbauliche Behandlung der Teilflächen fest. Rechtlich gesichert mit der Schutzanordnung. Vorerst ist nur der Perimeter digital erfasst.
+Waldreservate gemäss WaG (SR 921.0), TG WaldG (RB 921.1) und TG WaldV (RB 921.11). Rechtlich gesichert mit einer Schutzanordnung (RRB), Schutzplan und Waldzieltypenplan. Darin sind der Perimeter des Schutzgebietes und die waldbauliche Behandlung der Teilflächen festgelegt.
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-12-13 10:27:53
+- **Modified**                 : 2024-05-23 06:05:49
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, reservat, waldschutz, wald, landschaftsschutz, landschaftsschutz, naturschutz, waldschutzgebiet, forstwirtschaft
 
