@@ -24,7 +24,7 @@ Die sog. Planquadrate mit einer Seitenlänge von 2 km sind auf den International
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2024-05-23 06:05:51
+- **Modified**                 : 2024-05-27 07:48:04
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, schiffahrt, binnenschiffahrt, sicherheitssystem
 
