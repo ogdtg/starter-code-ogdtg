@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz beschreibt die total ausbezahlten Direktzahlungen gemäss Direktzahlungsverordnung im Kanton Thurgau ab 2014, aufgeteilt nach Beitragsart. Die Grundlage für die Berechnung der Beiträge liefert die jährliche Betriebsstrukturdatenerhebung.  Ebenfalls aufgeführt sind die Einzelkulturbeiträge und die Getreidezulage.</p>
+<p>Der Datensatz beschreibt die total ausbezahlten Direktzahlungen gemäss Direktzahlungsverordnung im Kanton Thurgau ab 2014, aufgeteilt nach Beitragsart. Die Grundlage für die Berechnung der Beiträge liefert die jährliche Betriebsstrukturdatenerhebung.  Ebenfalls aufgeführt sind die Einzelkulturbeiträge und die Getreidezulage.</p><p><b>BITTE BEACHTEN:</b> Mit den Umstrukturierungen in der Agrarpolitik auf das Jahr 2023 gab es gewisse Änderungen im Direktzahlungssystem. So wurden einige Ressourceneffizienzbeiträge in Produktionssystembeiträge überführt. Bei den Produktionssystembeiträgen gibt es neu eine Unterteilung zwischen Pflanzen und Tieren. Die Daten ab einschliesslich 2023 können daher nicht ohne weiteres mit den vorherigen Jahren verglichen werden. Mehr Informationen zur geänderten Direktzahlungsverordnung finden Sie <a href='https://arenenberg.tg.ch/details.html/706/news/59238' target='_blank'>hier.</a></p>
 
 ## Metadata
 
 - **Issued**                   : 2020-06-29
-- **Modified**                 : 2024-03-26 10:51:37
+- **Modified**                 : 2024-06-28 08:00:09
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Direktzahlung, Direktzahlungsverordnung , Einzelkulturbeitrag, Getreidezulage , Landwirtschaft , Betriebsstrukturerhebung 
 
