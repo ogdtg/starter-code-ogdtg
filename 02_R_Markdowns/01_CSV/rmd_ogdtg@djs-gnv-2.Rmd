@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p><span style='font-size: 12.495px;'>Der Datensatz beinhaltet die jährliche Anzahl der Beglaubigungen bei den Notariaten im Kanton Thurgau ab 2017, unterteilt nach Bezirken.</span></p>
+<p>Der Datensatz beinhaltet die jährliche Anzahl der Beglaubigungen bei den Notariaten im Kanton Thurgau ab 2017, unterteilt nach Bezirken.</p><p><b>BITTE BEACHTEN: </b>Ab dem Jahr 2024 stehen die Daten nicht mehr auf Jahres- sondern auf Quartalsebene zur Verfügung. Dies wird durch die Spalte 'QUARTAL' gekennzeichnet. Einträge bis einschliesslich 2023 sind auf Jahresebene aggregiert.</p>
 
 ## Metadata
 
 - **Issued**                   : 2021-06-29
-- **Modified**                 : 2024-01-17 08:41:12
+- **Modified**                 : 2024-07-04 12:46:04
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Beglaubigung, Notariat, Bezirk 
 
