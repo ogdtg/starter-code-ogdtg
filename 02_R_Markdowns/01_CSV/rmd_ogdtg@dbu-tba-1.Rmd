@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2024-09-22 11:01:05
+- **Modified**                 : 2024-09-23 11:01:54
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : verkehr, strasse, zählstelle, individualverkehr, lkw, pkw, motorrad, auto, lastwagen, anhänger, motorisiert, Verkehrszählung, Verkehrszähldaten
 
