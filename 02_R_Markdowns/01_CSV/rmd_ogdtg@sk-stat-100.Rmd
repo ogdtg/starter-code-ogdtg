@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2022-01-16
-- **Modified**                 : 2023-10-04 07:53:26
+- **Modified**                 : 2024-09-24 15:11:03
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Vollzeitäquivalente, Beschäftigung, Unternehmensstruktur, Unternehmen , Gemeinde , Politische Gemeinde, Wirtschaftssektor
 

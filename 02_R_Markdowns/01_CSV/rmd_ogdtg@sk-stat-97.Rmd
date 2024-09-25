@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält die Anzahl Arbeitsstätten nach Sektoren in den Politischen Gemeinden des Kantons Thurgau seit 2011.<br/></p> <p>Definitionen:<br/></p> <ul><li>Arbeitsstätte: Eine Arbeitsstätte gemäss der Statistik der Unternehmensstruktur (STATENT) ist eine örtlich abgegrenzte Einheit einer institutionellen Einheit, in der eine wirtschaftliche Tätigkeit ausgeübt wird.</li></ul> <p>Datenquelle: Bundesamt für Statistik, STATENT</p> <p>Die Daten stammen aus der Statistik der Unternehmensstruktur STATENT vom Bundesamt für Statistik. Die STATENT liefert zentrale Informationen zur Struktur der Schweizer Wirtschaft (z. B. Anzahl Unternehmen, Anzahl Arbeitsstätten, Anzahl Beschäftigte usw.) und gibt damit einen Überblick über die Wirtschaftslandschaft der Schweiz. Weitere Informationen finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/industrie-dienstleistungen/erhebungen/statent.html' target='_blank'>hier</a>.<br/></p>
+<p>Der Datensatz enthält die Anzahl Arbeitsstätten nach Sektoren in den Politischen Gemeinden des Kantons Thurgau seit 2011.<br></p> <p>Definitionen:<br></p> <ul><li>Arbeitsstätte: Eine Arbeitsstätte gemäss der Statistik der Unternehmensstruktur (STATENT) ist eine örtlich abgegrenzte Einheit einer institutionellen Einheit, in der eine wirtschaftliche Tätigkeit ausgeübt wird.</li></ul> <p>Datenquelle: Bundesamt für Statistik, STATENT</p> <p>Die Daten stammen aus der Statistik der Unternehmensstruktur STATENT vom Bundesamt für Statistik. Die STATENT liefert zentrale Informationen zur Struktur der Schweizer Wirtschaft (z. B. Anzahl Unternehmen, Anzahl Arbeitsstätten, Anzahl Beschäftigte usw.) und gibt damit einen Überblick über die Wirtschaftslandschaft der Schweiz. Weitere Informationen finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/industrie-dienstleistungen/erhebungen/statent.html' target='_blank'>hier</a>.</p><p><b>Aus Datenschutzgründen dürfen einige zu kleine Werte nicht ausgewiesen werden. Diese sind werden durch den Wert -99 ersetzt.</b></p>
 
 ## Metadata
 
 - **Issued**                   : 2022-01-16
-- **Modified**                 : 2023-09-04 13:23:18
+- **Modified**                 : 2024-09-24 15:12:43
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Arbeitsstätten, Beschäftigung, Unternehmen , Betriebe , Gemeinde , Politische Gemeinde, Sektor, Wirtschaftssektor
 
