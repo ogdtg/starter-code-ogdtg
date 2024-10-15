@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-06-30
-- **Modified**                 : 2024-07-17 13:46:05
+- **Modified**                 : 2024-10-14 10:25:43
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Konkurse, Konkurs, Notariat, Nachlass, Privatkonkurs, Firmenkonkurs, Nachlassliquidation
 
