@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-01-12
-- **Modified**                 : 2022-08-17 12:09:51
+- **Modified**                 : 2024-11-01 10:47:59
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bevölkerung, Wohnbevölkerung, Ständige Wohnbevölkerung, Gemeinde , Bezirk , Nationalität, Geschlecht 
 

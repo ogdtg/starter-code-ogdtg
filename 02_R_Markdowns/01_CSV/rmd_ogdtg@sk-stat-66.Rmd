@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2024-03-18 09:37:35
+- **Modified**                 : 2024-11-01 10:42:39
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bevölkerung, wohnbevoelkerung, Ständige Wohnbevölkerung, Bezirk , Alter, Einzelaltersjahre, Zivilstand , ledig, verheiratet, geschieden, verwitwet, unverheiratet, Partnerschaft, aufgelöst
 

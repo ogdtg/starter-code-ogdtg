@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-10-30
-- **Modified**                 : 2023-05-04 06:19:51
+- **Modified**                 : 2024-11-01 08:54:46
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : covid19, bezirk, Corona, Kalenderwoche, Woche, Inzidenz, Pandemie
 

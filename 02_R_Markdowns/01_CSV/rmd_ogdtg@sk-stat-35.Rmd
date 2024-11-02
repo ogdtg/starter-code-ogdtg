@@ -24,7 +24,7 @@ Die Datensätze enthalten die Ergebnisse der Kandidierenden für die Grossratswa
 ## Metadata
 
 - **Issued**                   : 2020-03-13
-- **Modified**                 : 2024-05-14 14:43:09
+- **Modified**                 : 2024-11-01 10:21:01
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bezirk , Gemeinde , Frauenfeld , Kandidat, Kandidatin, Grosser Rat, Grossratswahlen , Stimmen , Wahlen , Wahlzettel , Kantonale Wahlen, Panaschierstatistik , panaschieren , Kantonsrat
 

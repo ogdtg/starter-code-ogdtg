@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-12-16
-- **Modified**                 : 2022-08-17 13:16:21
+- **Modified**                 : 2024-11-01 08:53:22
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Mutation, Politische Gemeinde, Gemeinde , Gemeindemutationen
 

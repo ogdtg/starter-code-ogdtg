@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p><span style='font-family: inherit;'>Der Datensatz enthält eine Auflistung der Kindertagesstätten im Kanton Thurgau mit Informationen zum Standort, der Anzahl bewilligter Plätze, der Trägerschaft (Rechtsform) und der Qualitätslabels.</span></p><p><span style='font-family: inherit;'>Datenstand: Oktober 2019</span><br/></p>
+<p><span style='font-family: inherit;'>Der Datensatz enthält eine Auflistung der Kindertagesstätten im Kanton Thurgau mit Informationen zum Standort, der Anzahl bewilligter Plätze, der Trägerschaft (Rechtsform) und der Qualitätslabels.</span></p><p><span style='font-family: inherit;'>Datenstand: Oktober 2019</span><br></p>
 
 ## Metadata
 
 - **Issued**                   : 2019-11-19
-- **Modified**                 : 2022-02-10 14:24:29
+- **Modified**                 : 2024-11-01 09:24:12
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Kindertagesstätten, Kita, Kitas, Betreuung, Kinderbetreuung 
 

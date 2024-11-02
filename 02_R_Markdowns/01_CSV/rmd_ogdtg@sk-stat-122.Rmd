@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-10-30 13:01:07
+- **Modified**                 : 2024-11-01 09:01:12
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Politik, kandidierende, kandidaten, kandidatinnen, Wahlen , Nationalrat, Nationalratswahlen, Geschlecht, mann, frau, gewählt, mandate
 

@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-04-09
-- **Modified**                 : 2023-05-04 06:20:52
+- **Modified**                 : 2024-11-01 08:56:13
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : covid19, Corona, Pandemie, altersklassen, geschlecht, Hospitalisation, IPS, Verstorben
 

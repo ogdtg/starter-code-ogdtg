@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-11-03 09:51:41
+- **Modified**                 : 2024-11-01 08:35:27
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Politik, Nationalrat, Nationalratswahlen, Wahlen , wahlen, Partei , parteistimmen, parteistarke, fdp, cvp, svp, gp, glp, sp
 

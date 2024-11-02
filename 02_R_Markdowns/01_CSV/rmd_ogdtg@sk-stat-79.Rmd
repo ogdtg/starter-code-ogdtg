@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-12-16
-- **Modified**                 : 2021-12-22 07:30:17
+- **Modified**                 : 2024-11-01 08:52:36
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Bezirk , Gemeinde , Politische Gemeinde, Bezirksnummer, Gemeindenummer
 

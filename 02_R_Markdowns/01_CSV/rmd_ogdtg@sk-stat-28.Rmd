@@ -24,7 +24,7 @@ Die Datensätze enthalten die Ergebnisse der Kandidierenden für die Grossratswa
 ## Metadata
 
 - **Issued**                   : 2020-03-13
-- **Modified**                 : 2024-05-14 14:43:16
+- **Modified**                 : 2024-11-01 10:12:43
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bezirk , Weinfelden , Gemeinde , Grossratswahlen , Wahlen , Grosser Rat, Wahlzettel , Kantonale Wahlen, Stimmen , Kandidat, Kandidatin, panaschieren, Panaschierstatistik , Kantonsrat
 

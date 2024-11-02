@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-11-16 07:18:31
+- **Modified**                 : 2024-11-01 09:00:32
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Sozialhilfe , Staatsangehörigkeit
 

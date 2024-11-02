@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2019-06-16
-- **Modified**                 : 2024-08-23 07:16:52
+- **Modified**                 : 2024-11-01 10:06:52
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Badestelle, badegewasser, Binnensee , Bodensee , CH-Einstufung , E-Coli , Gewässerqualität, Intestinale Enterrokokken, Untersee , Rhein , Laboratorium , Gewässerprobe, Badegewässer, Mikrobielle Verunreinigung, Qualitätsstufen
 

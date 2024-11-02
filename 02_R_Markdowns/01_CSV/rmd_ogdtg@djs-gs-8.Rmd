@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält eine Auflistung der Betreuungsangebote im Kanton Thurgau mit Informationen zum Standort, der Anzahl bewilligter Plätze, der Trägerschaft (Rechtsform) und der Qualitätslabel.</p><p>Datenstand jeweils  31.12 (ab 2022)</p><p>Für Daten zu früheren Jahren siehe:</p><ul><li> <a href='https://data.tg.ch/explore/dataset/djs-gs-3/' target='_blank'>Daten Schulergänzende Kinderbetreuung Stand Oktober 2019</a></li><li><a href='https://data.tg.ch/explore/dataset/djs-gs-4/' target='_blank'>Daten Schulergänzende Kinderbetreuung Stand August 2020</a></li></ul><p><br/></p>
+<p>Der Datensatz enthält eine Auflistung der Betreuungsangebote im Kanton Thurgau mit Informationen zum Standort, der Anzahl bewilligter Plätze, der Trägerschaft (Rechtsform) und der Qualitätslabel.</p><p>Datenstand jeweils  31.12 (ab 2022)</p><p>Für Daten zu früheren Jahren siehe:</p><ul><li> <a href='https://data.tg.ch/explore/dataset/djs-gs-3/' target='_blank'>Daten Schulergänzende Kinderbetreuung Stand Oktober 2019</a></li><li><a href='https://data.tg.ch/explore/dataset/djs-gs-4/' target='_blank'>Daten Schulergänzende Kinderbetreuung Stand August 2020</a></li></ul><p><br></p>
 
 ## Metadata
 
 - **Issued**                   : 2020-12-22
-- **Modified**                 : 2023-01-04 13:45:40
+- **Modified**                 : 2024-11-01 09:28:42
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Hort , Kinderbetreuung , schulergänzend, Betreuungsangebot
 

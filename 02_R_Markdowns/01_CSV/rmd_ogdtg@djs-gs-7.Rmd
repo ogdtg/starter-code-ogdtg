@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p><span style='font-family: inherit;'>Der Datensatz enthält eine Auflistung der Kindertagesstätten im Kanton Thurgau mit Informationen zum Standort, der Anzahl bewilligter Plätze, der Trägerschaft (Rechtsform) und der Qualitätslabels.</span></p><p><span style='font-family: inherit;'>Datenstand: 31.12 (ab 2022)</span></p><p>Für Daten zu früheren Jahren siehe:<br/></p><ul><li> <a href='https://data.tg.ch/explore/dataset/djs-gs-1/' target='_blank'>Daten Kindertagesstätten Stand Oktober 2019</a></li><li><a href='https://data.tg.ch/explore/dataset/djs-gs-2/' target='_blank'>Daten Kindertagesstätten Stand August 2020</a></li></ul><p><br/></p>
+<p><span style='font-family: inherit;'>Der Datensatz enthält eine Auflistung der Kindertagesstätten im Kanton Thurgau mit Informationen zum Standort, der Anzahl bewilligter Plätze, der Trägerschaft (Rechtsform) und der Qualitätslabels.</span></p><p><span style='font-family: inherit;'>Datenstand: 31.12 (ab 2022)</span></p><p>Für Daten zu früheren Jahren siehe:<br></p><ul><li> <a href='https://data.tg.ch/explore/dataset/djs-gs-1/' target='_blank'>Daten Kindertagesstätten Stand Oktober 2019</a></li><li><a href='https://data.tg.ch/explore/dataset/djs-gs-2/' target='_blank'>Daten Kindertagesstätten Stand August 2020</a></li></ul><p><br></p>
 
 ## Metadata
 
 - **Issued**                   : 2020-12-22
-- **Modified**                 : 2023-01-04 13:44:55
+- **Modified**                 : 2024-11-01 09:20:59
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Kindertagesstätten, Kita, Kitas, Betreuung, Kinderbetreuung 
 

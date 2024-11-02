@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz umfasst die Sozialhilfequoten der Thurgauer Gemeinden. Für Gemeinden mit weniger als 3 Sozialhilfefällen werden die Daten aus Datenschutzgründen nicht gezeigt (fehlende Werte).  </p><p>Die Daten stammen aus der Schweizerischen Sozialhilfestatistik vom Bundesamt für Statistik. Diese erfasst alle Personen, die mindestens einmal im Jahr finanzielle Leistungen von der Sozialhilfe bezogen haben (ohne den Asyl- und Flüchtlingsbereich, der in die Zuständigkeit des Bundes fällt). Weitere Informationen finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/soziale-sicherheit/sozialhilfe/sozialhilfebeziehende/wirtschaftliche-sozialhilfe.html' target='_blank'>hier</a>.</p><p>Begriffe:<br/></p><p>Die Sozialhilfequote bezeichnet den Anteil der Sozialhilfebeziehenden, die mindestens einmal während des Jahres Sozialhilfe bezogen haben, gemessen an der gesamten ständigen Wohnbevölkerung des Vorjahres (Bundesamt für Statistik, STATPOP). </p><p>Hinweis zur Nutzung der Daten: <br/></p><p>Von den Gemeinden kann nicht auf Ebene Bezirk oder Kanton hochgerechnet werden.</p>
+<p>Der Datensatz umfasst die Sozialhilfequoten der Thurgauer Gemeinden. Für Gemeinden mit weniger als 3 Sozialhilfefällen werden die Daten aus Datenschutzgründen nicht gezeigt (fehlende Werte).  </p><p>Die Daten stammen aus der Schweizerischen Sozialhilfestatistik vom Bundesamt für Statistik. Diese erfasst alle Personen, die mindestens einmal im Jahr finanzielle Leistungen von der Sozialhilfe bezogen haben (ohne den Asyl- und Flüchtlingsbereich, der in die Zuständigkeit des Bundes fällt). Weitere Informationen finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/soziale-sicherheit/sozialhilfe/sozialhilfebeziehende/wirtschaftliche-sozialhilfe.html' target='_blank'>hier</a>.</p><p>Begriffe:<br></p><p>Die Sozialhilfequote bezeichnet den Anteil der Sozialhilfebeziehenden, die mindestens einmal während des Jahres Sozialhilfe bezogen haben, gemessen an der gesamten ständigen Wohnbevölkerung des Vorjahres (Bundesamt für Statistik, STATPOP). </p><p>Hinweis zur Nutzung der Daten: <br></p><p>Von den Gemeinden kann nicht auf Ebene Bezirk oder Kanton hochgerechnet werden.</p>
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-11-16 07:39:16
+- **Modified**                 : 2024-11-01 09:25:28
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Sozialhilfe , Sozialhilfequote, Politische Gemeinde, Gemeinde 
 

@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz beinhaltet Daten zu den Steuerfüssen der evangelischen Kirchgemeinden des Kantons Thurgau (inkl. kantonsübergreifende Kirchgemeinden) ab 2004.</p> <p>Hinweis 1: Aufgrund von Kirchgemeindefusionen verändern sich Anzahl Kirchgemeinden und Bezeichnungen über die Zeit.</p> <p>Hinweis 2: Die Kirchgemeinde Wigoltingen-Raperswilen setzte sich bis 2015 aus drei Körperschaften mit der separaten Rechnungen und eigenem Steuerfuss zusammen.</p><p>Hinweis 3: korrigierte Version, 7.08.2023<br/></p>
+<p>Der Datensatz beinhaltet Daten zu den Steuerfüssen der evangelischen Kirchgemeinden des Kantons Thurgau (inkl. kantonsübergreifende Kirchgemeinden) ab 2004.</p> <p>Hinweis 1: Aufgrund von Kirchgemeindefusionen verändern sich Anzahl Kirchgemeinden und Bezeichnungen über die Zeit.</p> <p>Hinweis 2: Die Kirchgemeinde Wigoltingen-Raperswilen setzte sich bis 2015 aus drei Körperschaften mit der separaten Rechnungen und eigenem Steuerfuss zusammen.</p><p>Hinweis 3: korrigierte Version, 7.08.2023<br></p>
 
 ## Metadata
 
 - **Issued**                   : 2021-06-29
-- **Modified**                 : 2024-07-01 06:53:00
+- **Modified**                 : 2024-11-01 09:26:49
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Steuerfüsse, evangelisch, Kirchensteuern, Steuerfuss , Kirchgemeinden , Gemeinde 
 
