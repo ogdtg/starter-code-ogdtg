@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2024-11-01 21:00:27
+- **Modified**                 : 2024-11-08 21:00:19
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Handelsregister, Unternehmensstruktur, firmenindex, zefix, lindas, linked data, Standort, koordinaten, amtsblatt, Firma, Firmenkonkurs, Unternehmen , GWR, Gebäude, Wohnung 
 
