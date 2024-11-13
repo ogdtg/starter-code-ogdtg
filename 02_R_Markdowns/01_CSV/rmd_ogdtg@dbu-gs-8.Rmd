@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der vorliegende Datensatz enthält die meteorologischen Daten zur Fluglärm-Messstation in Iselisberg TG. Die Sinus AG betreibt die Messstation im Auftrag des kantonalen Departements für Bau und Umwelt neben einem Wohnquartier in Iselisberg TG, weil der Kanton Thurgau im An- und Abflugbereich des Flughafens Zürich liegt. In die Messstation integriert ist eine Wetterstation, die Windgeschwindigkeit, Windrichtung, Temperatur, Feuchtigkeit, Luftdruck und Tages-Niederschlag aufzeichnet.<br/></p>
+<p>Der vorliegende Datensatz enthält die meteorologischen Daten zur Fluglärm-Messstation in Iselisberg TG. Die Sinus AG betreibt die Messstation im Auftrag des kantonalen Departements für Bau und Umwelt neben einem Wohnquartier in Iselisberg TG, weil der Kanton Thurgau im An- und Abflugbereich des Flughafens Zürich liegt. In die Messstation integriert ist eine Wetterstation, die Windgeschwindigkeit, Windrichtung, Temperatur, Feuchtigkeit, Luftdruck und Tages-Niederschlag aufzeichnet.<br></p>
 
 ## Metadata
 
 - **Issued**                   : 2019-06-16
-- **Modified**                 : 2024-11-01 09:00:08
+- **Modified**                 : 2024-11-12 10:38:47
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Dezibel , Fluglärm, Fluglärmmonitoring, Lärmschutz, Lärmschutzverordnung, Monitoring , Umweltschutz , Iselisberg, Region Frauenfeld, Meteorologie
 
