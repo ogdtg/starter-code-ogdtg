@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2018-01-18
-- **Modified**                 : 2024-11-01 08:59:15
+- **Modified**                 : 2024-11-24 13:57:09
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : eidgenössisch, Abstimmung, Eidgenössische Abstimmung, Resultat, Abstimmungsergebnis, Ja-Stimmen, Nein-Stimmen, Referendum , Initiative , obligatorisch, fakultativ, Stimmberechtigte  
 
