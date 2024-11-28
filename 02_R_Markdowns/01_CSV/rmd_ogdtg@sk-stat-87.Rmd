@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-12-20
-- **Modified**                 : 2024-11-01 10:35:29
+- **Modified**                 : 2024-11-27 08:22:28
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Sozialhilfe , Sozialhilfequote, Dossier, Bezirk , Bezirke , Sozialhilfebezüger
 
