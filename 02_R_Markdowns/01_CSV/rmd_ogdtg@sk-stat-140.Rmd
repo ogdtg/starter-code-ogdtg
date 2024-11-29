@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält die politischen Geschäfte des Grossen Rats seit 2008. <span style='font-family: inherit; font-size: 0.875rem;'>Über die Geschäftsnummer kann der Datensatz mit weiteren Datensätzen zum Grossen Rat wie den <a href='https://data.tg.ch/explore/dataset/sk-stat-141/information/' target='_blank'>Vorstösserinnen und Vorstösser</a> oder den <a href='https://data.tg.ch/explore/dataset/sk-stat-139/information/' target='_blank'>Dokumenten </a>verbunden ('gejoint') werden.</span></p><p></p><p>Die Daten stammen aus der elektronische Geschäftsdatenbank des Grossen Rats (GRGEKO) und werden täglich automatisiert aktualisiert.</p><p></p><p><br></p>
+<p>Der Datensatz enthält die politischen Geschäfte des Grossen Rats seit 2008. Über die Geschäftsnummer kann der Datensatz mit weiteren Datensätzen zum Grossen Rat wie den <a href='https://data.tg.ch/explore/dataset/sk-stat-141/information/' target='_blank'>Vorstösserinnen und Vorstösser</a> oder den <a href='https://data.tg.ch/explore/dataset/sk-stat-139/information/' target='_blank'>Dokumenten </a>verbunden ('gejoint') werden.</p><p></p><p>Die Daten stammen aus der elektronische Geschäftsdatenbank des Grossen Rats (GRGEKO) und werden täglich automatisiert aktualisiert.</p><p></p><p><br></p>
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2024-11-27 13:00:07
+- **Modified**                 : 2024-11-28 15:59:24
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Antrag, Einfache Anfrage, Grosser Rat, GRGEKO, Interpellation, Kantonsparlament, Leistungsmotion, Motion, Parlament, Parlamentarische Initiative, Petition, Vorstoss, Vorstösser, Vorstösserin, Partei, Beschluss, Grossrat, Grossrätin, Kantonsrat, grdata
 

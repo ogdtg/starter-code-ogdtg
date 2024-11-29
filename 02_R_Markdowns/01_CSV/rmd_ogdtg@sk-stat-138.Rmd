@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält Informationen zu den aktuellen Mitgliedern des Grossen Rats. Die Daten werden täglich mit der online verfügbaren Mitgliederliste abgeglichen und bei Änderungen automatisch aktualisiert. Die Daten enthalten immer die aktuellen Mitglieder des Grossen Rats und zeigen keinen historisierten Verlauf.</p><p><br></p><p>Alle Informationen finden sie hier: <a href='https://parlament.tg.ch/mitglieder/mitgliederliste.html/12745' target='_blank'>https://parlament.tg.ch/mitglieder/mitgliederliste.html/12745</a></p><p><br></p>
+<p>Der Datensatz enthält Informationen zu den aktuellen Mitgliedern des Grossen Rats. Die Daten werden täglich mit der online verfügbaren Mitgliederliste abgeglichen und bei Änderungen automatisch aktualisiert. Die Daten enthalten immer die aktuellen Mitglieder des Grossen Rats und zeigen keinen historisierten Verlauf.</p><p><br></p><p>Alle Informationen finden Sie hier: <a href='https://parlament.tg.ch/mitglieder/mitgliederliste.html/12745' target='_blank'>https://parlament.tg.ch/mitglieder/mitgliederliste.html/12745</a></p><p><br></p>
 
 ## Metadata
 
