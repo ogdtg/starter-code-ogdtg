@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2024-11-28 16:08:06
+- **Modified**                 : 2024-12-04 03:31:01
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Grosser Rat, grosser, rat, Kantonsrat, sitzung, Parlament , rede, sprecher, mitglied, präsident, protokoll, ausführlich, pdf, beitrag, grdata
 
