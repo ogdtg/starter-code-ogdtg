@@ -24,7 +24,7 @@ Die Datensätze enthalten die Bildungsausgaben der Schulgemeinden für die Volks
 ## Metadata
 
 - **Issued**                   : 2022-12-09
-- **Modified**                 : 2024-12-06 08:17:46
+- **Modified**                 : 2024-12-11 12:42:53
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bildung , Bildungsausgaben , Finanzausgleich , Finanzen , Nettoaufwand , Schulfinanzen , Schulgemeinde, Volksschule 
 
