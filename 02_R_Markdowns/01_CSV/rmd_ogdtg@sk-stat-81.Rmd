@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz umfasst die Anzahl Sozialhilfedossiers im Kanton Thurgau nach der Struktur der Unterstützungseinheit. Es werden folgende Kategorien unterschieden:</p><p>Privathaushalte:<br/>- Einpersonendossiers: Alleinlebende, Nicht-Alleinlebende <br/>- Einelternfamilien<br/>- Paare mit Kind(ern)<br/>- Paare ohne Kinder</p><p>Nicht zu den Privathaushalten gehören:<br/>- Stationäre Einrichtungen, Heime<br/>- Besondere Wohnformen</p><p>Die Daten stammen aus der Schweizerischen Sozialhilfestatistik vom Bundesamt für Statistik. Diese erfasst alle Personen, die mindestens einmal im Jahr finanzielle Leistungen von der Sozialhilfe bezogen haben (ohne den Asyl- und Flüchtlingsbereich, der in die Zuständigkeit des Bundes fällt). Weitere Informationen finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/soziale-sicherheit/sozialhilfe/sozialhilfebeziehende/wirtschaftliche-sozialhilfe.html'>hier</a>.</p>
+<p>Der Datensatz umfasst die Anzahl Sozialhilfedossiers im Kanton Thurgau nach der Struktur der Unterstützungseinheit. Es werden folgende Kategorien unterschieden:</p><p>Privathaushalte:<br>- Einpersonendossiers: Alleinlebende, Nicht-Alleinlebende <br>- Einelternfamilien<br>- Paare mit Kind(ern)<br>- Paare ohne Kinder</p><p>Nicht zu den Privathaushalten gehören:<br>- Stationäre Einrichtungen, Heime<br>- Besondere Wohnformen</p><p>Die Daten stammen aus der Schweizerischen Sozialhilfestatistik vom Bundesamt für Statistik. Diese erfasst alle Personen, die mindestens einmal im Jahr finanzielle Leistungen von der Sozialhilfe bezogen haben (ohne den Asyl- und Flüchtlingsbereich, der in die Zuständigkeit des Bundes fällt). Weitere Informationen finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/soziale-sicherheit/sozialhilfe/sozialhilfebeziehende/wirtschaftliche-sozialhilfe.html'>hier</a>.</p>
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2024-11-27 08:22:29
+- **Modified**                 : 2025-01-14 10:18:26
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Sozialhilfe , Dossier, Privathaushalt
 

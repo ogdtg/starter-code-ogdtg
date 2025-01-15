@@ -24,7 +24,7 @@ Der Datensatz enthält Informationen zu den Stimmberechtigten und den eingegange
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2024-11-01 10:26:59
+- **Modified**                 : 2025-01-14 10:17:22
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bezirk , Bezirke , Gemeinde , Politische Gemeinde, Wahlen , Kantonale Wahlen , Wahlberechtigte , Grossratswahlen , Parteien , Wahlzettel , leer, gültig, ungültig, verändert , unverändert
 

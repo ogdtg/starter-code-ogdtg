@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p><span style='font-size: 12.495px;'>Der Datensatz enthält die Ergebnisse der Kandidierenden für die Nationalratswahlen 2019 im Kanton Thurgau inklusive der Panaschierstimmen auf Ebene Kanton. Die Daten zeigen, wie viele Stimmen die Kandierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben.</span><br/></p>
+<p><span style='font-size: 12.495px;'>Der Datensatz enthält die Ergebnisse der Kandidierenden für die Nationalratswahlen 2019 im Kanton Thurgau inklusive der Panaschierstimmen auf Ebene Kanton. Die Daten zeigen, wie viele Stimmen die Kandierenden von unveränderten wie veränderten Stimmzetteln (Panaschierstimmen = Stimmen von anderen Listen) erhalten haben. In der Datei 'Erläuterungen' werden die im Datensatz enthaltenen Variablen kurz beschrieben.</span><br></p>
 
 ## Metadata
 
 - **Issued**                   : 2019-10-24
-- **Modified**                 : 2024-11-01 08:38:42
+- **Modified**                 : 2025-01-14 10:16:41
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Eidgenössische Wahlen, eidgenössisch, 2019, Nationalrat, Nationalratswahlen, Wahlen , panaschieren, Panaschierstatistik 
 

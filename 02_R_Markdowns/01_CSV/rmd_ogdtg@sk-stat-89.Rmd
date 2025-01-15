@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält die Anzahl Wohnungen nach Gebäudekategorie und Politischer Gemeinde ab dem Jahr 2009. </p><p>Gebäudekategorien:<br/></p><ul><li>Einfamilienhäuser (WHG_EINF): reine Wohngebäude mit einer Wohnung </li><li>Mehrfamilienhäuser (WHG_MFH): reine Wohngebäude mit mehr als einer Wohnung</li><li>Wohngebäude mit Nebennutzung (WHG_WMN): Gebäude, die hauptsächlich Wohnzwecken dienen. </li><li>Gebäude mit teilweiser Wohnnutzung (WHG_TWN): Gebäude, die hauptsächlich anderen als Wohnzwecken dienen, wie Fabriken, Verwaltungsbauten, Schulen usw., unter der Bedingung, dass diese über mindestens eine Wohnung oder separate Wohnräume verfügen. </li></ul><p>Quellenangabe: Bundesamt für Statistik, Gebäude- und Wohnungsstatistik</p><p>Mehr Informationen zu den Daten finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/bau-wohnungswesen/bautaetigkeit.html' target='_blank'>hier</a>.</p>
+<p>Der Datensatz enthält die Anzahl Wohnungen nach Gebäudekategorie und Politischer Gemeinde ab dem Jahr 2009. </p><p>Gebäudekategorien:<br></p><ul><li>Einfamilienhäuser (WHG_EINF): reine Wohngebäude mit einer Wohnung </li><li>Mehrfamilienhäuser (WHG_MFH): reine Wohngebäude mit mehr als einer Wohnung</li><li>Wohngebäude mit Nebennutzung (WHG_WMN): Gebäude, die hauptsächlich Wohnzwecken dienen. </li><li>Gebäude mit teilweiser Wohnnutzung (WHG_TWN): Gebäude, die hauptsächlich anderen als Wohnzwecken dienen, wie Fabriken, Verwaltungsbauten, Schulen usw., unter der Bedingung, dass diese über mindestens eine Wohnung oder separate Wohnräume verfügen. </li></ul><p>Quellenangabe: Bundesamt für Statistik, Gebäude- und Wohnungsstatistik</p><p>Mehr Informationen zu den Daten finden Sie <a href='https://www.bfs.admin.ch/bfs/de/home/statistiken/bau-wohnungswesen/bautaetigkeit.html' target='_blank'>hier</a>.</p>
 
 ## Metadata
 
 - **Issued**                   : 2021-12-20
-- **Modified**                 : 2024-11-01 08:59:27
+- **Modified**                 : 2025-01-14 10:18:10
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Gemeinden , Politische Gemeinde, Wohnungen, Gebäude, Gebäudekategorie, Einfamilienhaus, Mehrfamilienhaus
 

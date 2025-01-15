@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2024-11-27 08:22:25
+- **Modified**                 : 2025-01-14 10:16:38
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Sozialhilfe , Sozialhilfequote, Politische Gemeinde, Gemeinde 
 

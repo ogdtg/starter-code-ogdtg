@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-12-20
-- **Modified**                 : 2024-12-05 10:05:55
+- **Modified**                 : 2025-01-14 10:16:45
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Leerwohnungsziffer, Leerwohungen, Wohnungen
 

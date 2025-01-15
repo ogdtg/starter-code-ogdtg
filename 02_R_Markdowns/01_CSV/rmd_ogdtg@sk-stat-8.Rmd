@@ -24,7 +24,7 @@ Die Datensätze beinhalten Ergebnisse und Daten zu den Thurgauer Grossratswahlen
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2024-11-01 10:27:20
+- **Modified**                 : 2025-01-14 10:16:58
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Grosser Rat, Grossratswahlen , Mandate , Wahlbeteiligung , Wahlberechtigte , Wahlen , Kantonale Wahlen, Wahljahr , Kantonsrat
 

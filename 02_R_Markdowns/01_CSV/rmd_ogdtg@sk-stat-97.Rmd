@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2022-01-16
-- **Modified**                 : 2024-11-01 09:48:53
+- **Modified**                 : 2025-01-14 10:18:42
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Arbeitsstätten, Beschäftigung, Unternehmen , Betriebe , Gemeinde , Politische Gemeinde, Sektor, Wirtschaftssektor
 

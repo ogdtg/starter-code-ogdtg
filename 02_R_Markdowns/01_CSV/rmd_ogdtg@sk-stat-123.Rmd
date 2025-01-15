@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Dieser Dataset präsentiert die Ergebnisse der Nationalratswahlen für den Kanton Thurgau (Parteistimmen, Parteistärke) nach Bezirk, Gemeinde und Partei, ab 1971.</p><p>Datenquelle: Bundesamt für Statistik BFS / Staatskanzlei Kanton Thurgau (2023)</p><p>Link zur PX-Tabelle: https://www.bfs.admin.ch/asset/de/px-x-1702020000_105</p><p><br/></p><p><br/></p>
+<p>Dieser Dataset präsentiert die Ergebnisse der Nationalratswahlen für den Kanton Thurgau (Parteistimmen, Parteistärke) nach Bezirk, Gemeinde und Partei, ab 1971.</p><p>Datenquelle: Bundesamt für Statistik BFS / Staatskanzlei Kanton Thurgau (2023)</p><p>Link zur PX-Tabelle: https://www.bfs.admin.ch/asset/de/px-x-1702020000_105</p><p><br></p><p><br></p>
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2024-11-01 08:56:35
+- **Modified**                 : 2025-01-14 10:17:45
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Politik, politik, Wahlen , parteistimmen, parteistarke, Partei , parteien, parlament, Nationalrat, Nationalratswahlen, svp, cvp, glp, gp, mitte, fdp
 

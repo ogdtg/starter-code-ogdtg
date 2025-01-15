@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-04-21
-- **Modified**                 : 2024-11-01 08:35:47
+- **Modified**                 : 2025-01-14 10:14:58
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Altersklasse, Geschlecht , Bevölkerung, Gemeinde , Nationalität, Ortschaft, Politische Gemeinde
 

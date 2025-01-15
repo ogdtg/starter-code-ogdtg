@@ -24,7 +24,7 @@ Die Datensätze beinhalten Ergebnisse der Thurgauer Grossratswahlen der Jahre 20
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2024-11-01 10:26:44
+- **Modified**                 : 2025-01-14 10:17:04
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Gemeinde , Politische Gemeinde, Grossrahtswahlen, Grosser Rat, Stimmen , Wahlzettel ohne Listenbezeichnung, Partei , Parteien , Wahljahr , Kantonsrat
 

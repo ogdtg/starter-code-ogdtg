@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz beinhaltet die ständige Wohnbevölkerung in Personen nach Gemeinden, Geschlecht und Staatsangehörigkeit (zwei Kategorien: Schweiz und Ausland) ab dem Jahr 2015. Ebenfalls aufgeführt ist die Bezirkszugehörigkeit einer Gemeinde.</p><p>Die Daten stammen aus der kantonalen Bevölkerungserhebung der Dienststelle für Statistik Kanton Thurgau. Zur ständigen Wohnbevölkerung zählen alle Personen mit Hauptwohnsitz im Kanton Thurgau. Bei der ausländischen Bevölkerung werden Personen mit der Niederlassungsbewilligung (C), Aufenthaltsbewilligung (B) oder Kurzaufenthaltsbewilligung (L) von 12 Monaten oder mehr berücksichtigt. Aufgeführt ist der Bevölkerungsbestand in Personen jeweils per 31.12. Die genaue Beschreibung der verwendeten Codes in den Datensätzen sind im Codebook unter 'weitere Informationen' aufgeführt. </p>
+<p>Der Datensatz beinhaltet die ständige Wohnbevölkerung in Personen nach Gemeinden, Geschlecht und Staatsangehörigkeit (zwei Kategorien: Schweiz und Ausland) ab dem Jahr 2015. Ebenfalls aufgeführt ist die Bezirkszugehörigkeit einer Gemeinde.</p><p>Die Daten stammen aus der kantonalen Bevölkerungserhebung des Amts für Daten und Statistik Kanton Thurgau. Zur ständigen Wohnbevölkerung zählen alle Personen mit Hauptwohnsitz im Kanton Thurgau. Bei der ausländischen Bevölkerung werden Personen mit der Niederlassungsbewilligung (C), Aufenthaltsbewilligung (B) oder Kurzaufenthaltsbewilligung (L) von 12 Monaten oder mehr berücksichtigt. Aufgeführt ist der Bevölkerungsbestand in Personen jeweils per 31.12. Die genaue Beschreibung der verwendeten Codes in den Datensätzen sind im Codebook unter 'weitere Informationen' aufgeführt. </p>
 
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2024-11-01 10:44:52
+- **Modified**                 : 2025-01-14 10:15:26
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bevölkerung, Bevölkerungsstand, Wohnbevölkerung, Ständige Wohnbevölkerung, Gemeinde , Bezirk , Staatsangehörigkeit, Nationalität, Schweiz, Ausland
 

@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Übersicht über die Zuordnungen der Politischen Gemeinden nach Bezirken.</p><p>Die Gemeindenummern laut BFS beruhen auf der 'alten' Bezirkseinteilung. Sie entsprechen der alphabetischen Reihenfolge der Bezirks- und Gemeindenamen bis 31.12.2010. </p><p>Mithilfe der Hilfsnummer können die Gemeindenummern auf die Reihenfolge gemäss Bezirkseinteilung per 1.1.2011 sortiert werden. Dazu die anzupassenden Tabelle und diese nach Gemeindenummer oder Gemeindenamen sortieren. Die Hilfsnummern in die zu sortierende Tabelle kopieren und anschliessend nach der Hilfsnummer sortieren.<span style='white-space:pre'>	</span></p><p>Quelle: Dienststelle für Statistik Kanton Thurgau</p>
+<p>Übersicht über die Zuordnungen der Politischen Gemeinden nach Bezirken.</p><p>Die Gemeindenummern laut BFS beruhen auf der 'alten' Bezirkseinteilung. Sie entsprechen der alphabetischen Reihenfolge der Bezirks- und Gemeindenamen bis 31.12.2010. </p><p>Mithilfe der Hilfsnummer können die Gemeindenummern auf die Reihenfolge gemäss Bezirkseinteilung per 1.1.2011 sortiert werden. Dazu die anzupassenden Tabelle und diese nach Gemeindenummer oder Gemeindenamen sortieren. Die Hilfsnummern in die zu sortierende Tabelle kopieren und anschliessend nach der Hilfsnummer sortieren.<span style='white-space:pre'>	</span></p><p>Quelle: Amt für Daten und Statistik Kanton Thurgau</p>
 
 ## Metadata
 
 - **Issued**                   : 2021-12-16
-- **Modified**                 : 2024-11-01 08:52:36
+- **Modified**                 : 2025-01-14 10:15:37
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Bezirk , Gemeinde , Politische Gemeinde, Bezirksnummer, Gemeindenummer
 
