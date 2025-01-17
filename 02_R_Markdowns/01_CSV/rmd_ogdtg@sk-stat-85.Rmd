@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-01-14 10:16:53
+- **Modified**                 : 2025-01-16 14:11:22
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Sozialhilfe , Altersklasse
 

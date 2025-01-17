@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-12-20
-- **Modified**                 : 2025-01-14 10:16:44
+- **Modified**                 : 2025-01-16 14:10:38
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Sozialhilfe , Kanton , Sozialhilfequote, Sozialhilfedossiers, Dossier
 

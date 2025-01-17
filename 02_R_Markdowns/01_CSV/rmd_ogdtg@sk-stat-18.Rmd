@@ -24,7 +24,7 @@ Die Datensätze enthalten die Ergebnisse der Kandidierenden für die Grossratswa
 ## Metadata
 
 - **Issued**                   : 2020-03-13
-- **Modified**                 : 2025-01-14 10:18:07
+- **Modified**                 : 2025-01-16 14:13:26
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bezirk , Münchwilen, Gemeinde , Wahlen , Kantonale Wahlen, Wahlzettel , Stimmen , Grosser Rat, Grossratswahlen , Kandidat, Kandidatin, panaschieren, Panaschierstatistik , Kantonsrat
 

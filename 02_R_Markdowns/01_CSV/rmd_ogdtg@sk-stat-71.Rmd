@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-06-29
-- **Modified**                 : 2025-01-14 10:16:36
+- **Modified**                 : 2025-01-16 14:11:56
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Steuerfüsse, evangelisch, Kirchensteuern, Steuerfuss , Kirchgemeinden , Gemeinde 
 

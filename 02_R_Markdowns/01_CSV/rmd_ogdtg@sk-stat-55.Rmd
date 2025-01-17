@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-15
-- **Modified**                 : 2025-01-14 10:17:16
+- **Modified**                 : 2025-01-16 14:11:38
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Gemeinden , Sozialhilfe , Sozialhilfeausgaben , netto , Sozialhilfe je Einwohner, Öffentliche Sozialhilfe der Gemeinden
 
