@@ -19,14 +19,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Öffentlich zugängliche Liste historischer Gärten und Anlagen von ICOMOS Schweiz (International Council on Monuments and Sites), Stand 1999. Die Einstufung dieser Objekte hat keinerlei Rechtswirkung.
+Öffentlich zugängliche Liste historischer Gärten und Anlagen von ICOMOS Schweiz (International Council on Monuments and Sites), Stand 1999. Die Einstufung dieser Objekte hat keinerlei Rechtswirkung. Kontakt: Christian Coradi, Amt für Denkmalpflege, Telefon 058 345 67 07, E-Mail christian.coradi@tg.ch
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2024-05-27 07:47:56
+- **Modified**                 : 2025-01-20 06:19:12
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, grunflache, garten, landschaftsschutz, landschaft, denkmal, denkmalerhaltung, schutzmassnahme, kulturerbe
+- **Keywords**                 : geodaten, schutzmassnahme, denkmal, landschaftsschutz, denkmalerhaltung, grunflache, garten, kulturerbe, landschaft
 
 ## Load Packages
 

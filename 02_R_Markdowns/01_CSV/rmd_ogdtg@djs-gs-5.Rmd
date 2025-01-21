@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p><span style='font-family: inherit;'>Der Datensatz enthält die Anzahl der Pflegefamilien im Kanton Thurgau nach Platzierungssituation und einem etwaigen verwandtschaftlichen Verhältnis zum Pflegekind.</span><br/></p><p>Datenstand jeweils der 31.12</p>
+<p><span style='font-family: inherit;'>Der Datensatz enthält die Anzahl der Pflegefamilien im Kanton Thurgau nach Platzierungssituation und einem etwaigen verwandtschaftlichen Verhältnis zum Pflegekind.</span><br></p><p>Datenstand jeweils der 31.12</p>
 
 ## Metadata
 
 - **Issued**                   : 2021-06-29
-- **Modified**                 : 2024-01-26 09:14:01
+- **Modified**                 : 2025-01-20 09:00:55
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Pflegefamilie, Pflegekinder, Platzierung
 
