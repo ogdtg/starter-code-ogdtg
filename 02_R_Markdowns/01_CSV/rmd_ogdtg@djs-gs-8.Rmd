@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-12-22
-- **Modified**                 : 2024-11-01 09:28:42
+- **Modified**                 : 2025-01-21 07:52:55
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Hort , Kinderbetreuung , schulergänzend, Betreuungsangebot
 

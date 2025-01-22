@@ -24,7 +24,7 @@ Der Datensatz gibt einen Überblick über die Anzahl eingegangener und erledigte
 ## Metadata
 
 - **Issued**                   : 2019-11-18
-- **Modified**                 : 2025-01-15 13:47:02
+- **Modified**                 : 2025-01-21 08:16:51
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Antrag , Einfache Anfrage, GRGEKO , Grosser Rat, Interpellation , Kantonsparlament , Leistungsmotion , Motion , Petition , Parlament , Parlamentarische Initiative , Vorstoss , Vorstösser, Vorstösserin, Partei , Grossrat , Grossrätin, Kantonsrat
 
