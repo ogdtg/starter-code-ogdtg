@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2018-01-18
-- **Modified**                 : 2025-01-16 14:13:36
+- **Modified**                 : 2025-02-09 13:31:39
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : eidgenössisch, Abstimmung, Eidgenössische Abstimmung, Abstimmungsergebnis, Resultat, Gemeinde , Politische Gemeinde, Initiative , Volksinitiative, Referendum , obligatorisch, fakultativ, Stimmberechtigte  
 

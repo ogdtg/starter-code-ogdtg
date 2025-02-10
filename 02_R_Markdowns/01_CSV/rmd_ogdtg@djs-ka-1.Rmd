@@ -19,14 +19,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p><p>Der Datensatz beinhaltet die erfassten und oder durchgeführten Zahlungsbefehle, Pfändungsvollzüge und Verwertungen aufgeschlüsselt auf Monatsebene für die jeweiligen fünf Bezirksbetreibungsämter (Kreuzlingen, Arbon, Weinfelden, Frauenfeld, Münchwilen) und zwei Aussenstellen (Steckborn, Bischofszell).</p><p><span style='font-family: inherit; font-size: 0.875rem;'>Hinweis: Bei der halbjährlichen Aktualisierung werden rückwirkende Korrekturen ebenfalls aufgenommen. </span><br/></p></p><p></p><p>Datenquelle: Amt für Betreibungs- und Konkurswesen</p>
+<p><p>Der Datensatz beinhaltet die erfassten und oder durchgeführten Zahlungsbefehle, Pfändungsvollzüge und Verwertungen aufgeschlüsselt auf Monatsebene für die jeweiligen fünf Bezirksbetreibungsämter (Kreuzlingen, Arbon, Weinfelden, Frauenfeld, Münchwilen) und zwei Aussenstellen (Steckborn, Bischofszell).</p><p><span style='font-family: inherit; font-size: 0.875rem;'>Hinweis: Bei der halbjährlichen Aktualisierung werden rückwirkende Korrekturen ebenfalls aufgenommen. </span><br></p></p><p></p><p>Datenquelle: Amt für Betreibungs- und Konkurswesen</p>
 
 ## Metadata
 
 - **Issued**                   : 2021-06-29
-- **Modified**                 : 
+- **Modified**                 : 2025-02-09 07:27:43
 - **Rights**                   : CC BY 4.0
-- **Keywords**                 : Betreuung, Zahlungsbefehl, Pfändungsvollzug, Verwertung, Verwaltungsgrenze, Bezirk
+- **Keywords**                 : Zahlungsbefehl, Pfändungsvollzug, Verwertung, Verwaltungsgrenze, Bezirk, Betreibung
 
 ## Load Packages
 
