@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-06-29
-- **Modified**                 : 2024-06-27 09:36:29
+- **Modified**                 : 2025-03-04 15:48:48
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Energiestatistik, Energieverbrauch, Elektrizitätsproduktion, Energieträger, Wasserkraft, Biomasse, Biogas, Biogasanlage, Kehrichtverbrennung, Photovoltaik, Wind
 
