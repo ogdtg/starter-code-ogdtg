@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2025-01-16 14:12:29
+- **Modified**                 : 2025-03-11 09:34:35
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bevölkerung, Wohnbevölkerung , Ständige Wohnbevölkerung, Gemeinde , Bezirk , Staatsangehörigkeit, Nationalität, Deutschland, Italien, Portugal, Nordmazedonien
 

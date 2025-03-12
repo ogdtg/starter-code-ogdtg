@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2019-04-01
-- **Modified**                 : 2025-01-16 14:11:43
+- **Modified**                 : 2025-03-11 09:34:22
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bevölkerung, Bevölkerungsstand, Wohnbevölkerung, Ständige Wohnbevölkerung, Gemeinde , Bezirk 
 

@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2025-01-16 14:12:04
+- **Modified**                 : 2025-03-11 09:34:50
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : aufenthaltsbewilligung, auslaender, auslaenderinnen, auslaenderkategorie, ausweis, bevoelkerung, bezirk, bezirke, einwohner, einwohnerinnen, frau, gemeinde, gemeinden, geschlecht, konfession, mann, nationalitaet, religion, staatsangehoerigkeit, staendige-wohnbevoelkerung, thurgau, wohnbevoelkerung, zivilstand
 
