@@ -24,7 +24,7 @@ Der vorliegende Datensatz enthält die meteorologischen Daten zur Fluglärm-Mess
 ## Metadata
 
 - **Issued**                   : 2019-06-16
-- **Modified**                 : 2025-05-17 11:00:06
+- **Modified**                 : 2025-05-18 11:00:50
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Balterswil , Dezibel , Fluglärm, Fluglärmmonitoring, Hinterthurgau , Lärmschutz, Lärmschutzverordnung, Monitoring , Umweltschutz , Meteorologie
 

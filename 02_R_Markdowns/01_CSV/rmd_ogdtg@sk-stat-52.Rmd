@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2018-01-18
-- **Modified**                 : 2025-01-16 14:11:50
+- **Modified**                 : 2025-05-18 12:38:11
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : fakultativ, obligatorisch, Abstimmung, Beschluss , Gemeinde , Gemeinden , Politische Gemeinde, Initiative , Kantonale Abstimmung, Referendum , Stimmberechtigte  
 
