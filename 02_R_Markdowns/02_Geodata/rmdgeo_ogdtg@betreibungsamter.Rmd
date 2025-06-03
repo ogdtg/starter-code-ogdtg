@@ -24,7 +24,7 @@ Dieser Datensatz zeigt die Standorte der Betreibungsämter und dessen Zuständig
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-01-03 00:00:00
+- **Modified**                 : 1-01-03 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, offentliche-verwaltungseinrichtung, finanzrecht, verwaltungsgrenze, verwaltung
 

@@ -24,7 +24,7 @@ Grenzen der Thurgauer Jagdreviere, inklusive der Adressen der Jagdaufseher
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2022-04-20 00:00:00
+- **Modified**                 : 1-01-20 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, jagd, kontrolliertes-jagdgebiet
 

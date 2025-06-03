@@ -24,7 +24,7 @@ Der Geobasisdatensatz beinhaltet Grundwasseraustritte, Grundwassererfassungen un
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-07-25 00:00:00
+- **Modified**                 : 1-01-25 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, abfall, wasser, wasser, abwasserabgabe, gewasserschutz
 

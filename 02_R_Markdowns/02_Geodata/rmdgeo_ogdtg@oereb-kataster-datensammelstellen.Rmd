@@ -24,7 +24,7 @@ Die Gemeinden betreiben für die Daten des ÖREB-Katasters in ihrem Zuständigke
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2022-11-11 00:00:00
+- **Modified**                 : 1-01-11 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, offentliche-verwaltungseinrichtung
 

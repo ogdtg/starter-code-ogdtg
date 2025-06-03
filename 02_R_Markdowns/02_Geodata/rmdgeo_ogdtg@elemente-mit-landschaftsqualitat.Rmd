@@ -24,7 +24,7 @@ Das Modell beschreibt die Ebenen der Landschaftsräume und Projektperimeter.
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2024-05-27 07:47:59
+- **Modified**                 : 2025-06-02 08:47:44
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, agrarmanagement, landwirtschaftliche-bewirtschaftung, landwirtschaftliche-nutzung, landwirtschaft, landschaftspflege
 

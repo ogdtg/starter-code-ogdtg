@@ -24,7 +24,7 @@ Geplante Linienführung Bodensee-Thurtalstrasse (BTS) und Oberlandstrasse (OLS) 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2016-03-17 00:00:00
+- **Modified**                 : 1-01-17 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, strassenbau, fahrweg-streckenfuhrung, strasse, strasse, planung, verkehr, verkehrsweg, verkehrsinfrastruktur
 

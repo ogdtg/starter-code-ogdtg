@@ -24,7 +24,7 @@ Biomassepotenzial verschiedener Abfälle im Kanton Thurgau mit zusätzlichen Bio
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2017-08-10 00:00:00
+- **Modified**                 : 1-01-10 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, energie, abfallaufkommen
 

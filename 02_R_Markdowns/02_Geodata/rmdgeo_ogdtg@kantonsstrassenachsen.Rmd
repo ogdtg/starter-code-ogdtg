@@ -24,7 +24,7 @@ Kantonsstrassenachsen: klassifiziert in Haupt- und Nebenstrassen; Strassenachsen
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-10-12 00:00:00
+- **Modified**                 : 1-01-12 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fahrweg-streckenfuhrung, strasse, strasse, verkehrsweg, verkehr, strassennetz, strassennetz
 

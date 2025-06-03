@@ -24,7 +24,7 @@ Stromversorgung Netzgebiete: Datensatz beinhaltet die Gebiete der Elektrizitäts
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-12-13 10:27:46
+- **Modified**                 : 2025-06-02 08:47:41
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, gebiet, energie, elektrizitatsgesellschaft, elektrizitatsversorgung
 

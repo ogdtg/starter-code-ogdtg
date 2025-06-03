@@ -24,7 +24,7 @@ Im Rahmen des BAFU-Projektes Silvaprotect ausgeschiedene Schutzwälder. Der Schu
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-04-15 18:00:40
+- **Modified**                 : 2025-06-02 08:47:50
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, waldschutzgebiet, waldschutz, fauna, flora, wald, naturgefahr, forstwirtschaft, naturgefahr, forstwirtschaft
 

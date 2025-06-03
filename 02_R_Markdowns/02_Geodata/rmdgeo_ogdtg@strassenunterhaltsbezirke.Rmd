@@ -24,7 +24,7 @@ Unterhaltsbezirke, Grenzen entlang des Kantonsstrassennetzes. Darstellung der vi
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2022-06-13 00:00:00
+- **Modified**                 : 1-01-01 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, strassenunterhaltung
 

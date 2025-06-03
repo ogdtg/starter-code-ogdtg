@@ -24,7 +24,7 @@ Enthält die Vernetzungskorridore mit der Korridornummer, dem Namen, der Art und
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2017-12-31 00:00:00
+- **Modified**                 : 1-01-31 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, tierkorridor, landschaftsschutz, landschaftsschutz, naturschutz, umweltsubvention, biotopverbund, biotopvernetzung, raumplanung, landwirtschaft, agrarmanagement, landwirtschaftliche-bewirtschaftung, landwirtschaftliche-nutzung, landschaftspflege, landschaftsokologie
 

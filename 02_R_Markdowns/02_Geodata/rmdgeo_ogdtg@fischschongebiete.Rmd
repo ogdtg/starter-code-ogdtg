@@ -24,7 +24,7 @@ Fischschongebiete im Boden-Obersee sowie Boden-Untersee Kanton Thurgau. Enthält
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-12-13 10:27:52
+- **Modified**                 : 2025-06-02 08:47:46
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fischereirecht, fischereischutzgebiet, fischerei, fischerei
 

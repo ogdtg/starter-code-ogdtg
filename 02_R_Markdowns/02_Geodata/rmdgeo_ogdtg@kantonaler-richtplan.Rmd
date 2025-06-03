@@ -24,7 +24,7 @@ Kantonaler Richtplan Thurgau 1:50'000 Hauptkarte und 1:200'000 Übersichtskarten
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2022-11-09 00:00:00
+- **Modified**                 : 1-01-08 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, entwicklungsplanung, raumplanung
 
