@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-05-23 07:34:34
+- **Modified**                 : 2025-06-19 07:34:58
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : abstimmung, ja, nein, abwesend, stimmabgabe, grosser, rat, politik, parlament, sitzung, geschäft, vorstoss, verordnung, beschluss, grdata
 
