@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-06-22 11:02:31
+- **Modified**                 : 2025-06-23 11:02:10
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : verkehr, individualverkehr, zählstelle, auto, pkw, strasse, motorisiert, Verkehrszählung, Verkehrszähldaten
 
