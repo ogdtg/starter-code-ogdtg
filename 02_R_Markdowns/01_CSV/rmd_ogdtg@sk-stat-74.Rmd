@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-07-12
-- **Modified**                 : 2025-01-16 14:11:24
+- **Modified**                 : 2025-06-30 14:56:48
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Steuerfüsse, Staatssteuerfuss, Steuerfuss , Kanton , Grosser Rat
 
