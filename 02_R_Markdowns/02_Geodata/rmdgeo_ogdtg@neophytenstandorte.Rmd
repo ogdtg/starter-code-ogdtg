@@ -24,7 +24,7 @@ Neophyten-Vorkommen im Thurgau. Neophyten sind gebietsfremde Pflanzen, die durch
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-06-02 08:47:48
+- **Modified**                 : 2025-08-04 11:24:55
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, flora, wald, pflanzenbestand
 

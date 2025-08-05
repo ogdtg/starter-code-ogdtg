@@ -24,7 +24,7 @@ Langsamverkehr: Inline-Skating-Netz (Routen) signalisiert durch Wegweiser
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 1-01-27 00:00:00
+- **Modified**                 : 2024-03-27 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, verkehrsweg, fahrweg-streckenfuhrung, strasse, strasse, strassennetz, strassennetz, verkehr, individualverkehr
 

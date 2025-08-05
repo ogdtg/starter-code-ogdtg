@@ -24,7 +24,7 @@ Beinhaltet alle Kreisel des Kantons Thurgau sowie wichtige Knoten und deren Beze
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 1-01-05 00:00:00
+- **Modified**                 : 2022-10-05 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, verkehrsinfrastruktur, strassennetz
 

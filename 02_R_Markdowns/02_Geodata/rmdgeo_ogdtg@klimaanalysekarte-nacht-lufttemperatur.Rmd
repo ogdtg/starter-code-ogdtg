@@ -24,7 +24,7 @@ Die Klimaanalysekarte Nacht Lufttemperatur stellt die modellierte Lufttemperatur
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-06-03 18:00:31
+- **Modified**                 : 2025-08-04 11:24:53
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, klima
 

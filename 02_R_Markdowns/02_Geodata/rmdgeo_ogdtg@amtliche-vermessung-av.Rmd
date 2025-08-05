@@ -24,7 +24,7 @@ Vektordaten der Amtlichen Vermessung (AV) des Kantons Thurgau
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-06-02 08:47:44
+- **Modified**                 : 2025-08-04 11:24:50
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, hochspannungsleitung, rohrleitung, energie, gebaude, bauwesen-und-gebaute-umwelt, gebaude, verwaltungsgrenze, hohe, hohe, ortsbestimmung, bodennutzung, bodennutzung, grundbuch, kataster
 

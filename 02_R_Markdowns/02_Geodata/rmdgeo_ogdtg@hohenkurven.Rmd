@@ -24,7 +24,7 @@ Dieser Datensatz beinhaltet die Höhenkurven im Kanton Thurgau mit einer Äquidi
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 1-01-23 00:00:00
+- **Modified**                 : 2019-03-23 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, digitales-gelandemodell, hohe, hohe
 

@@ -24,7 +24,7 @@ Dieser Datensatz beinhaltet die kontrollierten Ursprungsbezeichnung der Weinprod
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 1-01-23 00:00:00
+- **Modified**                 : 2020-09-23 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, rebbau, gebiet, wirtschaftliche-rechte, wirtschaft, agrarproduktion, weinbau, landwirtschaft
 

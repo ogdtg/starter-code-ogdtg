@@ -24,7 +24,7 @@ Im Hinblick auf die Netzfunktion und die Kriterien der Verkehrsplanung ist jede 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 1-01-07 00:00:00
+- **Modified**                 : 2023-03-07 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fahrweg-streckenfuhrung, offentliche-strasse, strasse, strassennetz, strassenverkehr, verkehr, verkehrsweg
 

@@ -24,7 +24,7 @@ Standorte der kantonalen und nationalen Messstellen. Aussergewöhnliche Zu- und 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 1-01-31 00:00:00
+- **Modified**                 : 2024-12-31 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, statistik, strassenverkehr, fahrweg-streckenfuhrung, strasse, strasse, verkehr, verkehr, verkehr
 

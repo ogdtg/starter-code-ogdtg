@@ -24,9 +24,9 @@ Fischenzen sind private oder körperschaftliche Fischereirechte am Obersee, Unte
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-06-03 18:00:32
+- **Modified**                 : 2025-08-04 11:24:55
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, fischereirecht, fischerei, fischerei
+- **Keywords**                 : geodaten, fischereirecht, fischerei
 
 ## Load Packages
 
