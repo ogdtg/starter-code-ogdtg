@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2022-06-13
-- **Modified**                 : 2025-01-16 14:13:40
+- **Modified**                 : 2025-08-14 13:25:29
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bevölkerung, Gemeinde , Kirchgemeinde, Schulgemeinde, Ortschaft, Siedlung , Politische Gemeinde
 

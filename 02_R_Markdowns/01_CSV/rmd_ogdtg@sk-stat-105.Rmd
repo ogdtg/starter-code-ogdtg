@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2022-03-14
-- **Modified**                 : 2024-11-01 08:33:40
+- **Modified**                 : 2025-08-14 13:22:52
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Regierungsrat, Wahlen , Gemeinden , Bezirke , Stimmen , Ersatzwahl, Regierungsratswahl, Regierungsratswahlen
 

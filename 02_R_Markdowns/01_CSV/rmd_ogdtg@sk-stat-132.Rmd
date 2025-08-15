@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-03-17
-- **Modified**                 : 2025-01-16 14:11:00
+- **Modified**                 : 2025-08-14 13:27:17
 - **Rights**                   : 
 - **Keywords**                 : panaschieren, stimmen, Bezirk, Gemeinde, Stimmen, Grossratswahlen, Grosser Rat, Panaschierstatistik, Wahlen, Kantonale Wahlen, Wahlzettel, Kantonsrat
 

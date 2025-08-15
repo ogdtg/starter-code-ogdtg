@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2024-12-11 12:42:33
+- **Modified**                 : 2025-08-14 13:24:39
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Finanzkennzahlen, Finanzen, Schulfinanzen, Schulgemeinde, Volksschule, Kennzahlen
 

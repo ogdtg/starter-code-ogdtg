@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-12-22
-- **Modified**                 : 2025-01-20 09:03:43
+- **Modified**                 : 2025-08-14 13:29:52
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Kindertagesstätten, Kita, Kitas, Betreuung, Kinderbetreuung 
 

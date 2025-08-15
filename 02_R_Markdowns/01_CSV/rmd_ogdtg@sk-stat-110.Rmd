@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2022-04-04
-- **Modified**                 : 2025-01-21 08:17:26
+- **Modified**                 : 2025-08-14 13:24:22
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : Vorstoss , Grosser Rat, Interpellation , Motion , Leistungsmotion , Parlamentarische Initiative  , Antrag , Fraktion, Partei , Departement, Kantonsrat
 
