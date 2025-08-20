@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2025-03-11 09:34:47
+- **Modified**                 : 2025-08-19 07:42:11
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bevölkerung, Wohnbevölkerung , Ständige Wohnbevölkerung, Bezirk , Alter, Einzelaltersjahre, Staatsangehörigkeit, Nationalität, Schweiz, Ausland 
 

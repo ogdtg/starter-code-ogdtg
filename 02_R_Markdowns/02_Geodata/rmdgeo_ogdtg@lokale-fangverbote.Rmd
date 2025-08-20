@@ -24,7 +24,7 @@ An einigen Häfen und Uferanlagen bestehen strikte Fangverbote.
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-04 11:24:47
+- **Modified**                 : 2025-08-19 18:00:54
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fischereirecht, fischerei
 

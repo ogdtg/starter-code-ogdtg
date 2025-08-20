@@ -24,7 +24,7 @@ Basisplan-AV des Kantons Thurgau farbig &amp; schwarzweiss mit Liegenschaften, N
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-04 11:24:54
+- **Modified**                 : 2025-08-19 18:00:40
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, ortsbestimmung, landschaft, karte, plan, stockwerk
 

@@ -24,7 +24,7 @@ Soweit nicht Fischenzen entgegenstehen, ist die Uferfischerei (Freiangelei) am B
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-04 11:24:44
+- **Modified**                 : 2025-08-19 18:00:54
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fischerei, fischereirecht
 

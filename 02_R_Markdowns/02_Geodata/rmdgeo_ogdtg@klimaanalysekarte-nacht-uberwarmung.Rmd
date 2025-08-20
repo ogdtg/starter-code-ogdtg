@@ -24,7 +24,7 @@ Die Klimaanalysekarte Nacht Überwärmung stellt den Wärmeinseleffekt, die Kalt
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-04 11:24:50
+- **Modified**                 : 2025-08-19 18:00:59
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, klima
 

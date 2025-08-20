@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-04 11:24:44
+- **Modified**                 : 2025-08-19 18:00:47
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, schutzmassnahme, denkmal, landschaftsschutz, denkmalerhaltung, grunflache, garten, kulturerbe, landschaft
 
