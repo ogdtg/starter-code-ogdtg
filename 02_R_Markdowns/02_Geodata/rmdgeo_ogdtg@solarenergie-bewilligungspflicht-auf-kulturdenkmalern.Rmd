@@ -24,9 +24,9 @@ Solaranlagen auf Natur- und Kulturdenkmälern von nationaler oder kantonaler Bed
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-09-08 18:00:24
+- **Modified**                 : 2025-09-10 18:00:03
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, bauwesen-und-gebaute-umwelt, energie, gesetzgebung
+- **Keywords**                 : geodaten, gesetzgebung, energie, bauwesen-und-gebaute-umwelt
 
 ## Load Packages
 
