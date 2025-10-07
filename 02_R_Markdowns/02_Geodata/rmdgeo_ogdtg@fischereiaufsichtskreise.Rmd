@@ -24,7 +24,7 @@ Aufsichtskreise bzw. Zuständigkeitsgebiete der Fischereiaufseher Kanton Thurgau
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-19 18:00:46
+- **Modified**                 : 2025-10-06 18:00:14
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fischerei, fischerei, aufsichtsbehorde
 

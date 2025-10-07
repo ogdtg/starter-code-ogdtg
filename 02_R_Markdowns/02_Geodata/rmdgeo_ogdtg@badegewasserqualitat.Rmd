@@ -24,7 +24,7 @@ Die Gewässerqualität an öffentlichen Badeplätzen wird regelmässig überprü
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-19 18:01:01
+- **Modified**                 : 2025-10-06 18:00:24
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, gewasser, schadstoffbelastung, gewasserschutz, gewasserschutz, wasserorganismen, badegewasser
 

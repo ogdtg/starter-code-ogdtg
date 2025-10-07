@@ -24,9 +24,9 @@ Inventar der historischen Gebäude im Kanton. Für jedes Objekt besteht ein Date
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-22 18:00:17
+- **Modified**                 : 2025-10-06 18:00:27
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, baudenkmal, bauwerk, geschichte, architektur, kulturgut, denkmalerhaltung, denkmal, kulturerbe, traditionelle-architektur, schutzgebiet, traditionelle-kultur, landschaftsschutz
+- **Keywords**                 : geodaten, baudenkmal, bauwerk, geschichte, architektur, kulturgut, denkmalerhaltung, denkmal, kulturerbe, traditionelle-architektur, schutzgebiet, landschaftsschutz, traditionelle-kultur
 
 ## Load Packages
 

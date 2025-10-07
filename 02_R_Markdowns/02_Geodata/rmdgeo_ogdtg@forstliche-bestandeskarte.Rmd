@@ -24,7 +24,7 @@ Darstellung der Waldstrukturen; Unterteilung in Entwicklungsstufen (Jungwuchs bi
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-19 18:00:57
+- **Modified**                 : 2025-10-06 18:00:21
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fauna, flora, wald, forstwirtschaft, waldbestand
 

@@ -24,7 +24,7 @@ Bei Schifffahrtsbeeinflussungen handelt es sich um lokalisierbare Bereiche auf G
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-12-04 00:00:00
+- **Modified**                 : 2025-08-29 00:00:00
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, binnenschiffahrt
 

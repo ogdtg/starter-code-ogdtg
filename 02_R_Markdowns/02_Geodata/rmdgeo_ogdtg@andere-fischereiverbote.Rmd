@@ -24,7 +24,7 @@ Neben den Naturschutzgebieten, durch deren Betretungsverbote ein indirektes Fisc
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-19 18:00:53
+- **Modified**                 : 2025-10-06 18:00:26
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fischerei, fischereirecht
 
