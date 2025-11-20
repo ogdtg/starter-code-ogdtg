@@ -26,7 +26,7 @@ Dieser Datensatz zeigt die Standorte der Friedensrichterämter und dessen Zustä
 - **Issued**                   : 
 - **Modified**                 : 2025-06-01 00:00:00
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, offentliche-verwaltungseinrichtung, interessenkonflikt, verwaltung, verwaltungsgrenze
+- **Keywords**                 : geodaten, offentliche-verwaltungseinrichtung, verwaltung, interessenkonflikt, verwaltungsgrenze
 
 ## Load Packages
 
