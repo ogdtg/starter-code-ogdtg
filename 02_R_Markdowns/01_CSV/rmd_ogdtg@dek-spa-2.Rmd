@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Issued**                   : 
 - **Modified**                 : 2023-11-06 11:59:22
-- **Rights**                   : CC BY 4.0
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Sport, Swiss Olympic Card, Nachwuchsförderung, Talentkarte, Thurgauer Talente, Talent, Sport, Förderung, Jugend, Kinder
 
 ## Load Packages

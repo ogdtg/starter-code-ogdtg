@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Issued**                   : 
 - **Modified**                 : 2025-07-28 09:18:42
-- **Rights**                   : 
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : 
 
 ## Load Packages

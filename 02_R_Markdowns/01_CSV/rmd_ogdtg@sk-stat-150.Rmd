@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Issued**                   : 
 - **Modified**                 : 2025-07-02 13:07:58
-- **Rights**                   : CC BY 4.0
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Beschäftigte, Beschäftigung, Unternehmen, Unternehmensstruktur, Gemeinde, Sektore, NOGA, Branchen-App, Branche, Wirtschaftszweig
 
 ## Load Packages

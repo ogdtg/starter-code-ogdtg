@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Issued**                   : 
 - **Modified**                 : 2024-04-25 15:24:35
-- **Rights**                   : CC BY 4.0
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : bilanz, soll, haben, gewinn, verlust, erfolg, investition, konto, buchung
 
 ## Load Packages

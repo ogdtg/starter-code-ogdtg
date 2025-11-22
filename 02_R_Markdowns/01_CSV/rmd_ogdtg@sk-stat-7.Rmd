@@ -24,7 +24,7 @@ Die Datensätze beinhalten Ergebnisse und Daten zu den Thurgauer Grossratswahlen
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2025-01-16 14:10:42
+- **Modified**                 : 2025-11-21 10:47:10
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Grosser Rat, Grossratswahlen , Partei , Parteien , Parteistärke, Kantonsrat
 

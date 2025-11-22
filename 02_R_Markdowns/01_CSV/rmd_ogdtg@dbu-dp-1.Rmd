@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2019-11-18
-- **Modified**                 : 2025-08-14 13:28:38
-- **Rights**                   : CC BY 4.0
+- **Modified**                 : 2025-11-21 08:52:32
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Amtliche Vermessung, Bauten, Denkmalpflege, gebaude, Denkmalschutz, Schutzinventar, Schutzstatus, thurgau, wertvoll, Baugeschichte, Historische Gebäude
 
 ## Load Packages

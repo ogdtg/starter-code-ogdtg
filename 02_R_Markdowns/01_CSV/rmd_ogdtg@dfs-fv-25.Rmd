@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Issued**                   : 
 - **Modified**                 : 2025-03-10 14:32:32
-- **Rights**                   : CC BY 4.0
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Gemeindefinanzen, gemeinde, bilanz, erfolgsrechnung, kontenrahmen, finanzen, kennzahlen, haushalt, gemeindehaushalt, investition, konto
 
 ## Load Packages

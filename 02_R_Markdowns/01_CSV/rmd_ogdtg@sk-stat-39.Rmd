@@ -24,7 +24,7 @@ Die Datensätze enthalten die Ergebnisse der Kandidierenden für die Grossratswa
 ## Metadata
 
 - **Issued**                   : 2020-03-17
-- **Modified**                 : 2025-01-16 14:11:57
+- **Modified**                 : 2025-11-21 10:49:04
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : panaschieren, Bezirk , Gemeinde , Stimmen , Wahlen , Kantonale Wahlen, Grossratswahlen , Grosser Rat, Wahlzettel , Panaschierstatistik , Kantonsrat
 

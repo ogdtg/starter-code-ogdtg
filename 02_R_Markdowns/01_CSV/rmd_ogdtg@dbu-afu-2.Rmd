@@ -25,7 +25,7 @@ Der Datensatz beinhaltet Informationen den Parameter Abfluss kombiniert (m³/s) 
 
 - **Issued**                   : 
 - **Modified**                 : 2025-08-26 09:57:04
-- **Rights**                   : CC BY 4.0
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : gewaesserqualität, fliessgewaesser, bodensee, temperatur, wasserstand, fluss, untersee, abfluss.pegel, leitfähigkeit, hydrometrie
 
 ## Load Packages

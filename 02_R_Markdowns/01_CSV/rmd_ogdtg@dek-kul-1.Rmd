@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2022-04-04
-- **Modified**                 : 2025-08-14 13:30:47
-- **Rights**                   : CC BY 4.0
+- **Modified**                 : 2025-11-21 08:52:36
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : 
 
 ## Load Packages

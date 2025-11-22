@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-11-10 06:27:32
-- **Rights**                   : CC BY 4.0
+- **Modified**                 : 2025-11-21 08:52:38
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : museen, thurgau, eintritte, sammlung, museum, kultur
 
 ## Load Packages

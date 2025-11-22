@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-04
-- **Modified**                 : 2025-08-14 13:24:56
-- **Rights**                   : CC BY 4.0
+- **Modified**                 : 2025-11-21 08:51:14
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Abschöfung, Ressourcen, Auszahlung, Lastenausgleich, Ressourcenausgleich, Finanzen , Gemeinde , Sozialhilfe 
 
 ## Load Packages

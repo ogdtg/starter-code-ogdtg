@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2023-01-25
-- **Modified**                 : 2025-08-14 13:23:41
-- **Rights**                   : CC BY 4.0
+- **Modified**                 : 2025-11-21 08:50:13
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Amtliche Vermessung, Baugeschichte, Bauten, Denkmalpflege, Denkmalschutz, Einstufung, Gebäude, Hinweisinventar, Historische Gebäude, Katasterbuch, Schutzinventar, Schutzstatus, wertvoll
 
 ## Load Packages

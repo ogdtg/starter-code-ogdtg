@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-06-29
-- **Modified**                 : 2025-02-24 16:11:29
+- **Modified**                 : 2025-11-21 10:48:37
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Energie, Förderprogramm, Förderung, Gemeinde, PolitischeGemeinde, Projekte, umgesetzt
 

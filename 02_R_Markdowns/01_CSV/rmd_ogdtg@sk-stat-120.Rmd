@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-14 13:27:10
-- **Rights**                   : CC BY 4.0
+- **Modified**                 : 2025-11-21 08:51:23
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Politik, politik, wahlzettel, wahlbeteiligung, gültig, ungültig, nationalrat, nationalratswahlen, wahlen
 
 ## Load Packages

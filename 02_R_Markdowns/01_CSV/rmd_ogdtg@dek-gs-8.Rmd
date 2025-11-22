@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2022-10-30
-- **Modified**                 : 2025-09-22 08:46:10
-- **Rights**                   : CC By 4.0
+- **Modified**                 : 2025-11-21 08:49:44
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Bildungsstatistik , Gymnasium , Kantonsschule , Lernende , Schüler, Schülerin, Sekundarschule, Anforderungsniveau, Schulgemeinde
 
 ## Load Packages

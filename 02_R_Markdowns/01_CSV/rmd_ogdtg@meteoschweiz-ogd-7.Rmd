@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Issued**                   : 
 - **Modified**                 : 2025-08-25 14:44:37
-- **Rights**                   : CC BY 4.0
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : niederschlag, wetter, meteoschweiz, meteoswiss, temperatur, tageswert
 
 ## Load Packages

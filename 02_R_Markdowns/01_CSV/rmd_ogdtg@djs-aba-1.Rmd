@@ -24,8 +24,8 @@ Der Datensatz enthält die Statistik zur Aufforderung die ausserdienstliche, jä
 ## Metadata
 
 - **Issued**                   : 2021-06-29
-- **Modified**                 : 2025-08-14 13:28:44
-- **Rights**                   : CC BY 4.0
+- **Modified**                 : 2025-11-21 08:51:54
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Schiesspflicht, Ortsgemeinde, obligatorisch, Armee, Aufforderung, Grad 
 
 ## Load Packages

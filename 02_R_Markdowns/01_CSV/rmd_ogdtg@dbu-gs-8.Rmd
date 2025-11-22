@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2019-06-16
-- **Modified**                 : 2025-08-14 13:31:40
-- **Rights**                   : CC By 4.0
+- **Modified**                 : 2025-11-21 08:52:46
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Dezibel , Fluglärm, Fluglärmmonitoring, Lärmschutz, Lärmschutzverordnung, Monitoring , Umweltschutz , Iselisberg, Region Frauenfeld, Meteorologie
 
 ## Load Packages

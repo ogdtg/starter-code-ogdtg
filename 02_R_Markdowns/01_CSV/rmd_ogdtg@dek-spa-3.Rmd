@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Issued**                   : 
 - **Modified**                 : 2023-12-15 11:33:46
-- **Rights**                   : CC BY 4.0
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Sportfonds, Fördergelder, Sportamt, Verbandsbeiträge, Sportprojekte, Sport, Verein, Erfolg, WM, EM, Cup, Gelder
 
 ## Load Packages

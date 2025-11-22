@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Issued**                   : 
 - **Modified**                 : 2025-10-07 08:06:49
-- **Rights**                   : CC BY 4.0
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : ÖV, Verkehr, Bahn, Bus, Schiff, Regionalverkehr, Öffentlicher Verkehr, Linien
 
 ## Load Packages

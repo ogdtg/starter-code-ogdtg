@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Issued**                   : 
 - **Modified**                 : 2024-07-16 14:25:34
-- **Rights**                   : CC BY 4.0
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : baum, bäume, kultur, fläche, landwirtschaft, nutzfläche, obst, getreide, weizen, gerste, soja, hafer, wiese, rübe, dinkel, getreide, obst
 
 ## Load Packages

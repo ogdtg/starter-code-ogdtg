@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-06-29
-- **Modified**                 : 2025-03-04 15:48:47
+- **Modified**                 : 2025-11-21 10:47:23
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Energiestatistik, Energieverbrauch, Gebäude, Wohngebäude, Dienstleistungsgebäude, Erdöl, Erdgas, Kehricht, CO2, Emission, CO2-Emission
 

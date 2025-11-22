@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Issued**                   : 
 - **Modified**                 : 2023-11-06 11:22:56
-- **Rights**                   : CC BY 4.0
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Jugend + Sport, Auszahlungen J+S, Sportlager, Sportangebot, Teilnehmerzahlen, Sportart, Teilnehmer, Sport, Kinder
 
 ## Load Packages

@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-12-20
-- **Modified**                 : 2025-08-14 13:29:20
-- **Rights**                   : CC BY 4.0
+- **Modified**                 : 2025-11-21 08:52:16
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Gemeinden , Politische Gemeinde, Wohnungen, Gebäude, Gebäudekategorie, Einfamilienhaus, Mehrfamilienhaus
 
 ## Load Packages

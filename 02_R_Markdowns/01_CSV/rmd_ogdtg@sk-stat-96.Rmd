@@ -24,8 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2022-01-17
-- **Modified**                 : 2025-11-04 10:59:37
-- **Rights**                   : CC BY 4.0
+- **Modified**                 : 2025-11-21 08:50:19
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : Arbeitsstätten, Beschäftigte, Beschäftigung, Vollzeitäquivalente, Unternehmen , Unternehmensstruktur, Betriebe 
 
 ## Load Packages

@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - **Issued**                   : 
 - **Modified**                 : 2025-08-26 12:32:24
-- **Rights**                   : CC BY 4.0
+- **Rights**                   : CC0 1.0
 - **Keywords**                 : luftschadstoff, luft, imissionen, stickstoff, feinstaub, luftdruck, temperatur, luftfeuchte, ostluft, ozon, wind, luftqualität
 
 ## Load Packages
