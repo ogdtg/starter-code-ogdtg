@@ -24,7 +24,7 @@ Das Kantonsgebiet ist in drei Zonen aufgeteilt, welche sich im Wesentlichen nach
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-19 18:00:39
+- **Modified**                 : 2025-11-24 19:00:10
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, energie, erdwarme
 
