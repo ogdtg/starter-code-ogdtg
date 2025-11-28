@@ -24,7 +24,7 @@ Die strategische Planung der Fliessgewässer umfasst den Gewässerlauf sowie Bau
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-19 18:00:57
+- **Modified**                 : 2025-11-27 19:00:08
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, planung, gewasser, gewassersanierung
 

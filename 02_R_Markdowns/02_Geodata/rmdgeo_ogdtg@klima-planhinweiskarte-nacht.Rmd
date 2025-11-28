@@ -24,7 +24,7 @@ Die Klima Planhinweiskarte Nacht stellt die nächtliche Überwärmung auf Siedlu
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-19 18:00:52
+- **Modified**                 : 2025-11-27 19:00:14
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, klima
 

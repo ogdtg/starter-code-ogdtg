@@ -24,7 +24,7 @@ Waldreservate gemäss WaG (SR 921.0), TG WaldG (RB 921.1) und TG WaldV (RB 921.1
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-19 18:00:56
+- **Modified**                 : 2025-11-27 19:00:10
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, reservat, waldschutz, wald, landschaftsschutz, landschaftsschutz, naturschutz, waldschutzgebiet, forstwirtschaft
 
