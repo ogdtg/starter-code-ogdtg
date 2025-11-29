@@ -24,9 +24,9 @@ Standorte aller Sportanlagen im Kanton Thurgau
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-11-27 19:00:09
+- **Modified**                 : 2025-11-28 19:00:23
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, sport, infrastruktur, sportanlage, erholung, raumplanung, freizeit
+- **Keywords**                 : geodaten, sport, erholung, sportanlage, infrastruktur, freizeit, raumplanung
 
 ## Load Packages
 

@@ -26,7 +26,7 @@ Beinhaltet jene Flächen, die mit Reben bepflanzt sind, sich in Erneuerung befin
 - **Issued**                   : 
 - **Modified**                 : 2022-04-04 00:00:00
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, rebbau, landwirtschaft, gebiet, agrarproduktion, weinbau, wirtschaft, wirtschaftliche-rechte
+- **Keywords**                 : rebbau, geodaten, gebiet, wirtschaftliche-rechte, wirtschaft, landwirtschaft, agrarproduktion, weinbau
 
 ## Load Packages
 

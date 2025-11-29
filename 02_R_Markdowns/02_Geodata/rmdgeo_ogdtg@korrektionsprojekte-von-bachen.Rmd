@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-11-27 19:00:13
+- **Modified**                 : 2025-11-28 19:00:28
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, gewasser, flussregulierung, fliessgewasser
 
