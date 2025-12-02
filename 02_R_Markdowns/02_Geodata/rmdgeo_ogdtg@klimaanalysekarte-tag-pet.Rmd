@@ -24,7 +24,7 @@ Die Klimaanalysekarte Tag PET stellt die physiologisch äquivalente Temperatur (
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-08-19 18:00:52
+- **Modified**                 : 2025-12-01 19:00:16
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, klima
 

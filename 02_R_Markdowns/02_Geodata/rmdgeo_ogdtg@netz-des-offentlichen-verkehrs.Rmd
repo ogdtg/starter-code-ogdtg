@@ -24,9 +24,9 @@ Beinhaltet Bushaltestellen und Bus-/ Bahnlinien und deren Berechnungsdistanzen u
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-11-28 19:00:18
+- **Modified**                 : 2025-12-01 19:00:20
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, offentlicher-verkehr, eisenbahn, eisenbahnnetz, pendeln, bahnhof, busbahnhof, verkehr, schienenverkehr, personenverkehr
+- **Keywords**                 : geodaten, offentlicher-verkehr, eisenbahn, bahnhof, pendeln, busbahnhof, eisenbahnnetz, schienenverkehr, personenverkehr, verkehr
 
 ## Load Packages
 

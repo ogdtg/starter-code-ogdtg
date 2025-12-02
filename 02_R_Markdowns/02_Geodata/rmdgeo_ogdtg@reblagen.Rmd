@@ -26,7 +26,7 @@ Dieser Datensatz beinhaltet die Zusatzbezeichnungen der Weinproduktion nach Rebl
 - **Issued**                   : 
 - **Modified**                 : 2022-12-21 00:00:00
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, rebbau, wirtschaftliche-rechte, wirtschaft, gebiet, landwirtschaft, agrarproduktion, weinbau
+- **Keywords**                 : rebbau, geodaten, wirtschaft, gebiet, agrarproduktion, landwirtschaft, wirtschaftliche-rechte, weinbau
 
 ## Load Packages
 

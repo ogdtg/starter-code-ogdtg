@@ -24,9 +24,9 @@ Mit dem im Gesetz über Strassen und Wege (RB 725.1) sind die Kantonsstrassen in
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-10-06 18:00:17
+- **Modified**                 : 2025-12-01 19:00:14
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, fahrweg-streckenfuhrung, strassennetz, offentliche-strasse, strasse, verkehrsweg, verkehr, strassenverkehr
+- **Keywords**                 : geodaten, fahrweg-streckenfuhrung, verkehr, verkehrsweg, strasse, offentliche-strasse, strassennetz, strassenverkehr
 
 ## Load Packages
 
