@@ -26,7 +26,7 @@ Gefahrenkarte und Nebenprodukte: Darstellung der Gefährdung aufgrund der Prozes
 - **Issued**                   : 
 - **Modified**                 : 2023-04-21 00:00:00
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, naturrisiko, risikobewertung, naturgefahr
+- **Keywords**                 : geodaten, naturrisiko, naturgefahr, risikobewertung
 
 ## Load Packages
 
