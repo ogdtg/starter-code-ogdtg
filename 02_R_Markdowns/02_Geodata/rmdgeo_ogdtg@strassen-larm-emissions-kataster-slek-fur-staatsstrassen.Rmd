@@ -26,7 +26,7 @@ Strassen-Lärm-Emissions-Kataster (SLEK) im Kanton Thurgau mit Emissionspegel Ta
 - **Issued**                   : 
 - **Modified**                 : 2025-06-03 00:00:00
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : immissionsbelastung, larmbelastung, strassenverkehrslarm, verkehrslarmschutz, umweltbelastung-durch-verkehr, geodaten
+- **Keywords**                 : umweltbelastung-durch-verkehr, strassenverkehrslarm, verkehrslarmschutz, immissionsbelastung, larmbelastung, geodaten
 
 ## Load Packages
 
