@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-01-05 09:00:32
+- **Modified**                 : 2026-01-07 09:00:45
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Gewässerqualität, fliessgewasser, gewasser, grundwasserschutz, temperatur, wasserstand, Bodensee , fluss, untersee, abfluss, pegel, hydrologie
 
