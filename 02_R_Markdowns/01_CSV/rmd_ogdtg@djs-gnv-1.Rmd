@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-06-30
-- **Modified**                 : 2025-11-21 08:51:27
+- **Modified**                 : 2026-01-22 13:04:12
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Notariat, Gesellschaftsgründung, Vertrag, Beurkundung, Erklärung, Testamentseröffnung, nachlass, Bürgschaft, Bezirk, Erbbescheinigung
 

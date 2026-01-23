@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-06-29
-- **Modified**                 : 2025-11-21 08:52:51
+- **Modified**                 : 2026-01-22 13:04:12
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Beurkundung, Kaufvertrag, Dienstbarkeit, Rechtsgeschäft, Grundstück, Grundbuch, Bezirk
 
