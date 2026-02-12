@@ -24,7 +24,7 @@ Der Geobasisdatensatz beinhaltet Grundwasserschutzareale gemäss Gewässerschutz
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-12-01 19:00:13
+- **Modified**                 : 2026-02-11 19:00:08
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, landschaftsschutz, landschaftsschutz, naturschutz, grundwasserschutz
 
