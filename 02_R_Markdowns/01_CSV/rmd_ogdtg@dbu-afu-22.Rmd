@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-03-27 15:30:16
+- **Modified**                 : 2026-03-30 14:30:34
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : thg, treibhausgasemissionen, negativemissionstechnologie, klimastrategie
 

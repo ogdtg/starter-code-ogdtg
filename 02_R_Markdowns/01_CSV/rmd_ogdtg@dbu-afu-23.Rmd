@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-03-27 15:42:53
+- **Modified**                 : 2026-03-30 14:25:47
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : treibhausgase, gebäude, kehrichtverbrennung, abfall, landwirtschaft, energie, synthetische gase
 
