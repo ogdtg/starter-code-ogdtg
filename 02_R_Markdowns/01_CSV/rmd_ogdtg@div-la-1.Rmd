@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-06-29
-- **Modified**                 : 2025-11-21 10:49:07
+- **Modified**                 : 2026-04-02 13:53:12
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Direktzahlung, Direktzahlungsverordnung , Einzelkulturbeitrag, Getreidezulage , Landwirtschaft , Betriebsstrukturerhebung 
 
