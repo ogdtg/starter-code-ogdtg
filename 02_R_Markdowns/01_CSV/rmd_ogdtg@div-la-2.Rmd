@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-10-28
-- **Modified**                 : 2026-04-02 13:46:31
+- **Modified**                 : 2026-04-16 09:58:51
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Tierbestand, Tierbestände, Tierkategorie, Standort, Gemeinde, Tierkorridor, Betriebsstrukturerhebung
 
