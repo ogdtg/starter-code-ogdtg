@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-11-22
-- **Modified**                 : 2026-04-07 06:51:27
+- **Modified**                 : 2026-04-23 13:06:56
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bildungsstatistik, Geschlecht, Nationalität, Schüler, Schülerin, Lernende, Volksschule, Sekundarstufe, Primarschule, Kindergarten, Schulgemeinde
 

@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2026-04-01 08:33:38
+- **Modified**                 : 2026-04-23 13:11:25
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bevölkerung, Wohnbevölkerung , Ständige Wohnbevölkerung, Bezirk , Staatsangehörigkeit , Nationalität, Schweiz, Ausland
 

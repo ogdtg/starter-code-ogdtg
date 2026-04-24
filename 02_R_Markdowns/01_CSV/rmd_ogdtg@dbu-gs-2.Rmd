@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2019-06-16
-- **Modified**                 : 2025-04-16 11:00:27
+- **Modified**                 : 2026-04-23 12:55:48
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Balterswil , Dezibel , Fluglärm, Fluglärmmonitoring, Hinterthurgau , Lärmschutz, Lärmschutzverordnung, Monitoring , Umweltschutz 
 

@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-12-20
-- **Modified**                 : 2026-02-11 15:49:23
+- **Modified**                 : 2026-04-23 12:56:11
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Gebäude, Gemeinde , Politische Gemeinde, Wohnungen, Wohnnutzung
 

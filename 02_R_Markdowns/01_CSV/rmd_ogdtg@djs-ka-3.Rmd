@@ -24,7 +24,7 @@ Der Datensatz beinhaltet die erfassten und oder durchgeführten Zahlungsbefehle,
 ## Metadata
 
 - **Issued**                   : 2022-04-11
-- **Modified**                 : 2025-11-21 08:52:53
+- **Modified**                 : 2026-04-23 12:50:50
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Zahlungsbefehl, Pfändungsvollzug, Verwertung, Verwaltungsgrenze , Bezirk , Betreibung
 

@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2019-10-24
-- **Modified**                 : 2025-11-21 08:53:44
+- **Modified**                 : 2026-04-23 13:03:23
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Eidgenössische Wahlen, eidgenössisch, 2019, Nationalrat, Nationalratswahlen, Wahlen , panaschieren, Panaschierstatistik 
 

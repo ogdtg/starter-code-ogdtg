@@ -24,7 +24,7 @@ Der Datensatz enthält die Daten zur Erfolgsrechnung und Investitionsrechnung de
 ## Metadata
 
 - **Issued**                   : 2019-11-18
-- **Modified**                 : 2025-11-21 10:47:00
+- **Modified**                 : 2026-04-23 13:08:18
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Erfolgsrechnung , Haben , Soll , Investionsrechnung , Kantonsfinanzen , Konto , Staatsrechnung 
 

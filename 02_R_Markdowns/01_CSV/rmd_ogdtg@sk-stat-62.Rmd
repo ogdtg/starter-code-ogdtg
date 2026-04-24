@@ -24,7 +24,7 @@ Der Datensatz beinhaltet die ständige Wohnbevölkerung in Personen nach Gemeind
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2026-04-01 08:33:36
+- **Modified**                 : 2026-04-23 13:11:36
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Bevölkerung, Wohnbevölkerung, Ständige Wohnbevölkerung, Gemeinde , Bezirk , Konfession , evangelisch, katholisch, andere Konfession, konfessionslos
 

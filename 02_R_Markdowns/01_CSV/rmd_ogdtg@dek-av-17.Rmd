@@ -24,7 +24,7 @@ Die Datensätze enthalten die Finanzkennzahlen der Schulgemeinden im Kanton Thur
 ## Metadata
 
 - **Issued**                   : 2020-04-21
-- **Modified**                 : 2025-11-21 08:51:57
+- **Modified**                 : 2026-04-23 12:55:18
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Schulfinanzen , Schulgemeinde, Kennzahlen , Finanzkennzahlen , Finanzen 
 

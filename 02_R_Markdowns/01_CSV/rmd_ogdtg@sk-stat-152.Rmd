@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-04-07 12:52:40
+- **Modified**                 : 2026-04-23 13:10:15
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : steuern, steuerkraft, staatssteuerertrag, steuerfuss, brutto, netto, juristisch, zinsen, bezugsprovision, netto
 

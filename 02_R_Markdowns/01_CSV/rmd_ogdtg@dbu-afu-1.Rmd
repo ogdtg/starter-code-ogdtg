@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-11-21 08:51:05
+- **Modified**                 : 2026-04-23 12:57:51
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : gewasserqualitat, phospor, Nitrat, Nitrit, Thur, bodensee, Murg, ammonium, sauerstoff, fliessgewasser, see, fluss
 
