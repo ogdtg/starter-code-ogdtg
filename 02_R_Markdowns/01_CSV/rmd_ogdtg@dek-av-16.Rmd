@@ -24,9 +24,9 @@ Die Datensätze enthalten Zahlen zur Übersicht über die Finanzlage des Jahres 
 ## Metadata
 
 - **Issued**                   : 2019-11-18
-- **Modified**                 : 2026-04-23 13:13:20
+- **Modified**                 : 2026-05-04 08:18:21
 - **Rights**                   : CC0 1.0
-- **Keywords**                 : Eigenkapital, Finanzlage, Finanzkennzahlen , Finanzausgleich , Schulfinanzen , Volksschule , Schulgemeinde, Steuerbelastung , Nettoverschuldung , Gemeinde 
+- **Keywords**                 : Eigenkapital, Finanzlage, Finanzkennzahlen, Finanzausgleich, Schulfinanzen, Volksschule, Schulgemeinde, Steuerbelastung, Nettoverschuldung, Gemeinde
 
 ## Load Packages
 
