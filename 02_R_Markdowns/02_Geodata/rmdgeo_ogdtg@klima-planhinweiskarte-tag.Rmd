@@ -24,7 +24,7 @@ Die Klima Planhinweiskarte Tag stellt die Wärmebelastung auf Siedlungs- und Ver
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-05-07 18:00:19
+- **Modified**                 : 2026-05-11 18:00:27
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, klima
 

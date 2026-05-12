@@ -24,9 +24,9 @@ Flächen, für die ein kausal begründeter Hinweis vorliegt, dass Belastungen de
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-05-07 18:00:20
+- **Modified**                 : 2026-05-11 18:00:22
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, altlast, boden, boden, bodenbelastung
+- **Keywords**                 : geodaten, altlast, boden, bodenbelastung
 
 ## Load Packages
 

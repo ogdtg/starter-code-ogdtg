@@ -24,7 +24,7 @@ Die vorliegende Karte liefert erstmals und systematisch über den gesamten Kanto
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-05-07 18:00:06
+- **Modified**                 : 2026-05-11 18:00:23
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, bodenfruchtbarkeit, bodenkarte, bodendegradation
 

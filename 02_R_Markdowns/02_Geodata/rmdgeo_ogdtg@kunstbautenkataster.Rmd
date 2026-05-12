@@ -24,7 +24,7 @@ Beinhaltet alle Kunstbauten des Kantons Thurgau
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-05-07 18:00:14
+- **Modified**                 : 2026-05-11 18:00:26
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, verkehrsinfrastruktur, bauwerk, verkehr
 

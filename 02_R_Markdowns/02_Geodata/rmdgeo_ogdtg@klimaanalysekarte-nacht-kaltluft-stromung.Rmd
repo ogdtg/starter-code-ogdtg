@@ -24,7 +24,7 @@ Die Klimaanalysekarte Nacht Kaltluft Strömung zeigt das Strömungsfeld in 10 m 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-05-07 18:00:08
+- **Modified**                 : 2026-05-11 18:00:25
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, klima
 
