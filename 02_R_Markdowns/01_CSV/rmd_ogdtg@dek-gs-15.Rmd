@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-05-29 11:00:30
+- **Modified**                 : 2026-05-30 11:00:03
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : ausbildung, Bildung, gymnasien, lernende, matura, mittelschule, berufsmaturitaet, gsdek
 
