@@ -19,14 +19,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Der Datensatz zeigt die Zentren aktiver Biberreviere im Kanton Thurgau zum letzten Erhebungszeitpunkt im Winter 2017/18. Die systematische Bestandeserhebung erfolgt seit Winter 2007/08 jeweils im Abstand von 5 Jahren nach einer schweizweit standardisierten Methode. Bei der letzten Erhebung wurden total 900 km Gewässerlänge kartiert. Die Revierzentren werden anhand der im Feld kartierten Biberspuren (Dämme, Baue, Frass- und Fussspuren) theoretisch abgeleitet. Der Sozialstatus der Reviere (Einzel-, Paar- oder Familienrevier) wird gemäss seiner Veränderung gegenüber der letzten Erhebung ausgewiesen.
+Der Datensatz zeigt die Zentren der Biberreviere im Kanton Thurgau. Die systematische Bestandeserhebung erfolgt seit Winter 2007/08 jeweils im Abstand von 5 Jahren nach einer schweizweit standardisierten Methode. Bei der letzten Erhebung wurden total 900 km Gewässerlänge kartiert. Die Revierzentren werden anhand der im Feld kartierten Biberspuren (Dämme, Baue, Frass- und Fussspuren) theoretisch abgeleitet.
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2020-08-06 00:00:00
+- **Modified**                 : 2022-12-31 00:00:00
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, tierokologie, tierbestand, tierhabitat, tierart
+- **Keywords**                 : geodaten, tierokologie, tierart, tierbestand, tierhabitat
 
 ## Load Packages
 
