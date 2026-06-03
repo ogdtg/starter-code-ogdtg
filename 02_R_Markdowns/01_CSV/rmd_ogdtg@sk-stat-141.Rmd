@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält Daten zu den Mitgliedern des Grossen Rates, welche seit 2008 politische Vorstösse im Grossen Rat des Kantons Thurgau eingereicht haben. Über die Geschäftsnummer kann der Datensatz mit weiteren Datensätzen zum Grossen Rat wie den <a href='https://data.tg.ch/explore/dataset/sk-stat-140/information/' target='_blank'>politischen Geschäften</a> oder den <a href='https://data.tg.ch/explore/dataset/sk-stat-139/information/' target='_blank'>Dokumenten </a>verbunden ('gejoint') werden.</p><p>Seit 26.05.2026 stammen die Daten von <a href='https://parlament.tg.ch/' style='background-color: rgb(255, 255, 255); font-family: sans-serif; color: rgb(51, 85, 255); font-size: 14px; font-weight: 400;' target='_blank'>https://parlament.tg.ch/</a> und werden täglich automatisiert aktualisiert. Die elektronische Geschäftsdatenbank des Grossen Rats (GRGEKO) wurde damit abgelöst. Durch die Umstellung können ab der Legislatur 2016 Aussagen über den Erstunterzeichnenden eines politischen Vorstoss gemacht werden.</p>
+<p>Der Datensatz enthält Daten zu den Mitgliedern des Grossen Rates, welche seit 1992 politische Vorstösse im Grossen Rat des Kantons Thurgau eingereicht haben. Über die Geschäftsnummer kann der Datensatz mit weiteren Datensätzen zum Grossen Rat wie den <a href='https://data.tg.ch/explore/dataset/sk-stat-140/information/' target='_blank'>politischen Geschäften</a> oder den <a href='https://data.tg.ch/explore/dataset/sk-stat-139/information/' target='_blank'>Dokumenten </a>verbunden ('gejoint') werden.</p><p>Seit 26.05.2026 stammen die Daten von <a href='https://parlament.tg.ch/' style='background-color: rgb(255, 255, 255); font-family: sans-serif; color: rgb(51, 85, 255); font-size: 14px; font-weight: 400;' target='_blank'>https://parlament.tg.ch/</a> und werden täglich automatisiert aktualisiert. Die elektronische Geschäftsdatenbank des Grossen Rats (GRGEKO) wurde damit abgelöst. Durch die Umstellung können ab der Legislatur 2016 Aussagen über den Erstunterzeichnenden eines politischen Vorstoss gemacht werden.</p>
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-06-01 13:42:30
+- **Modified**                 : 2026-06-02 11:57:19
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Antrag, Einfache Anfrage, Grosser Rat, GRGEKO, Interpellation, Kantonsparlament, Leistungsmotion, Motion, Parlament, Parlamentarische Initiative, Petition, Vorstoss, Vorstösser, Vorstösserin, Partei, Beschluss, Grossrat, Grossrätin, Kantonsrat, grdata
 
