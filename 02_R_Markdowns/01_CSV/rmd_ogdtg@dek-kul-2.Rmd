@@ -19,12 +19,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält die Anzahl Eintritte aller Thurgauer Museen und Sammlungen. Berücksichtigt werden alle Museen, die im entsprechenden Kalenderjahr 500 und mehr Eintritte verzeichnet haben.  </p><p>Die Daten werden vom Verein MUSE.TG gesammelt. Weitere Informationen zum Verein finden Sie auf deren Webseite unter https://www.muse.tg/ueber-uns.html.</p><p></p><p>Datenquelle: Kulturamt Kanton Thurgau und MUSE.TG</p>
+<p>Der Datensatz enthält die Anzahl Eintritte aller Thurgauer Museen und Sammlungen. Berücksichtigt werden alle Museen, die im entsprechenden Kalenderjahr 500 und mehr Eintritte verzeichnet haben.  </p><p>Die Daten werden vom Verein MUSE.TG gesammelt. Weitere Informationen zum Verein finden Sie auf deren Webseite unter https://www.muse.tg/ueber-uns.html.</p><p></p><p>Datenquelle: Kulturamt Kanton Thurgau und <span style='font-family: Helvetica, sans-serif; font-size: 12pt;'>MUSE.TG – Museen im Thurgau</span><br></p>
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-04-23 12:52:34
+- **Modified**                 : 2026-06-04 04:53:37
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : museen, thurgau, eintritte, sammlung, museum, kultur
 
