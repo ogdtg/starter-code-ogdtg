@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-05-05 08:18:03
+- **Modified**                 : 2026-06-14 15:19:31
 - **Rights**                   : CC BY 4.0
 - **Keywords**                 : abstimmung, kantonal, stimmkanal, urne, vorzeitig, evoting, e-voting, brief, brieflich, gemeinden, auslandschweizer
 
