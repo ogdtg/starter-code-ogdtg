@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-06-30
-- **Modified**                 : 2026-04-23 13:12:13
+- **Modified**                 : 2026-07-02 05:28:48
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Schulsteuerfuss, Schulgemeinde, Steuerfüsse, Steuerfuss , Schulfinanzen 
 
