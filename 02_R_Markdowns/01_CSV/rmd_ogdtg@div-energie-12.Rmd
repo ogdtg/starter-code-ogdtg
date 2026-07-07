@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2020-06-29
-- **Modified**                 : 2026-04-23 12:53:06
+- **Modified**                 : 2026-07-07 06:15:23
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : Energiestatistik, Energieverbrauch, Hauptheizsystem, Gemeinde, Erdgasfeuerung, Elektroheizung, Holzfeuerung, Wärmenetzanschluss, Wärmepumpe, Solarwärme, Abwärme, Biogas, Biomasse
 
