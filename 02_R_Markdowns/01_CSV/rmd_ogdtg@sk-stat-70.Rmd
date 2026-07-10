@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2017-07-03
-- **Modified**                 : 2026-07-07 10:23:46
+- **Modified**                 : 2026-07-09 12:55:04
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Gemeinde, Gemeindesteuerfüsse, Gemeindesteuerfuss, Gesamtsteuerfüsse, Gesamtsteuerfuss, Natürliche Personen, Juristische Personen, Steuerfuss, Steuerfüsse, Steuerbelastung
 

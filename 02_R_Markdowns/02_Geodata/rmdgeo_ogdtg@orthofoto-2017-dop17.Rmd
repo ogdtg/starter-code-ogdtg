@@ -24,7 +24,7 @@ Digitales multispektrales Orthofotomosaik des Kantons Thurgau
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-06-02 11:51:17
+- **Modified**                 : 2026-07-09 18:00:27
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, luftbild
 
