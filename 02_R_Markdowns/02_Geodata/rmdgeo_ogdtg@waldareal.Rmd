@@ -24,7 +24,7 @@ Darstellung des Waldareals gemäss Waldgesetzgebung Thurgau.
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-06-02 11:51:24
+- **Modified**                 : 2026-07-20 18:00:26
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, wald, forstrecht, forst
 

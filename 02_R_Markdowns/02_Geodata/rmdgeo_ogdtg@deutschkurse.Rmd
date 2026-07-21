@@ -24,7 +24,7 @@ Angebote von Deutschkursen im Kanton Thurgau
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-06-02 11:51:16
+- **Modified**                 : 2026-07-20 18:00:18
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, sprache, weiterbildung, bevolkerungsmigration, kultur, gesellschaft, bevolkerung
 

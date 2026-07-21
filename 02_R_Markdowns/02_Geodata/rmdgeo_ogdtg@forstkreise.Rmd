@@ -24,7 +24,7 @@ Verwaltungseinheit, dem Forstamt unterstellt; besteht aus mehreren Forstrevieren
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-06-02 11:51:20
+- **Modified**                 : 2026-07-20 18:00:22
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fauna, flora, wald, forstwirtschaft
 
