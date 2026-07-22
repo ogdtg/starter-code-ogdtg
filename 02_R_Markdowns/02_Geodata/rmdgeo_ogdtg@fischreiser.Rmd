@@ -24,7 +24,7 @@ Zum Schutz für Jungfische wurden im Untersee über 100 Reiser erstellt. Die Aus
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-06-02 11:51:17
+- **Modified**                 : 2026-07-21 07:15:28
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fischerei, fischereirecht
 

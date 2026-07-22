@@ -24,7 +24,7 @@ Definition der Waldgrenze ausserhalb von Bauzonen sowie gegenüber Bauzonen
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-07-20 18:00:17
+- **Modified**                 : 2026-07-21 07:15:28
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, entwicklungsplanung, raumplanung, forstwirtschaft
 

@@ -24,7 +24,7 @@ Definiert den Perimeter des nationalen Schutzgebietes und legt die Behandlung de
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-06-02 11:51:22
+- **Modified**                 : 2026-07-21 07:15:34
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, naturschutz, landschaftsschutz, landschaftsschutz, raumplanung, naturschutzgebiet, nationales-umweltschutzprogramm, amphibien
 
