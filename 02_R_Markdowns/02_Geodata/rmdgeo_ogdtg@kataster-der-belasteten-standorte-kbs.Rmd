@@ -24,7 +24,7 @@ Kataster der belasteten Standorte (KbS) wie zum Beispiel ehemalige Deponien, Sch
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-07-21 07:15:29
+- **Modified**                 : 2026-07-28 05:05:46
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, umweltschutz, altlast
 

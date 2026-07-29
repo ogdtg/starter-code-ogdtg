@@ -24,7 +24,7 @@ Unterteilung der Wälder in Standorteinheiten (= potenzielle natürliche Vegetat
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-07-21 07:15:27
+- **Modified**                 : 2026-07-28 05:05:44
 - **Rights**                   : CC By 4.0
 - **Keywords**                 : geodaten, fauna, flora, wald, forstwirtschaft
 
