@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-08-11 02:29:50
+- **Modified**                 : 2026-08-13 02:49:55
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Frauenfeld , parken, parkplatz, marktplatz, app, live, einfahrt, ausfahrt, standzeit, Marktplatz, Oberes Mätteli, Altstatdt, Zürcherstrasse, Parquery, Region Frauenfeld, regio frauenfeld app, frei, belegt, belegung, smart, parking, pilotprojekt, kamera, KI, künstliche, intelligenz
 
