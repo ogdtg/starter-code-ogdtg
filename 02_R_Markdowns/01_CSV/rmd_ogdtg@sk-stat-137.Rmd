@@ -19,14 +19,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-<p>Der Datensatz enthält alle Voten (Redebeiträge) sowie Informationen zur jeweiligen Sprecherin oder zum jeweiligen Sprecher aus den Sitzungen des Grossen Rats des Kantons Thurgau seit dem 28.05.2008. Jeder Redebeitrag wird sowohl der Sprecherin oder dem Sprecher als auch dem jeweiligen Tagesordnungspunkt und der entsprechenden Geschäftsnummer (sofern vorhanden) zugeordnet.</p><p>Der Datensatz wird aus den ausführlichen Protokollen zu den Sitzungen des Grossen Rats, welche von den Protokollführenden der Parlamentsdienste verfasst werden und als PDF vorliegen, generiert. <br></p><p>Der vorliegende Datensatz wird nicht abschliessend kontrolliert. Daher gilt es zu beachten, dass fehlerhafte Datenpunkte im Datensatz enthalten sein können. Weiter muss beachtet werden, dass die Inhalte in den offiziellen, ausführlichen Protokollen, welche auf parlament.tg.ch als PDF-Dokumente veröffentlicht werden, massgebend sind. <br></p><p>  </p>
+<p>Der Datensatz enthält alle Voten (Redebeiträge) sowie Informationen zur jeweiligen Sprecherin oder zum jeweiligen Sprecher aus den Sitzungen des Grossen Rats des Kantons Thurgau seit dem 28.05.2008. Jeder Redebeitrag wird sowohl der Sprecherin oder dem Sprecher als auch dem jeweiligen Tagesordnungspunkt und der entsprechenden Geschäftsnummer (sofern vorhanden) zugeordnet.</p><p>Der Datensatz wird aus den ausführlichen Protokollen zu den Sitzungen des Grossen Rats, welche von den Protokollführenden der Parlamentsdienste verfasst werden und als PDF vorliegen, generiert. <br></p><p>Der vorliegende Datensatz wird nicht abschliessend kontrolliert. Daher gilt es zu beachten, dass fehlerhafte Datenpunkte im Datensatz enthalten sein können. Weiter muss beachtet werden, dass die Inhalte in den offiziellen, ausführlichen Protokollen, welche auf parlament.tg.ch als PDF-Dokumente veröffentlicht werden, massgebend sind. <br></p><p> </p>
 
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-05-14 06:11:18
+- **Modified**                 : 2026-09-24 16:43:33
 - **Rights**                   : CC0 1.0
-- **Keywords**                 : Grosser Rat, grosser, rat, Kantonsrat, sitzung, Parlament , rede, sprecher, mitglied, präsident, protokoll, ausführlich, pdf, beitrag, grdata
+- **Keywords**                 : Grosser Rat, grosser, rat, Kantonsrat, sitzung, Parlament, rede, sprecher, mitglied, präsident, protokoll, ausführlich, pdf, beitrag, grdata
 
 ## Load Packages
 

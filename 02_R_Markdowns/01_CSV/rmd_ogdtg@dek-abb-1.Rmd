@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2023-04-27 08:00:23
+- **Modified**                 : 2026-09-25 05:41:22
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : grundbildung, bildung, abschluss, abschlüsse, ausbildung, berufsbildung, beruf, handwerk, attest, prüfung, repetent
 
