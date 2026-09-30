@@ -24,9 +24,9 @@ Strassen-Lärm-Belastungs-Kataster für Haupt- und übrige Strassen. Er gibt Aus
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2025-05-07 00:00:00
+- **Modified**                 : 2026-08-28 00:00:00
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, verkehrslarm, larmbelastung
+- **Keywords**                 : geodaten, larmbelastung, verkehrslarm
 
 ## Load Packages
 
