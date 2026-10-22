@@ -24,9 +24,9 @@ Kombination der Daten aus den hydrologischen Messnetzen Grundwasser und Oberflä
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-07-28 05:05:49
+- **Modified**                 : 2026-10-21 18:00:22
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, messstellennetz, hydrologie, hydrologie, messung, gewasser
+- **Keywords**                 : geodaten, messstellennetz, hydrologie, hydrometrie, messung, gewasser
 
 ## Load Packages
 
