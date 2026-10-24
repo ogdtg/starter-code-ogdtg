@@ -24,9 +24,9 @@ Die dem Waldentwicklungsplan hinzugefügten Zusatzkarten über Forstbetriebe und
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-10-21 18:00:15
+- **Modified**                 : 2026-10-23 18:00:16
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, biodiversitat-im-wald, naturgefahr, forstwirtschaft, forstbetriebsgemeinschaft, erholung, wald
+- **Keywords**                 : geodaten, biodiversitat-im-wald, wald, erholung, forstwirtschaft, forstbetriebsgemeinschaft, naturgefahr
 
 ## Load Packages
 

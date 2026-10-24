@@ -24,9 +24,9 @@ Informationen zu Pegel- und Abflussmessungen von Oberflächengewässern im Kanto
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-10-21 18:00:24
+- **Modified**                 : 2026-10-23 18:00:25
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, gewasser, messstellennetz, hydrometrie, hydrologie, messung
+- **Keywords**                 : geodaten, gewasser, messstellennetz, hydrologie, messung, hydrometrie
 
 ## Load Packages
 

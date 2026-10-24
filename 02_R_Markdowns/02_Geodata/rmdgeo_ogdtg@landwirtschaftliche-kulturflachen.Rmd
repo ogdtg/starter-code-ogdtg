@@ -24,9 +24,9 @@ Die landwirtschaftlichen Kulturflächen beinhalten die provisorischen Nutzungsfl
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-10-21 18:00:20
+- **Modified**                 : 2026-10-23 18:00:20
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : landwirtschaftliche-bewirtschaftung, geodaten, landwirtschaft, landwirtschaftliches-unternehmen, umweltsubvention, landwirtschaftliche-nutzung, landschaftspflege, agrarmanagement
+- **Keywords**                 : landwirtschaftliche-bewirtschaftung, geodaten, landwirtschaft, landwirtschaftliches-unternehmen, agrarmanagement, landschaftspflege, landwirtschaftliche-nutzung, umweltsubvention
 
 ## Load Packages
 
