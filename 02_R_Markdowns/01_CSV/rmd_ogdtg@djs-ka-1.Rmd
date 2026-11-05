@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Metadata
 
 - **Issued**                   : 2021-06-29
-- **Modified**                 : 2026-11-02 11:17:33
+- **Modified**                 : 2026-11-04 11:24:55
 - **Rights**                   : CC0 1.0
 - **Keywords**                 : Zahlungsbefehl, Pfändungsvollzug, Verwertung, Verwaltungsgrenze, Bezirk, Betreibung
 
