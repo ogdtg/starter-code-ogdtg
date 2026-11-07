@@ -24,9 +24,9 @@ Informationen von Meteorologie Messstellen im Kanton Thurgau.
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-10-23 18:00:27
+- **Modified**                 : 2026-11-06 19:00:17
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, hydrologie, hydrometrie, messstellennetz, messung, gewasser
+- **Keywords**                 : geodaten, hydrologie, gewasser, messung, messstellennetz, hydrometrie
 
 ## Load Packages
 

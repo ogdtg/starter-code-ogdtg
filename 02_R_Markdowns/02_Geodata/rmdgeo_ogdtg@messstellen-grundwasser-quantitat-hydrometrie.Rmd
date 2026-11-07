@@ -24,9 +24,9 @@ Informationen über hydrometrische Grundwasser-Messstellen im Kanton Thurgau. De
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-10-21 18:00:24
+- **Modified**                 : 2026-11-06 19:00:16
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, gewasser, messung, hydrologie, messstellennetz
+- **Keywords**                 : geodaten, gewasser, messstellennetz, hydrologie, messung
 
 ## Load Packages
 

@@ -24,9 +24,9 @@ Die im Waldentwicklungsplan behördenverbindlich festgelegten Waldflächen zum S
 ## Metadata
 
 - **Issued**                   : 
-- **Modified**                 : 2026-11-05 19:00:23
+- **Modified**                 : 2026-11-06 19:00:13
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : geodaten, naturgefahr, erholung, forstbetriebsgemeinschaft, wald, biodiversitat-im-wald, forstwirtschaft
+- **Keywords**                 : geodaten, naturgefahr, forstwirtschaft, biodiversitat-im-wald, wald, erholung, forstbetriebsgemeinschaft
 
 ## Load Packages
 
