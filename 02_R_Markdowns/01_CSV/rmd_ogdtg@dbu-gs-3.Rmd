@@ -19,14 +19,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Description
 
-Der vorliegende Datensatz enthält die meteorologischen Daten zur Fluglärm-Messstation in Balterswil TG. Die Sinus AG betreibt die Messstation im Auftrag des kantonalen Departements für Bau und Umwelt neben einem Wohnquartier in Balterswil TG, weil der Kanton Thurgau im An- und Abflugbereich des Flughafens Zürich liegt. In die Messstation integriert ist eine Wetterstation, die Windgeschwindigkeit, Windrichtung, Temperatur, Feuchtigkeit, Luftdruck und Tages-Niederschlag aufzeichnet.
+<p><span style='font-weight: bolder;'>Dieser Datensatz wird nicht mehr aktualisiert, da das Fluglärmmonitoring eingestellt wurde.</span></p><p><span style='font-weight: bolder;'><br></span>Der vorliegende Datensatz enthält die meteorologischen Daten zur Fluglärm-Messstation in Balterswil TG. Die Sinus AG betreibt die Messstation im Auftrag des kantonalen Departements für Bau und Umwelt neben einem Wohnquartier in Balterswil TG, weil der Kanton Thurgau im An- und Abflugbereich des Flughafens Zürich liegt. In die Messstation integriert ist eine Wetterstation, die Windgeschwindigkeit, Windrichtung, Temperatur, Feuchtigkeit, Luftdruck und Tages-Niederschlag aufzeichnet.</p>
 
 ## Metadata
 
 - **Issued**                   : 2019-06-16
-- **Modified**                 : 2026-07-07 05:30:54
+- **Modified**                 : 2026-11-19 09:47:28
 - **Rights**                   : CC By 4.0
-- **Keywords**                 : Balterswil , Dezibel , Fluglärm, Fluglärmmonitoring, Hinterthurgau , Lärmschutz, Lärmschutzverordnung, Monitoring , Umweltschutz , Meteorologie
+- **Keywords**                 : Balterswil, Dezibel, Fluglärm, Fluglärmmonitoring, Hinterthurgau, Lärmschutz, Lärmschutzverordnung, Monitoring, Umweltschutz, Meteorologie
 
 ## Load Packages
 
